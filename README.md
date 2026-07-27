@@ -37,15 +37,19 @@ For detailed architectural decisions, see [ADR Documentation](docs/ADR/).
 ```
 ├── backend/           # FastAPI application and ingestion pipeline
 │   ├── app/          # Main API and services
+│   ├── alembic/      # Database migrations (Alembic)
 │   ├── ingestion/    # Data scraping and enrichment pipeline
 │   ├── llm/          # LLM integration and prompts
-│   └── tests/        # Test suite
+│   ├── tests/        # Test suite
+│   └── db/           # Raw SQL schemas (reference)
 ├── frontend/         # Next.js application
 │   ├── app/          # Pages and routes
 │   ├── components/   # Reusable React components
 │   └── lib/          # Utilities and API clients
 ├── infrastructure/   # AWS and Docker configurations
 ├── docs/             # Documentation and ADRs
+│   ├── ADR/          # Architecture Decision Records
+│   └── alembic/db/   # Database migration guides
 └── scripts/          # Utility scripts
 ```
 
@@ -84,18 +88,21 @@ For detailed architectural decisions, see [ADR Documentation](docs/ADR/).
    ```bash
    createdb travel_planner
    psql travel_planner -c "CREATE EXTENSION IF NOT EXISTS vector"
+   psql travel_planner -c "CREATE EXTENSION IF NOT EXISTS pg_trgm"
+   psql travel_planner -c "CREATE EXTENSION IF NOT EXISTS pgcrypto"
    cd backend && alembic upgrade head
    ```
 
 5. **Environment configuration**
    - Copy `.env.example` to `.env` in both backend and frontend directories
    - Configure API keys (Clerk/Auth0, LLM provider, Mapbox, etc.)
+   - Set `DATABASE_URL` environment variable for Alembic migrations
 
 6. **Run locally**
    - Backend: `cd backend && uvicorn app.main:app --reload`
    - Frontend: `cd frontend && npm run dev`
 
-See [Development Setup](docs/setup.md) for detailed instructions.
+See [Database Migrations](docs/alembic/db/README_SETUP.md) for detailed Alembic setup and [Development Setup](docs/setup.md) for other instructions.
 
 ## Deployment
 
