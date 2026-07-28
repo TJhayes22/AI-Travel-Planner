@@ -1,0 +1,23 @@
+version: 2
+updates:
+  # Python dependencies in the backend
+  - package-ecosystem: "pip"
+    directory: "/backend"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+
+  # Frontend (npm) dependencies — safe to add now even before much frontend
+  # code exists, since package.json will exist once Next.js is scaffolded
+  - package-ecosystem: "npm"
+    directory: "/frontend"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+
+  # GitHub Actions versions used in workflows (e.g. actions/checkout)
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5

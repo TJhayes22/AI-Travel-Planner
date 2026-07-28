@@ -1,0 +1,83 @@
+name: Verify DB Migrations
+
+# Runs the same round-trip check we did locally (upgrade -> downgrade -> upgrade)
+# against a real Postgres + pgvector instance, on every push/PR that touches
+# migration-related files. This is the one CI check that has real substance
+# right now, since the schema/migrations are the only tested, working part
+# of the backend so far.
+
+on:
+  push:
+    paths:
+      - "backend/alembic/**"
+      - "backend/db/**"
+      - "backend/alembic.ini"
+  pull_request:
+    paths:
+      - "backend/alembic/**"
+      - "backend/db/**"
+      - "backend/alembic.ini"
+  workflow_dispatch: {} # allows manual trigger from the Actions tab
+
+jobs:
+  migrations:
+    runs-on: ubuntu-latest
+
+    services:
+      postgres:
+        image: pgvector/pgvector:pg18
+        env:
+          POSTGRES_USER: travel_app
+          POSTGRES_PASSWORD: Probros2224
+          POSTGRES_DB: travel_planner
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd="pg_isready -U travel_app"
+          --health-interval=5s
+          --health-timeout=5s
+          --health-retries=10
+
+    env:
+      DATABASE_URL: postgresql+asyncpg://travel_app:Probros2224@localhost:5432/travel_planner
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        working-directory: backend
+        run: |
+          python -m pip install --upgrade pip
+          pip install "sqlalchemy[asyncio]" asyncpg alembic pgvector psycopg2-binary
+
+      - name: Upgrade to head
+        working-directory: backend
+        run: alembic upgrade head
+
+      - name: Confirm at head
+        working-directory: backend
+        run: |
+          CURRENT=$(alembic current)
+          echo "Current revision: $CURRENT"
+          echo "$CURRENT" | grep -q "0002" || (echo "Not at expected revision 0002" && exit 1)
+
+      - name: Downgrade to base
+        working-directory: backend
+        run: alembic downgrade base
+
+      - name: Upgrade to head again
+        working-directory: backend
+        run: alembic upgrade head
+
+      - name: Final confirmation at head
+        working-directory: backend
+        run: |
+          CURRENT=$(alembic current)
+          echo "Current revision: $CURRENT"
+          echo "$CURRENT" | grep -q "0002" || (echo "Round trip failed to return to 0002" && exit 1)
