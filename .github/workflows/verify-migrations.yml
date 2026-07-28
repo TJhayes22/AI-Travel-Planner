@@ -28,7 +28,7 @@ jobs:
         image: pgvector/pgvector:pg18
         env:
           POSTGRES_USER: travel_app
-          POSTGRES_PASSWORD: Probros2224
+          POSTGRES_PASSWORD: ci_test_password
           POSTGRES_DB: travel_planner
         ports:
           - 5432:5432
@@ -39,7 +39,7 @@ jobs:
           --health-retries=10
 
     env:
-      DATABASE_URL: postgresql+asyncpg://travel_app:Probros2224@localhost:5432/travel_planner
+      DATABASE_URL: postgresql+asyncpg://travel_app:ci_test_password@localhost:5432/travel_planner
 
     steps:
       - name: Check out repository
