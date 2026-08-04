@@ -1,38 +1,39 @@
+import Link from "next/link";
 import { getHealth } from "@/lib/api";
 
 export default async function Home() {
-  let status: { ok: boolean; message: string };
-
+  let backendOk = false;
   try {
     const health = await getHealth();
-    const allOk = health.api === "ok" && health.database === "ok";
-    status = {
-      ok: allOk,
-      message: allOk
-        ? "Connected to backend. API and database are both healthy."
-        : `Backend reachable, but reporting an issue: ${JSON.stringify(health)}`,
-    };
-  } catch (err) {
-    status = {
-      ok: false,
-      message: `Could not reach backend at the configured API URL. Is it running? (${
-        err instanceof Error ? err.message : String(err)
-      })`,
-    };
+    backendOk = health.api === "ok" && health.database === "ok";
+  } catch {
+    backendOk = false;
   }
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center gap-4 p-8">
-      <h1 className="text-2xl font-semibold">AI Travel Planner</h1>
-      <div
-        className={`rounded-lg border px-4 py-3 text-sm ${
-          status.ok
-            ? "border-green-300 bg-green-50 text-green-800"
-            : "border-red-300 bg-red-50 text-red-800"
-        }`}
-      >
-        {status.message}
+    <main className="flex min-h-screen flex-col items-center justify-center gap-6 px-6">
+      <div className="text-center">
+        <p className="mb-2 font-data text-xs uppercase tracking-[0.2em] text-mist">
+          AI Travel Planner
+        </p>
+        <h1 className="font-display text-2xl font-medium text-ink">
+          Find a place worth going.
+        </h1>
       </div>
+
+      <Link
+        href="/search"
+        className="border border-navy px-5 py-2 font-data text-xs uppercase tracking-wider text-navy hover:bg-navy hover:text-paper"
+      >
+        Start searching →
+      </Link>
+
+      {/* Minimal dev status indicator -- not final landing-page content. */}
+      <span
+        className={`mt-8 font-data text-[11px] ${backendOk ? "text-mist" : "text-navy"}`}
+      >
+        {backendOk ? "· backend connected ·" : "· backend unreachable ·"}
+      </span>
     </main>
   );
 }

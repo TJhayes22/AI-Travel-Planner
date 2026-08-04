@@ -1,9 +1,24 @@
 import type { Metadata } from "next";
+import { Fraunces, Inter, IBM_Plex_Mono } from "next/font/google";
 import "./globals.css";
 
-// Placeholder system-font stack for now. Typography is a deliberate design
-// decision to make later (per the frontend-design approach), not something
-// to inherit from the create-next-app default.
+const fraunces = Fraunces({
+  variable: "--font-fraunces",
+  subsets: ["latin"],
+  weight: ["400", "500", "600"],
+  style: ["normal", "italic"],
+});
+
+const inter = Inter({
+  variable: "--font-inter",
+  subsets: ["latin"],
+});
+
+const plexMono = IBM_Plex_Mono({
+  variable: "--font-plex-mono",
+  subsets: ["latin"],
+  weight: ["400", "500"],
+});
 
 export const metadata: Metadata = {
   title: "AI Travel Planner",
@@ -16,8 +31,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="h-full antialiased">
-      <body className="min-h-full flex flex-col font-sans">{children}</body>
+    <html
+      lang="en"
+      className={`${fraunces.variable} ${inter.variable} ${plexMono.variable} h-full antialiased`}
+    >
+      <body className="min-h-full flex flex-col font-body">{children}</body>
     </html>
   );
 }

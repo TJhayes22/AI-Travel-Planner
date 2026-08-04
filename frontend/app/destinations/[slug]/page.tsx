@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getDestination } from "@/lib/api";
+import { CoordinateStamp } from "@/components/CoordinateStamp";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -15,22 +16,30 @@ export default async function DestinationPage({ params }: PageProps) {
   }
 
   return (
-    <main className="mx-auto max-w-2xl p-8">
-      <Link href="/search" className="mb-6 inline-block text-sm text-blue-600 hover:underline">
-        &larr; Back to search
+    <main className="mx-auto max-w-2xl px-6 py-16">
+      <Link
+        href="/search"
+        className="mb-10 inline-block font-data text-xs uppercase tracking-wider text-navy hover:text-ink"
+      >
+        ← Back to search
       </Link>
 
-      <h1 className="text-3xl font-semibold">{destination.name}</h1>
-      <p className="mt-1 text-gray-500">
-        {[destination.region, destination.country].filter(Boolean).join(", ")}
-      </p>
+      <header className="mb-8 border-b border-mist/30 pb-8">
+        <p className="mb-2 font-data text-xs uppercase tracking-[0.2em] text-mist">
+          {[destination.region, destination.country].filter(Boolean).join(" · ")}
+        </p>
+        <h1 className="font-display text-4xl font-semibold text-ink">{destination.name}</h1>
+        <div className="mt-3">
+          <CoordinateStamp latitude={destination.latitude} longitude={destination.longitude} />
+        </div>
+      </header>
 
       {destination.tags.length > 0 && (
-        <div className="mt-3 flex flex-wrap gap-1">
+        <div className="mb-8 flex flex-wrap gap-1.5">
           {destination.tags.map((tag) => (
             <span
               key={tag}
-              className="rounded-full bg-gray-100 px-2 py-0.5 text-xs text-gray-600"
+              className="border border-mist/40 px-2 py-0.5 font-data text-[11px] uppercase tracking-wide text-slate"
             >
               {tag}
             </span>
@@ -39,46 +48,54 @@ export default async function DestinationPage({ params }: PageProps) {
       )}
 
       {destination.description && (
-        <p className="mt-6 text-gray-700 leading-relaxed">{destination.description}</p>
+        <p className="mb-10 font-body text-base leading-relaxed text-ink/85">
+          {destination.description}
+        </p>
       )}
 
-      <dl className="mt-6 grid grid-cols-2 gap-4 text-sm">
+      <dl className="mb-10 grid grid-cols-3 gap-6 border-y border-mist/30 py-6">
         {destination.climate && (
           <div>
-            <dt className="text-gray-400">Climate</dt>
-            <dd className="text-gray-700">{destination.climate}</dd>
+            <dt className="font-data text-[11px] uppercase tracking-wider text-mist">Climate</dt>
+            <dd className="mt-1 font-body text-sm text-ink">{destination.climate}</dd>
           </div>
         )}
         {destination.best_season && (
           <div>
-            <dt className="text-gray-400">Best time to visit</dt>
-            <dd className="text-gray-700">{destination.best_season}</dd>
+            <dt className="font-data text-[11px] uppercase tracking-wider text-mist">
+              Best season
+            </dt>
+            <dd className="mt-1 font-body text-sm text-ink">{destination.best_season}</dd>
           </div>
         )}
         {destination.cost_tier && (
           <div>
-            <dt className="text-gray-400">Cost tier</dt>
-            <dd className="text-gray-700">{"$".repeat(destination.cost_tier)}</dd>
+            <dt className="font-data text-[11px] uppercase tracking-wider text-mist">
+              Cost tier
+            </dt>
+            <dd className="mt-1 font-data text-sm text-navy">
+              {"$".repeat(destination.cost_tier)}
+            </dd>
           </div>
         )}
       </dl>
 
       {destination.listings.length > 0 && (
-        <section className="mt-8">
-          <h2 className="mb-3 text-lg font-medium">Places to stay</h2>
+        <section>
+          <h2 className="mb-4 font-display text-lg font-medium text-ink">Places to stay</h2>
           <ul className="flex flex-col gap-3">
             {destination.listings.map((listing) => (
-              <li key={listing.id} className="rounded-lg border border-gray-200 p-4">
+              <li key={listing.id} className="border border-mist/30 bg-paper p-4">
                 <div className="flex items-baseline justify-between">
-                  <span className="font-medium">{listing.name}</span>
+                  <span className="font-body font-medium text-ink">{listing.name}</span>
                   {listing.rating && (
-                    <span className="text-sm text-gray-500">★ {listing.rating}</span>
+                    <span className="font-data text-sm text-navy">★ {listing.rating}</span>
                   )}
                 </div>
-                <div className="mt-1 flex items-center justify-between text-sm text-gray-500">
+                <div className="mt-1 flex items-center justify-between font-body text-sm text-slate">
                   <span className="capitalize">{listing.listing_type}</span>
                   {listing.price_amount && (
-                    <span>
+                    <span className="font-data">
                       {listing.currency} {listing.price_amount}/night
                     </span>
                   )}
@@ -87,9 +104,9 @@ export default async function DestinationPage({ params }: PageProps) {
                   href={listing.booking_url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="mt-2 inline-block text-sm text-blue-600 hover:underline"
+                  className="mt-2 inline-block font-data text-xs uppercase tracking-wider text-navy hover:text-ink"
                 >
-                  View / book &rarr;
+                  View / book →
                 </a>
               </li>
             ))}

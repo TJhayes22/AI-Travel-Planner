@@ -1,26 +1,48 @@
 @import "tailwindcss";
 
+/*
+  "Field Log" design tokens -- a cartographer's field-notebook identity.
+  Deliberately not the AI-design-default cream+terracotta or dark+neon look.
+*/
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --color-ink: #16233a;      /* primary text, line work */
+  --color-fog: #e7ebe7;      /* page background */
+  --color-paper: #faf9f5;    /* card backgrounds */
+  --color-navy: #1f3b62;     /* primary accent */
+  --color-mist: #8b9eb7;     /* secondary accent -- coordinate stamps, borders */
+  --color-slate: #5b6b74;    /* muted secondary text */
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  --color-ink: var(--color-ink);
+  --color-fog: var(--color-fog);
+  --color-paper: var(--color-paper);
+  --color-navy: var(--color-navy);
+  --color-mist: var(--color-mist);
+  --color-slate: var(--color-slate);
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --font-display: var(--font-fraunces);
+  --font-body: var(--font-inter);
+  --font-data: var(--font-plex-mono);
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--color-fog);
+  color: var(--color-ink);
+}
+
+/* Visible keyboard focus, kept even where Tailwind's default outline is reset. */
+:focus-visible {
+  outline: 2px solid var(--color-navy);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }

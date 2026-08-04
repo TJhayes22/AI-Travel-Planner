@@ -48,6 +48,8 @@ async def search_destinations(
             region=destination.region,
             description=destination.description,
             cost_tier=destination.cost_tier,
+            latitude=destination.latitude,
+            longitude=destination.longitude,
             tags=[tag.name for tag in destination.tags],
             similarity_score=max(0.0, 1.0 - (dist / 2.0)),
         )

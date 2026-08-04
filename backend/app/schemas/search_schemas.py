@@ -15,6 +15,8 @@ class SearchResultItem(BaseModel):
     region: str | None
     description: str | None
     cost_tier: int | None
+    latitude: float | None
+    longitude: float | None
     tags: list[str]
     similarity_score: float  # 0.0 (no similarity) to 1.0 (identical)
 
