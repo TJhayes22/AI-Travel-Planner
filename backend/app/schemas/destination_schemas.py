@@ -21,6 +21,25 @@ class ListingSummary(BaseModel):
     model_config = {"from_attributes": True}
 
 
+class DestinationSummary(BaseModel):
+    """Lighter-weight shape for list views (e.g. featured destinations on the
+    landing page) -- no listings, matches SearchResultItem's shape minus the
+    similarity_score, which only makes sense in a search context."""
+
+    id: UUID
+    name: str
+    slug: str
+    country: str | None
+    region: str | None
+    description: str | None
+    cost_tier: int | None
+    latitude: float | None
+    longitude: float | None
+    tags: list[str]
+
+    model_config = {"from_attributes": True}
+
+
 class DestinationDetail(BaseModel):
     id: UUID
     name: str

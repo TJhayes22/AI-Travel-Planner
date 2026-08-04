@@ -1,17 +1,54 @@
-"""Destination detail endpoint."""
+"""Destination detail and list endpoints."""
 
 from __future__ import annotations
 
-from fastapi import APIRouter, Depends, HTTPException
-from sqlalchemy import select
+from fastapi import APIRouter, Depends, HTTPException, Query
+from sqlalchemy import func, select
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.orm import selectinload
 
 from app.db.session import get_db
 from app.models.destination import Destination
-from app.schemas.destination_schemas import DestinationDetail, ListingSummary
+from app.schemas.destination_schemas import DestinationDetail, DestinationSummary, ListingSummary
 
 router = APIRouter()
+
+
+@router.get("/destinations", response_model=list[DestinationSummary])
+async def list_destinations(
+    limit: int = Query(6, ge=1, le=50),
+    db: AsyncSession = Depends(get_db),
+) -> list[DestinationSummary]:
+    """Returns a random sample of published destinations -- used for the
+    landing page's featured teaser strip. Random ordering is a deliberate
+    choice for now, since there's no meaningful ranking signal (popularity,
+    recency) yet with a small hand-picked catalog."""
+    stmt = (
+        select(Destination)
+        .options(selectinload(Destination.tags))
+        .where(Destination.status == "published")
+        .order_by(func.random())
+        .limit(limit)
+    )
+
+    result = await db.execute(stmt)
+    destinations = result.scalars().all()
+
+    return [
+        DestinationSummary(
+            id=d.id,
+            name=d.name,
+            slug=d.slug,
+            country=d.country,
+            region=d.region,
+            description=d.description,
+            cost_tier=d.cost_tier,
+            latitude=d.latitude,
+            longitude=d.longitude,
+            tags=[tag.name for tag in d.tags],
+        )
+        for d in destinations
+    ]
 
 
 @router.get("/destinations/{slug}", response_model=DestinationDetail)
