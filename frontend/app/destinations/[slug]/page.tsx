@@ -28,7 +28,7 @@ export default async function DestinationPage({ params }: PageProps) {
         <p className="mb-2 font-data text-xs uppercase tracking-[0.2em] text-mist">
           {[destination.region, destination.country].filter(Boolean).join(" · ")}
         </p>
-        <h1 className="font-display text-4xl font-semibold text-ink">{destination.name}</h1>
+        <h1 className="font-display text-3xl font-semibold text-ink sm:text-4xl">{destination.name}</h1>
         <div className="mt-3">
           <CoordinateStamp latitude={destination.latitude} longitude={destination.longitude} />
         </div>
@@ -53,7 +53,7 @@ export default async function DestinationPage({ params }: PageProps) {
         </p>
       )}
 
-      <dl className="mb-10 grid grid-cols-3 gap-6 border-y border-mist/30 py-6">
+      <dl className="mb-10 grid grid-cols-1 gap-6 border-y border-mist/30 py-6 sm:grid-cols-3">
         {destination.climate && (
           <div>
             <dt className="font-data text-[11px] uppercase tracking-wider text-mist">Climate</dt>

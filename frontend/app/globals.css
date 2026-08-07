@@ -31,10 +31,31 @@ body {
   color: var(--color-ink);
 }
 
-/* Visible keyboard focus, kept even where Tailwind's default outline is reset. */
-:focus-visible {
-  outline: 2px solid var(--color-navy);
-  outline-offset: 2px;
+/* Visible keyboard focus, kept even where Tailwind's default outline is reset.
+   Wrapped in @layer base so Tailwind utility classes (e.g. focus-visible:outline-none)
+   can correctly override this on specific elements -- un-layered CSS always
+   beats layered CSS regardless of specificity, which is what caused this to
+   override utility classes everywhere, even where we explicitly opted out. */
+@layer base {
+  :focus-visible {
+    outline: 2px solid var(--color-navy);
+    outline-offset: 2px;
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 250ms ease-out;
 }
 
 @media (prefers-reduced-motion: reduce) {
