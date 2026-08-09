@@ -1,0 +1,1111 @@
+{{pagebanner|Pagebanner default.jpg|dotm=yes}}
+:''For the Scottish town that Banff was named after, see [[Banff (Scotland)]]''
+[[File:Banff from Sulphur mountain (313208769).jpg|300px|thumb|Banff from Sulphur mountain]]
+The town of '''[https://www.banfflakelouise.com/ Banff]''' in [[Banff National Park]], in the [[Alberta Rockies|Canadian Rockies]], is the larger of the two populated areas in Banff National Park, about an hour and a half drive west of [[Calgary]] and four hours south of [[Jasper]]. Banff is part of the Canadian Rocky Mountain Parks [[UNESCO World Heritage]] Site. Like many mountain towns, Banff has a very different character in winter and summer. There is a decent selection of bars and restaurants but predictably a few too many souvenir shops and boutiques. European travellers will especially welcome the sidewalks that facilitate exploration of the town on foot.
+
+==Understand==
+Banff is a tourist town full of visitors and seasonal workers from across Canada and around the world. It is a convenient base for seeing some spectacular scenery with little effort. However, with convenience comes crowds. Banff Avenue can be very busy on summer afternoons and evenings, but it is a great place to stay for any length of time. There are a wide variety of restaurants and clubs and plenty of tours and activities to keep you busy. Staying in Banff during the winter gives easy access to the nearby ski areas of Norquay, Sunshine Village, and Lake Louise.
+
+The area was named Banff in 1884 by George Stephen, president of the Canadian Pacific Railway, recalling his birthplace in [[Banff (Scotland)|Banff, Scotland]].
+
+===Climate===
+{{climate chart
+|Banff
+|-13.5 |-3.5 |18.8
+|-12.6 |-0.5 |18.6
+|-8.2 |3.7 |29.3
+|-3.5 |9.0 |39.2
+|0.5 |14.3 |50.0
+|4.4 |17.9 |73.3
+|6.8 |22.5 |46.9
+|5.8 |22.1 |46.9
+|2.2 |16.7 |44.9
+|-2.4 |9.1 |35.8
+|-8.2 |0.6 |27.8
+|-13.4 |-4.6 |22.5
+|jansnow=212.0 |febsnow=203.0 |marsnow=253.0 |aprsnow=300.0 |maysnow=123.0 |junsnow=17.0 |julsnow=1.0 |augsnow=2.0 |sepsnow=79.0 |octsnow=167.0 |novsnow=252.0 |decsnow=230.0
+|float=right
+|clear=right
+| description = From [[:w:Banff#Climate]]
+}}
+
+At an elevation of 1400m above sea level and surrounded by mountains, the climate is subarctic. Banff has experienced snowfall even during the summer months. With daily mean temperatures of +15°C in the summer and -8°C in the winter, the climate is very similar to northern [[Scandinavia]].
+<br clear="right" />
+
+==Get in==
+{{Mapframe|51.177|-115.57|zoom=13|height=|width=|layer=|staticmap=|align=|name=}}
+=== By plane ===
+The park is easily accessible for international travellers via [[Calgary]] International Airport, which has international scheduled and charter flights. The Banff Airporter ($63.99 one way) and the Brewster Airport Express ($69.99 one way) run regular scheduled trips between the airport and Banff several times daily.
+
+Alternatively, On It transit provides a direct Calgary downtown to Banff central service for a flat rate of $10. It's less convenient than the direct shuttles, as getting from the airport to downtown requires either an expense taxi or an hour-long trip on public transit.
+
+=== By car ===
+From Calgary, take the Highway 1 ([[Trans-Canada Highway]]) west. The first exit to Banff is about an hour and a half from the airport.
+
+The [[Icefields Parkway]] (Highway 93) is a scenic drive from [[Jasper]].
+
+'''Parking''' can be tricky, but the five-storey Bear Street Parkade near downtown is free. Look for it in the 100 block of Bear Street, one block west of Banff Avenue. The Bear Street Parkade also has an '''EV charging station'''. The Town of Banff website has [https://www.banff.ca/index.aspx?NID=93 parking maps].
+
+=== By bus ===
+* {{Listing|name=Banff Airporter|url=https://banffairporter.com/|phone=+1-403-762-3330|tollfree=+1-888-449-2901|hours=|price=$73 one way for adults, no savings for round trips. Discounted rate for children and seniors|lastedit=2022-05-07|content=Operates a route between Calgary International Airport, [[Canmore]], and Banff. Travel time to Banff from Calgary International Airport is 2 hours. Trips operate daily through the day, generally departing every 2 hours.}}
+* {{Listing|name=Brewster Express|url=https://www.banffjaspercollection.com/brewster-express/|tollfree=+1-866-606-6700|price=$74 one way and $126 round trip for adults traveling between Banff and Calgary. Discounted rate for children|lastedit=2022-05-07|content=Bus service throughout the year between downtown [[Calgary]] and [[Lake Louise]] including stops at Calgary International Airport, at Kananaskis Village (some trips), in [[Canmore]] and in Banff. Some trips operate between Calgary International Airport and Banff. From May to mid-October, a trip extends beyond Lake Louise to and from [[Jasper]]. Travel time to Banff from downtown Calgary is 3 hours, from Calgary International Airport is 2 hours, from Canmore is 40 minutes, from Lake Louise is 1.25 hours, and from Jasper is 4.75 hours. Buses operate daily with the portion of the route between Calgary International Airport and Banff having buses departing throughout the day every 1.5 to 2 hours.}}
+* {{go
+| name=Ebus | alt= | url=http://myebus.ca | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=+1 877-769-3287
+| hours= | price=
+| wikidata=Q7122769
+| lastedit=2022-03-19
+| content=Service from [[Vancouver]], [[Calgary]], [[Kamloops]], [[Kelowna]], [[Enderby]], [[Armstrong]], [[Vernon (British Columbia)|Vernon]], [[Golden (British Columbia)|Golden]], [[Revelstoke]], and [[Salmon Arm]].
+}}
+* {{go
+| name=Rider Express | alt= | url=https://riderexpress.ca/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=+1-833-583-3636
+| hours= | price=
+| wikidata=Q126627111
+| lastedit=2022-03-19
+| content=Multiple days per week service along the Trans-Canada Highway from between [[Calgary]] and [[Vancouver]] with stops in [[Canmore]], Banff, [[Lake Louise]], [[Golden (British Columbia)|Golden]], [[Revelstoke]], [[Sicamous]], [[Salmon Arm]], Sorrento, Chase, [[Kamloops]], [[Merritt]], [[Hope (British Columbia)|Hope]], [[Chilliwack]], [[Abbotsford]], and [[Surrey (British Columbia)|Surrey]]. Travel time to Banff from Calgary is 1.5 hours, from Lake Louise is 50 minutes, from Golden is 1.75 hours, from Revelstoke is 4 hours, from Salmon Arm is 5.5 hours, from Kamloops is 7 hours, from Hope is 10 hours, from Abbotsford is 11 hours, and from Vancouver is 12.25 hours. In Salmon Arm, this service provider offers some trips with timed connections with its route between Salmon Arm and [[Kelowna]]. In Calgary, this service provider has routes that reach [[Edmonton]]. The service provider also has routes that allow travel as far east as [[Winnipeg]].
+}}
+* {{listing
+| name= SunDog Tours| alt= | url=https://www.sundogtours.com/packages/transportation/| email=info@sundogtours.com
+| address= | lat= | long= | directions=
+| phone=+1-780-852-4056 | tollfree=+1-888-786-3641
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2021-09-09
+| content= Service between Banff and [[Jasper]] via [[Lake Louise]]. Operates in the winter season only. Travel time to Banff from Jasper is 5.5 hours and from Lake Louise is 1 hour.
+}}
+* {{listing
+| name=FlixBus | alt= | url=https://www.flixbus.ca/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q15712258
+| lastedit=2024-04-04
+| content=Service from [[Calgary]], [[Canmore]], and [[Lethbridge]].
+}}
+
+=== By train ===
+{{seealso|Rocky Mountaineer}}
+Regularly scheduled passenger trains no longer stop at Banff's historic train station, but luxury '''[https://www.rockymountaineer.com Rocky Mountaineer]''' sightseeing trains run from [[Vancouver]] between late April and early October (reservations required), requiring two days to complete the journey with an overnight stop at [[Kamloops]]. You can take [https://www.viarail.ca VIA Rail Canada] train service to [[Edmonton]] or Jasper, and then either take a bus or rent a car and drive to Banff.
+
+* {{go
+| name=Banff railway station | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q4854878
+| lastedit=2021-04-17
+| content=
+}}
+
+===Park entry fees===
+All visitors stopping in Banff National Park (even just for gas or in the town) require a park permit. If you are driving through non-stop, the pass is not required. Day passes and annual passes are available; see [[Banff National Park#Fees and permits]] for details.
+
+==Get around==
+[[File:Banff Alberta Rom bus wolf.jpg|400px|thumb|Each Roam bus is decorated with images of different animals from the National Park and area. This one is Wolf.]]
+===By foot===
+The Banff townsite is small, and you can walk just about anywhere you want to go. Walking is quick, easy and allows for random adventures down to the river, through the forests, and up the mountains. All of these activities are within a 5- to 15-minute walking distance.
+
+===By public transit===
+
+* {{Listing|name=Roam Transit|url=https://roamtransit.com/|phone=+1 403-762-0606|hours=Bus service runs from 6:15AM to 11:30PM daily|price=Roam transit fares are $2 (one-way) for adults, $1 for kids and seniors; an unlimited day pass costs $5|lastedit=2022-07-30|content=This public transit bus system operates bus service in and between Banff, [[Canmore]], and [[Lake Louise]].  It provides service near most of the Banff's hotels and attractions.}} 
+
+===By taxi===
+
+* {{Listing|name=Banff Transportation Group|url=https://www.banfftransportation.com/|phone=+1 403-762-0000|lastedit=2022-07-30}}
+
+===By bike===
+Biking around town is popular too. There are several shops to rent bicycles if you are interested in either mountain biking, quick travel downtown, or trail riding to the historic Fairmont Banff Springs Hotel.  You can also combine cycling with public transit, as buses are equipped with bike racks. Banff is filled with trails that take you through forested areas, along streams and waterfalls, to incredible lake and mountain views.
+
+==See==
+The Canadian Rockies offer some of the most spectacular scenery in the world. It may seem a daunting task to try to see it all in a limited amount of time.
+
+Many tour companies will eliminate the hassle, giving you the opportunity to sit back, relax and enjoy the view. The friendly guides offer fun and informative sightseeing tours in and around the Banff area in comfortable vehicles.
+===Museums and historic sites===
+[[File:Banff Park Museum 3.JPG|thumbnail|Banff Park Museum]]
+[[File:Cave and Bassin Banff-Alberta- Kim Payant.jpg|thumbnail|Cave and Basin]]
+* {{see
+| name=Banff Park Museum National Historic Site | alt= | url=https://parks.canada.ca/lhn-nhs/ab/banff/ | email=banff.vrc@pc.gc.ca
+| address=91 Banff Ave | lat=51.173756 | long=-115.571634 | directions=Next to the Bow River Bridge & Central Park
+| phone=+1 403-762-1558 | tollfree=
+| hours=May 14-June 30: W-Su 10AM-5PM; July 1-Sept 1: daily 10AM-5PM; Sept 2-Oct 12: W-Su 10AM-5PM | price=$3.90/adult, free with Parks Canada Discovery Pass
+| wikipedia=Banff Park Museum | wikidata=Q3813327
+| content=Come and learn about the animals you may see on your trip to Banff. Guaranteed bear sightings! This historic "cabinet museum" is full of Banff wildlife preserved through taxidermy. Most of the animals on display were killed roughly a century ago.
+}}
+* {{see
+| name=Banff Springs Hotel National Historic Site | alt=Fairmont Banff Springs Hotel | url=https://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=7373 | email=banffsprings@fairmont.com
+| address=405 Spray Ave | lat=51.16411 | long=-115.562381 | directions=
+| phone=+1 403-762-2211 | tollfree=+1-866-540-4406
+| hours= | price=Free to visit
+| wikipedia=Banff Springs Hotel | wikidata=Q806429
+| content=The Banff Springs Hotel is a working hotel, and a recognized national historic site. The oldest part of the famous "Castle in the Rockies" was built between 1911 and 1914 using local Rundle stone (dark limestone) on the exterior, while the interior is that of a grand hotel. Fossils can be seen in the stone flooring. Visitors are welcome to see the public parts of the hotel, while guided tours may be available to show you some of the closed areas.
+}}
+* {{see
+| name=Buffalo Nations Luxton Museum | alt= | url=https://www.buffalonationsmuseum.com/ | email=buffalonations@telus.net
+| address=1 Birch Ave | lat=51.172317 | long=-115.576666 | directions=
+| phone=+1 403-762-2388 | tollfree=
+| hours=May 1-Sep 30: daily 10AM-6PM; Oct 1-Apr 30: 11AM-5PM | price=$10/adult
+| wikidata=Q1002016
+| content=Housed in a reproduction of a fur trading post, this museum focuses on the history of the First Nations in the Banff area.
+}}
+* {{see
+| name=Cave and Basin National Historic Site | alt= | url=https://parks.canada.ca/lhn-nhs/ab/caveandbasin | email=banff.vrc@pc.gc.ca
+| address=311 Cave Ave | lat=51.169248 | long=-115.590914 | directions=
+| phone=+1 403-762-1566 | tollfree=
+| hours=Hours vary seasonally, check website | price=$3.90/person, free if you have Parks Canada Discovery Pass
+| wikipedia=Cave and Basin National Historic Site | image=Cave and Basin National Historic Site, Banff.JPG | wikidata=Q2943271
+| content=See the birthplace of Canada's National Park system, where hot sulphur springs were found and the original bathhouse was built in 1887. There are also a couple of short nature trails that are free to access that explain the origin and the give you a view over the pools that are free to access.
+}}
+* {{see
+| name=Whyte Museum of the Canadian Rockies | alt= | url=https://www.whyte.org/ | email=Info@whyte.org
+| address=111 Bear St | lat=51.175178 | long=-115.57327 | directions=
+| phone=+1 403-762-1558 | tollfree=
+| hours=Jun 15-Sep 15: daily 9:30AM-6PM; Sep 16-Jun 14: 10AM-5PM | price=Admission by donation
+| wikipedia=Whyte Museum | wikidata=Q7997946
+| content=Offers something for the whole family: art, culture and the human and natural history of the Canadian Rockies. Visit the heritage homes or take a guided walk.
+}}
+
+===Viewpoints (lookouts)===
+* {{see
+| name=Mount Norquay viewpoint | alt= | url= | email=
+| address=Mt Norquay Scenic Drive | lat=51.164598 | long=-115.562254 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=As you drive the winding road up to the Mt Norquay ski area, there are several viewpoints that let you see the town of Banff below, Vermilion Lakes, and the surrounding mountains.
+}}
+* {{see
+| name=Surprise Corner viewpoint | alt= | url= | email=
+| address= | lat=51.167355 | long=-115.559301 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=You can see the Fairmont Banff Springs Hotel, Bow River, and Sulphur Mountain from this viewpoint on the lower slopes of Tunnel Mountain.
+}}
+===Natural and botanic attractions===
+[[File:Bow Falls(Banff).JPG|thumbnail|Bow Falls]]
+* {{see
+| name=Bow Falls | alt= | url= | email=
+| address= | lat=51.166523 | long=-115.560378 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Below the iconic Banff Springs Hotel is the beautiful Bow Falls. It's not the most dramatic waterfall in Banff National Park, but Bow Falls is in the town of Banff and is worth a visit. Easily accessible with plenty of parking for private vehicles and tour buses. You can take in the view from either side of the river.
+}}
+* {{see
+| name=Cascades of Time Gardens | alt=Cascade Gardens | url= | email=Banff.vrc@pc.gc.ca
+| address=101 Mountain Ave | lat=51.170858 | long=-115.572446 | directions=Next to Administration Building, at the head of Banff Avenue
+| phone=+1 403-762-1550 | tollfree= | fax=
+| hours=Flowering from late June to early Sept | price=Free
+| content=Designed and built in the 1930s, the Cascades of Time gardens cover 1.6 hectares (4 acres) in the Banff townsite, in front of the Administration Building and behind it. The rustic timber and stone [http://www.historicplaces.ca/en/rep-reg/place-lieu.aspx?id=9586 pavilions] in the garden are Recognized Federal Heritage Buildings.
+}}
+* {{see
+| name=Lake Minnewanka Loop | alt= | url=https://www.banfflakelouise.com/blog/explore-lake-minnewanka-loop | email=
+| address=End of Lake Minnewanka Scenic Drive | lat=51.248861 | long=-115.496675 | directions=take Banff Ave north until it passes under Hwy 1, follow Lk Minnewanka Drive
+| phone= | tollfree=
+| hours= | price=Free
+| content=This scenic driving loop is a short distance from the Banff townsite. It goes up the side of Cascade Mountain to Lake Minnewanka, and back down by a different route. Sights along the way include Cascade Ponds, Bankhead (former site of a coal mining town and the mine), Lake Minnewanka (picnic area, hiking, boat cruises, motor boat rentals), Two Jack Lake, and Johnson Lake. The area is also well known for the bighorn sheep that can be seen on and near the road.
+}}
+* {{see
+| name=Vermilion Lakes | alt= | url= | email=
+| address=Vermilion Lakes Road, just south of and parallel to Trans-Canada Hwy (Hwy 1) near Mt Norquay Rd | lat=51.181215 | long=-115.594238 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=These three shallow lakes make a marvellous foreground to dramatic Mount Rundle in the background. Come at sunrise or sunset to see muskrat and beaver and get great lighting for photos.
+}}
+
+===Whimsy===
+* For a spot of whimsy, you can check out {{see | name=Moose and Squirrel | lat=51.18188 | long=-115.57139 }} Rather, the intersection thereof, about 2 blocks east of the train station, diagonal from the school. Nothing more than the signpost, but good for a chuckle.
+
+==Do==
+Mountain town activities are characteristically different in summer and winter.
+
+===Year round===
+[[File:Telefericobanff.jpg|400px|thumbnail|A comfortable ride up the mountain]]
+* {{do
+| name=The Banff Centre | alt= | url=https://www.banffcentre.ca/ | email=
+| address=107 Tunnel Mountain Dr | lat=51.173399 | long=-115.560854 | directions=
+| phone=+1 403-762-6100 | tollfree=
+| hours= | price=
+| wikipedia=Banff Centre for Arts and Creativity | wikidata=Q4854863
+| content=A globally respected arts and cultural centre featuring performances and events with dance, music, theatre, opera, film, books, new media, and visual arts.
+}}
+* {{do
+| name=Banff Gondola Mountaintop Experience | alt=Banff Gondola | url=https://www.banffjaspercollection.com/attractions/banff-gondola/ | email=
+| address=End of Mountain Avenue | lat=51.148226 | long=-115.556096 | directions=
+| phone=+1 403-762-2523 | tollfree=+1-800-760-6934 | fax=+1 403-762-7493
+| hours=Varies seasonally; closed for 1 week in Jan for annual maintenance | price=$62 per adult ($56 if booked 48 hr in advance)
+|lastedit=2023-03-26| content=Banff's sightseeing gondola provides visitors with great views of the Canadian Rockies and the town of Banff. The gondola takes you up 698m (2,292 ft) to an elevation of 2,281m (7,486 ft). At the top, there is a restaurant, gift shop, observation deck, photo opportunities, and a boardwalk to nearby Sanson Peak, at the top of Sulphur Mountain. On most Fridays and Saturdays, you can experience a sunset "Alpine Lights" dinner in the Panorama restaurant at the top of the gondola.
+}}
+
+===Indoor activities===
+
+Banff does offer some indoor activities besides museums and galleries.
+
+* {{do
+| name=Waterslides at Douglas Fir Resort | alt= | url=https://douglasfir.com/amenities/indoor-waterpark/ | email=stay@douglasfir.com
+| address=Tunnel Mountain Road | lat=51.184446 | long=-115.549217 | directions=
+| phone=+1 403-762-5591 | tollfree=+1-800-661-9267 | fax=
+| hours=Su-Th, hours vary seasonally | price=$20/person, ages 6+. Free for age 5 and under
+| content=At the Douglas Fir Resort & Chalets on Tunnel Mountain. Open only to hotel guests on F & Sa, open to non-guests Su-Th.
+}}
+* {{do
+| name=Fairmont Banff Springs Bowling & Entertainment Centre | alt= | url=https://www.fairmont.com/banff-springs/ | email=banffsprings@fairmont.com
+| address=405 Spray Ave | lat=51.164753 | long=-115.562139 | directions=Fairmont Banff Springs Hotel
+| phone=+1 403-762-2211 | tollfree=+1-866-540-4406 | fax=
+| hours=Summer: Su-Th 3-10PM; F Sa 1-11PM; Winter: Su-Th noon-11PM; F Sa 1PM-midnight | price=
+| content=Canadian 5-pin bowling, neon black-light bowling, an HD golf simulator, and a pool table.
+}}
+* {{do
+| name=Lux Cinema | alt= | url=https://luxbanff.com/ | email=lux_ban@landmarkcinemas.ca
+| address=229 Bear St. | lat=51.178357 | long=-115.572881 | directions=Corner of Wolf & Bear
+| phone=+1 403-762-8612 | tollfree= | fax=
+| hours= | price=
+| content=Four-screen movie theatre showing first-run movies.
+}}
+* {{do
+| name=Sally Borden Fitness and Recreation Centre | alt= | url=https://www.banffcentre.ca/ | email=sbb_info@banffcentre.ca
+| address=End of St. Julien Road | lat=51.171494 | long=-115.561385 | directions=Sally Borden Building at the Banff Centre
+| phone=+1 403-762-6450 | tollfree= | fax=
+| hours=M-F 6AM-10PM, Sa Su 7AM-10PM | price=$10 adult day membership, $5 adult public swim
+| content=Facilities include a climbing wall, spin studio, aquatics centre (25-m pool with view of Sulphur Mountain, hot tub, whirlpool, wading pool, steam room, and sun deck), massage, physiotherapy, drop-in classes (e.g. spin, yoga, zumba) and more.
+}}
+
+====Spas====
+[[File:Banff Upper Hot Springs.JPG|thumbnail|The Banff Upper Hot Springs]]
+Banff National Park was established to protect and promote the natural [[hot springs]] at the Cave & Basin (now Cave & Basin National Historic Site). So there is a century-long tradition of visitors coming to take the waters in a spa-type setting. Today, visitors have many spas to choose from, but only the ''Upper Hot Springs Pool and Pleiades Spa'' allows visitors the opportunity to bathe in water from a hot spring.
+
+* {{do
+| name=Banff Upper Hot Springs and Pleiades Massage & Spa | alt= | url=https://www.hotsprings.ca/ | email=hot.springs@pc.gc.ca
+| address=Upper end of Mountain Avenue | lat=51.15112 | long=-115.56097 | directions=
+| phone=+1 403-762-1515 | tollfree=+1-800-767-1611 | fax=
+| hours=10AM-10PM varies seasonally | price=$7.30 per adult
+| content=All the amenities of a modern facility are featured in this historic spa and bathhouse, with a backdrop of spectacular alpine scenery. Relax in soothing hot water where travellers have come to "take the waters" for more than a century. For an extra apres ski laugh, guests wishing to amuse can rent a hilarious 'traditional style' bathing costume. The outdoor hot pool is a great place to soak and watch falling snowflakes or the stars. Can be quite busy at times. In late spring, the hot springs flow sometimes drops significantly and must be supplemented with artificially-heated water. The Upper Hot Springs website's "Water" page states whether they are using all hot springs water or are supplementing.
+}}
+* {{do
+| name=Grotto Spa | alt= | url= | email=
+| address=459 Banff Ave | lat=51.183170 | long=-115.563877 | directions=Delta Banff Royal Canadian Lodge
+| phone=+1 403-762-3307 | tollfree=+1-800-661-1379 | fax=
+| hours=M-Th 4-9PM, F Sa 9AM-9PM, Su 10AM-6PM | price=
+|lastedit=2023-03-26| content=Mineral pool, hot tub, eucalyptus steam room. Massages and other treatments available.
+}}
+* {{do
+| name=Red Earth Spa | alt= | url=https://redearthspa.com/ | email=
+| address=521 Banff Ave | lat=51.184219 | long=-115.560754 | directions=Banff Caribou Lodge
+| phone=+1 403-762-9292 | tollfree= | fax=
+| hours=9AM-9PM (varies seasonally) | price=
+|lastedit=2023-03-26| content=Access to hotel hot pool, steam rooms, and exercise rooms. Massage, body wraps, various other treatments.
+}}
+* {{do
+| name=Rimrock Spa | alt= | url=https://www.rimrockresort.com/ | email=Spa@rimrockresort.com
+| address=300 Mountain Ave | lat=51.150978 | long=-115.559218 | directions=Rimrock Resort Hotel
+| phone=+1 403-762-1835 | tollfree=+1-888-RIMROCK | fax=
+| hours=Daily 8AM-10PM | price=
+| content=There are two individual massage rooms, one facial/Vichy room, a second facial room, 2 manicure stations, and 3 pedicure stations in the spa. Two couples/double massage rooms are located on the 4th and 5th floors. Spa guests may also use the hotel pool, whirlpool, sauna, and outdoor patio decks.
+}}
+* {{do
+| name=Willow Stream Spa | alt= | url=https://www.fairmont.com/banff-springs/spa/the-fairmont-banff-springs-spa/ | email=bsh.spareservations@fairmont.com
+| address=405 Spray Ave | lat=51.164577 | long=-115.560896 | directions=Fairmont Banff Springs Hotel
+| phone=+1 403-762-1772 | tollfree=+1-800-404-1772 | fax=
+| hours=Daily 8AM-8PM | price=
+| content=Banff's most luxurious spa has a huge variety of treatments on offer. Reservations are recommended.
+}}
+
+===Winter===
+
+*
+====Skiing and snowboarding====
+[[File:Alberta Sunshine Snowboarding 015.jpg|400px|thumb|Sunshine Village]]
+Banff National Park is home to [http://www.skibig3.com three ski areas]{{Dead link|date=May 2024 |bot=InternetArchiveBot }}, all within easy drive of the Banff townsite. Driving to the hill is not strictly required, as ski shuttles have stops convenient to most hotels. They will take you to the mountain of your choice and back again. Shuttle buses are included in the price of some ski passes, or you may have to pay a fare ($15).
+
+Of the three Banff National Park ski areas, only Sunshine Village has ski-in ski-out accommodations. However, access to Sunshine is solely through their gondola. The gondola stops running Sa-Th at 4PM, and F at 10PM. Sunshine is a village in name only; there are very few activities there after the ski lifts shut down for the day. Most skiers stay in the town of Banff or the village of Lake Louise.
+
+The ski season in Banff runs from early November to mid-April. The final day of skiing at Sunshine Village is always on Victoria Day, in late May.
+
+* {{do
+| name=Norquay | alt= | url=https://banffnorquay.com/ | email=
+| address=End of Mount Norquay Scenic Drive | lat=51.203106 | long=-115.598296 | directions=
+| phone=+1 403-762-4421 | tollfree= | fax=
+| hours= | price=$61 for full-day adult ticket
+| content=The closest mountain to the Banff townsite, and it is much used by the locals. It is unique in the area because you can pay for skiing by the hour, and night skiing is available on Fridays and Saturdays. There is a tube park for non-skiers (and non-boarders.) The ski season is a little shorter at Norquay, because it is at a lower altitude than Sunshine and Lake Louise, and snowfall is less consistent. The trails here lean more towards steep and difficult, although there is still plenty of easy terrain. Giv'er Grandi (formerly Excalibur, accessed via Mystic Express lift) is North America's steepest groomed piste. The lodge is not much good for breakfast; lunch and beer on the deck can't be beat however!
+}}
+* {{do
+| name=Sunshine Village | alt= | url=https://www.skibanff.com/ | email=
+| address=End of Sunshine Road | lat=51.115416 | long=-115.764475 | directions=
+| phone=+1 403-705-4000 | tollfree=+1-877-542-2633 | fax=
+| hours= | price=$85 full-day adult ticket
+| content= 20 minutes west of the Banff townsite. It also receives more snow than the other two resorts and benefits from a higher elevation and a generally longer ski season. All natural snow, no snow-making. Also fantastic scenery. It is the only resort of the three to have on-hill accommodation. Buffet breakfast served in the lodge at the bottom of the gondola - not much else until lunchtime once you get to the top.
+}}
+* See also [[Lake Louise]] Ski Resort
+
+All the ski hills are busier on the weekends. Lake Louise tends to get icy if it hasn't snowed in a while, but with fresh snow is hard to beat. Sunshine Village has been giving them some competition with their new terrain and improvements however. Especially in the early season, pay attention to how many runs are open and how much recent snow has been received in the snow reports - they are better indications of the conditions than the generic conditions ratings given by the hills (the conditions are always at least 'good' according to their ratings). If you only have a few hours and want to ski where the locals ski check out Ski Norquay, it has nice long open runs with great views of the town.
+
+====Lift passes====
+If you arrive before December 31 and you intend to ski at least 3 days at Sunshine Village, or a combination of three days at Sunshine and at Marmot Basin in Jasper, consider buying a [https://www.skibanff.com/ski-ride/passes Sunshine-Marmot card]. The card costs about the same price as one lift ticket. The first, fourth and seventh times you use the card you get a free lift ticket, all other times you get $10 off (you are ahead quite a bit by the third day). These cards can be purchased on the hill (either Sunshine or Marmot Basin), or also at Safeway stores in Edmonton and Calgary, and are valid at Sunshine Village in Banff and Marmot Basin ski resort in Jasper. The Sunshine-Marmot cards are available for purchase until December 31 but can be used all season.
+
+[https://www.skilouise.com/tickets-passes/plus-cards/ Louise Plus cards] are very similar to Sunshine Marmot Cards. In addition to Lake Louise, they are also honored at four other ski areas: Castle (near Pincher Creek, Alberta); Revelstoke (Revelstoke, BC); Panorama (Panorama, BC), and Schweitzer (Sandpoint, Idaho, USA).
+
+You can purchase a [https://www.skibig3.com/ Tri-Area Pass] for Sunshine Village, Lake Louise Mountain Resort and Norquay. This ticket includes the bus transportation and can be used at any of the three hills at any time.
+
+====Ski and snowboard rentals====
+[[File:Skilakelouise.jpg|thumbnail|Nearby [[Lake Louise]] is another popular ski resort]]
+There are a number of great places in the Town of Banff that will rent high quality skis, snowboards, and boots. Some will also rent winter coats and pants. All Banff National Park ski areas require skiers & snowboarders under age 18 to wear helmets. Adults will find that not only do helmets protect your head when you fall, but they do a great job of keeping your head warm in cold and windy weather.
+
+* {{do
+| name=Chateau Mountain Sports | alt= | url=https://chateaumountainsports.com/ | email=info@chateaumountainsports.com
+| address=405 Spray Ave | lat=51.163536 | long=-115.560732 | directions=Fairmont Banff Springs Convention Centre
+| phone=+1 403-762-2500 | tollfree= | fax=
+| hours=8AM-8PM | price=
+| content=Renting equipment for downhill skiing, snowboarding, and cross-country skiing (skate-skiing & classic). They also rent snowshoes, ice skates, hockey sticks & pucks.
+}}
+* {{do
+| name=Rude Boys | alt= | url=https://rudeboys.com/ | email=
+| address=215 Banff Ave | lat=51.177596 | long=-115.571503 | directions=Lower level of Sundance Mall
+| phone=+1 403-762-8480 | tollfree=
+| hours= | price=
+| lastedit=2025-01-20
+| content=Rents snowboarding equipment only. Second location at 205 Caribou St.
+}}
+* {{do
+| name=Snowtips-Backtrax | alt= | url=https://snowtips-bactrax.com/ | email=snowtips@telusplanet.net
+| address=225 Bear St | lat=51.178111 | long=-115.572481 | directions=Beside the Lux Cinema
+| phone=+1 403-762-8177 | tollfree=
+| hours=08:00-20:00 every day | price=
+| lastedit=2022-07-01
+| content=In addition to downhill ski equipment, they rent cross country skis, light touring skis, skate skis, telemark skis, ski clothing & helmets, ice skates, crampons, snowshoes, winter boots, and sleds.
+}}
+* {{do
+| name=Soul Ski and Bike | alt= | url=https://soulskiandbike.com/ | email=info@soulskiandbike.com
+| address=203A Bear St | lat=51.176845 | long=-115.572578 | directions=
+| phone=+1 403-760-1650 | tollfree= | fax=
+| hours= | price=
+| content=Downhill ski and snowboard equipment.
+}}
+* {{do
+| name=Ultimate Ski & Ride | alt= | url=https://ultimatebanff.com/ | email=
+| address=206 Banff Ave | lat=51.176877 | long=-115.570650 | directions=
+| phone=+1 403-760-7583 | tollfree=+1-866-SKI-RIDE | fax=
+| hours= | price=
+| content=Ski and snowboard equipment for rent. They have a second location at Inns of Banff, 600 Banff Avenue.
+}}
+* {{do
+| name=UNLTD Boardshop | alt= | url=https://unltd.ca/ | email=
+| address=319 Banff Ave | lat=51.17905 | long=-115.57082 | directions=
+| phone=+1 403-762-3725 | tollfree=
+| hours=9AM-9:30PM | price=
+| lastedit=2024-08-16
+| content=Snowboard equipment, goggles and outerwear.
+}}
+
+==== Other winter activities ====
+
+* '''Ice skating'''. There are outdoor skating rinks at the Fairmont Banff Springs Hotel (fire, heated shelter) and at Banff Community High School (right next to Banff Avenue). A section of the Bow River is also cleared for skating. However, as always with bodies of natural ice, [[Ice safety|be careful]]. There is an indoor rink at Fenlands Banff Recreation Centre. Ice skates can be rented from some of the ski rental business.
+* ''' Snowshoeing'''. Strap on snowshoes and walk through pristine snow like the fur traders did in days gone by, a true winter experience. Guided snowshoe walks are available, or you can rent snowshoes from some ski rental shops. Snowshoeing is subject to the same '''avalanche risks''' as cross-country skiing; check the current avalanche risk for your planned route with Parks Canada or at the website of the [https://www.avalanche.ca/en/map Canadian Avalanche Centre]. In March 2014, four snowshoers were killed when they went into avalanche terrain near Lake Louise without proper training or equipment.
+* {{do
+| name=Sleigh rides | alt= | url=https://horseback.com/ | email=warner@horseback.com
+| address=Warner Stables on Sundance Road | lat=51.174665 | long=-115.581651 | directions=
+| phone=+1 403-762-4551 | tollfree=+1-800-661-8352
+| hours=Daily 10AM-8PM | price=From $30/adult
+| content=Their 12- and 18-passenger sleighs do hourly trips near the Banff townsite. Rides are roughly 45 minutes. They will provide hats & mittens if needed, blankets are also supplied to bundle up in. Couples can book a private 2-seater sleigh ride for $182 per couple.
+}}
+* {{do
+| name=Tubing and sledding | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Tube parks at Mt Norquay and Lake Louise Ski Resort.
+}}
+
+===Summer===
+Summer in Banff, just like winter, is stunning. There are plenty of hiking trails accessible from the main town, as well as tours for horseback riding, white water rafting, mountain biking and more. Be warned though - some smaller tour companies are not as professional as the larger tour companies. If they are overbooked, they may pass your credit card details along to a third party without your knowledge and book another tour on your behalf (not always at the same price, and not always the same tour!)
+[[File:Hummingbird Sitting on Bike.jpg|thumbnail|Hummingbird sitting on a spoke of a bike wheel in Banff]]
+* {{do
+| name=Canoeing & kayaking with Banff Adventures Unlimited | alt=formerly Blue Canoe | url=https://www.banffadventures.com/Things-To-Do/Summer-Activities/Canoe-Kayak-Rentals-Tours | email=
+| address=Banff canoe docks on Bow River | lat=51.178022 | long=-115.577042 | directions=
+| phone=+1 403-762-4554 | tollfree=+1-800-644-8888 | fax=
+| hours= | price=$36 per person for one hour
+|lastedit=2023-03-26| content=Three minutes walk from the centre of Banff, you can find the canoe docks. There, you can rent canoe or kayak to take a tranquil journey on the Bow River. 1- and 2-person kayaks available; canoes seat three. Guided tours in large voyageur canoes are offered twice daily. Purchase canoe vouchers at 211 Bear Street.
+}}
+* {{do
+| name=Holiday on Horseback | alt= | url=https://horseback.com/ | email=warner@horseback.com
+| address=Warner Stables or Spray River Corrals | lat=51.174328 | long=-115.582164 | directions=End of Sundance Road
+| phone=+1 403-762-4551 | tollfree=+1-800-661-8352 | fax=
+| hours= | price=From $46 per person
+|lastedit=2023-03-26| content=Trail rides, western cookouts (trail ride and campfire meal), and back-country rides. Wagons are available so that your whole group can go together, including non-riders.
+}}
+* {{do
+| name=Rocky Mountain Raft Tours | alt= | url=https://www.banffrafttours.com/ | email=
+| address=Base of Bow Falls | lat=51.164600 | long=-115.556419 | directions=
+| phone=+1 403-762-3632 | tollfree= | fax=
+| hours= | price=From $50 per adult
+|lastedit=2023-03-26| content=Float trips down the Bow River starting near the base of Bow Falls. The only rafting trips that take place inside Banff National Park; other rafting operators will pick you up in Banff and then start the trip somewhere outside the park. Season is from mid-May to late Sept.
+}}
+* {{do
+| name=Banff Legacy Trail | alt= | url=https://parks.canada.ca/pn-np/ab/banff/activ/cyclisme-biking/cyclismeroute-roadcycling/Heritage-Legacy | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+|lastedit=2023-03-26| content=22-km cycle path between Banff and Canmore.
+}}
+* {{do
+| name=Mountain biking | alt= | url=https://parks.canada.ca/pn-np/ab/banff/activ/cyclisme-biking | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+|lastedit=2023-03-26| content=Mountain biking is allowed on [https://www.pc.gc.ca/eng/pn-np/ab/banff/activ/cyclisme-biking/velodemontagne-mtnbiking.aspx designated trails] in Banff National Park, most of which have trail-heads in or near the town of Banff. Bike trails are also used by hikers, equestrians, bears, and other wildlife. Freeriding and downhilling are not permitted in the national park.
+}}
+* {{do
+| name=Rock climbing | alt= | url=https://www.banffadventures.com/Things-To-Do/summer/banff-rock-climbing | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+|lastedit=2023-03-26| content=The area around Banff offers climbing for climbers of all levels — all climbs will happen with certified guides. Good places for beginners are Rundle Rock near the golf course and Yamnuska Bluffs and Zygote Crag. Advanced climbers should head to Wasootch Creek, Heart Creek and a site near Lake Louise. Prices for climbing tours are a few hundred dollars for one person, but the per person price is less if there are two or more of you.
+}}
+* {{do
+| name=Via Ferrata at Norquay | alt= | url=https://banffnorquay.com/summer/ | email=
+| address= |lat=51.2040 | long=-115.5985 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+|lastedit=2023-03-26| content=A bit safer way of climbing, also performed with guides. You go up the mountain along a sort of ladders on the mountain wall.
+}}
+* {{do
+| name=Fishing | alt= | url=https://www.banffadventures.com/Things-To-Do/summer/banff-fishing | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+|lastedit=2023-03-26| content=Companies arrange fishing tours on Lake Minnewanka. There are both boat and wading tours. Some tours include equipment and/or the mandatory fishing permit ($36.36+GST), inquire beforehand!
+}}
+* {{do
+| name=Banff Springs Golf Course | alt= | url=https://banffspringsgolfclub.com/ | email=
+| address= | lat=51.1723 | long=-115.5438| directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2015-03-21
+| content=If you'd like to play golf, there's a 27-hole public golf course near to and operated by the landmark hotel. Along the season, several golf tournaments are arranged there.
+}}
+
+====Hiking and wildlife viewing====
+[[File:Bighorn Sheep (4276630893).jpg|thumbnail|Bighorn sheep]]
+Banff has the most beautiful trails surrounding it. You can pick up a free trail map at the Visitor Centre, or find many trail maps online, as [https://parks.canada.ca/pn-np/ab/banff/visit/brochures downloadable pdf files]. Please check the [https://parks.canada.ca/pn-np/ab/banff/activ trail reports online] or with the Parks Canada desk before you go, as high-elevation snow, bear activity, or other factors may close trails or create hazards. Another option is to go with a hiking guide and group, different locations are available.
+
+While in the area, always keep your eyes peeled as there are so many '''animals''' to spot in the summer in Banff. It is important to keep your distance, though, as wildlife is wild and they should be kept that way, they can be dangerous too! In the spring, female elk are very protective of their calves, who may lie hidden out of sight; in fall, bull elk are extremely aggressive during the rut. For this reason, you will need a [[Travel photography/Full systems#Telephoto lenses|telephoto lens]] to get good photos of wildlife while staying safe.
+
+How can you tell that you are getting too close to wildlife? If the animal stares at you, moves away from you (even just a few steps), or behaves aggressively toward you, then you should back away until that behavior stops. Also, it is illegal to feed wildlife in a national park.
+
+Visitors often confuse bighorn sheep with mountain goats. Goats are white with black noses and short black horns, and are usually seen high up on rocky ledges. Bighorn sheep are brown, with white rump patches and brown horns. They are usually seen by roadsides and grazing on grasses close to rocky outcrops. You'll never forget the difference after you watch this Parks Canada music video, [https://youtu.be/FJyseYPX2IM "GOat Sheep GOat"].
+
+[[File:Banff trail.jpg|thumbnail|The Bow River trail]]
+* {{do
+| name=Sulphur Mountain Trail | alt= | url= | email=
+| address= | lat=51.1442 | long=-115.5745 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Rather than taking the gondola up Sulphur Mountain, you can hike the trail up to the top of the ridge and catch the gondola down. (It's half price to just take the gondola down, but it's free before 10AM and after 7PM.) The trail is steep but manageable for those with a reasonable level of fitness. Note that there is a little-used road that goes down the side of Sulphur Mountain that is away from the town, which has been mistaken for the hiking trail; the road is much longer than the hiking trail. If you opt to hike down after taking the gondola up, you should be able to see the gondola towers and cables on your way down, as the hiking trail zigzags below the gondola lift.
+}}
+* {{do
+| name=Tunnel Mountain Trail | alt= | url= | email=
+| address= |lat=51.1754 | long=-115.5618 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A hike of 4.3 km, ranked as "easy". It starts from downtown Banff and takes you up the Tunnel Mountain, from where you have a nice view over the surroundings. You won't find any tunnel along the trail; when the Canadian Pacific railway was constructed in the late 19th century a plan was to build a tunnel through this mountain but it never happened.
+}}
+* {{do
+| name=Fenland Trail | alt= | url= | email=
+| address= |lat=51.1813 | long=-115.5798 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A very good spot for birdwatching all year, and you may also see beaver or muskrat in 40 Mile Creek. May be closed in spring due to calving elk. (Cow elk are very protective of calves.)
+}}
+* {{do
+| name=Marsh Loop | alt= | url= | email=
+| address= |lat=51.1709 | long=-115.5881| directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=An easy walk of 2.4 km through the marshlands near Banff. This is a good place for birdwatching and there are good views of Mount Norquay.
+}}
+* {{do
+| name=Bow River Trail | alt= | url= | email=
+| address= | lat=51.1704 | long=-115.5632 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=The Bow River Trail is a riverside trail of 0.9 or 1.4 km, which are paved and according to the home page of the Town of Banff even wheelchair accessible.
+}}
+
+[[File:Cheminees banff.jpg|thumbnail|Hoodoos in the winter]]
+* {{do
+| name=Hoodoo Trail | alt= | url= | email=
+| address= | lat=51.1680 | long=-115.5572| directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=A popular walk to the hoodoos (a kind of rock formations) east of Banff.
+}}
+* {{do
+| name=Sunshine Meadows | alt= | url=https://www.sunshinemeadowsbanff.com/ | email=
+| address= | lat=51.1144 | long=-115.767 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=An alpine park with trails with varying difficulty levels. There are guided walks too, and the area offers good views of the highest mountains in the Banff National Park. Shuttle bus access from Banff.
+}}
+* {{do
+| name=Lake Minnewanka Loop | alt= | url= | email=
+| address= |lat=51.2472 | long=-115.4991 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Great spot to see bighorn sheep next to the road, especially when you get to Lake Minnewanka and the area around Johnson Lake and Two Jack Lake.
+}}
+* {{do
+| name=Bow Valley Parkway | alt= | url=https://parks.canada.ca/pn-np/ab/banff/visit/les10-top10/promenade-de-la-vallee-de-la-bow-bow-valley-parkway | email=
+| address= | lat=51.171 | long=-115.661 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+|lastedit=2023-03-26| content=A scenic route from Banff to Lake Louise, running parallel to Highway 1. You have a good chance at seeing different mammals like bighorn sheep, wolves, elk, deer and grizzly bears. There are [https://www.pc.gc.ca/eng/pn-np/ab/banff/plan/transport/pvb-bvp.aspx seasonal travel restrictions].
+}}
+* {{do
+| name=Banff Springs Golf Course | alt= | url= | email=
+| address= |lat=51.1671 | long=-115.5493 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Great place to find elk all year round. They love grazing on the lush grass.
+}}
+* {{do
+| name=Mount Norquay Road | alt= | url= | email=
+| address= |lat=51.1900 | long=-115.5837 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Look for bighorn sheep here, and if you are lucky, you may also spot a mountain goat along the cliffs.
+}}
+
+===Events and festivals===
+* {{event
+| name=Banff Summer Music Series | alt= | url=https://www.banfflakelouise.com/events | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| year= | month=| date=
+| endyear= | endmonth= | enddate=
+| content=Musical performances of all genres. Usually an annual festival. Be sure to check out their Events Calendar for other musical events throughout the year and for the series schedule.
+}}
+* {{event
+| name=Banff World Media Festival | alt=formerly Banff World Television Festival | url=https://banffmediafestival.playbackonline.ca/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Prices start at $249 + HST for a Content Pass that includes attending  panels, discussions and classes; to $895 + HST for a Marketplace Pass to also meet showrunners, directors and buyers, to do "speed pitching," and to later see festival session replays 
+| year= | month=mid-June | date=
+| endyear= | endmonth=mid-July | enddate=
+| content=An annual event that attracts television and digital media industry professionals from around the world.  
+}}
+* {{event
+| name=Starlight Concert Series | alt= | url=https://www.banff-springs-hotel.com/experience/events-calendar/ | email=banffsprings@fairmont.com
+| address=Fairmont Banff Springs, 405 Spray Avenue | lat= | long=- | directions=
+| phone=+1 403-762-2211 | tollfree=+1-833-762-6866 (when booking tickets with a room reservation)  | fax=
+| hours= | price= $60-90 per person, for hotel guests only
+| year=  | month= | date=
+| endyear= | endmonth= | enddate=
+| content=A weekly series of concerts usually held outdoors on Friday evenings and weekends, with the Canadian Rockies providing the scenery. Each week or month showcases a different music genre. Performers include up-and-coming and award-winning Canadian singers and musicians, especially those from Alberta.    
+}}
+* {{event
+| name=Banff Centre Mountain Film and Book Festival | alt= | url=https://www.banffcentre.ca/banff-mountain-film-book-festival | email=
+| address=| lat= | long=- | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Tickets and passes for the festival go on sale in early October.  In-person event tickets cost $25-35 (2021)
+| year= | month= | date=
+| endyear= | endmonth= | enddate=
+| content=An annual international festival that showcases international films and books on outdoor adventure and mountain culture. It's usually a very popular event that is well attended at the Banff Centre and various venues around Banff by a diverse mix of backcountry enthusiasts, weekend warriors and average Joes. 
+}}
+
+==Buy==
+Enjoy strolling alongside locals and world-travellers as you discover a cosmopolitan collection of galleries, boutiques and cafés. Shops range from internationally recognized clothiers or independently-owned establishments to Canada's oldest department store.  A recommended way to experience the highlights is to start on Banff Avenue at the Cascade Plaza mall, do a quick circuit of the shops there, then head down Banff Avenue towards the Bow River.  This is the retail, cafe, and restaurant heart of Banff.  Once you get near the river, turn around and head back on the other side of Banff Avenue to complete the Banff shopping loop.
+
+==Eat==
+[[File:BanffAvenue.jpg|thumb|400px|Banff Avenue]]
+
+Banff is an exciting place to visit on all fronts, and the palate is not excluded. There are pubs, fast-food, fine dining, steakhouses (this is Alberta, after all!), traditional fare from around the world, and candy shops.
+
+Banff can be an expensive place to dine as it is a tourist destination.
+
+''Alcoholic beverages:'' Visitors to Banff can sometimes be perplexed by Alberta's liquor laws. The legal drinking age in Alberta is 18. A restaurant that does not serve alcohol can admit diners of all ages. However, some restaurants that serve alcohol may be required to bar anyone under 18 from entering — even if they are just going to use the toilet. A second type of liquor licence allows both adults and minors to enter. To further confuse things, the same restaurant may be allowed to accept diners of all ages at certain times, but be open only to ages 18+ at other times of the day (usually evenings). All establishments that serve alcoholic beverages are legally required to have a food menu as well.
+
+In a hotel, guests cannot take their unfinished alcoholic drinks from the hotel restaurant to their hotel room.
+
+These are not rules imposed by management; they are legal requirements, and the business could forfeit their liquor licence if they are caught breaking them. Similarly, younger drinkers may have to show proof of age before they are served. Again, the business could lose their liquor licence if they are found serving under-aged patrons, so they need to be very careful.
+
+===Budget===
+* {{eat
+| name=Chaya | alt= | url=https://www.chayabanff.com/ | email=
+| address=118 Banff Ave | lat=51.175336 | long=-115.570758 | directions=
+| phone=+1 403-760-0882 | tollfree=
+| hours= | price=
+| lastedit=2025-01-20
+| content=Tiny Japanese noodle shop.
+}}
+* {{eat
+| name=Nesters Market | alt= | url=https://www.nestersmarket.com/store/banff/ | email=
+| address=122 Bear St | lat=51.175943 | long=-115.572511 | directions=
+| phone= | tollfree=
+| hours=8AM-10PM | price=
+| lastedit=2025-01-20
+| content=For those that need a supermarket instead of a restaurant, Nesters has a great range of organic products.
+}}
+* {{eat
+| name=IGA | alt= | url=https://iga.ca/ | email=
+| address=318 Marten St | lat=51.179491 | long=-115.571568 | directions=3 blocks from the Samesun Backpacker Lodge and Banff International Hostel
+| phone=+1 403-762-5378 | tollfree=
+| hours=7AM-10PM | price=
+| lastedit=2022-04-22
+| content=This large grocery store also sells ready-to-eat meals to take away.
+}}
+* {{eat
+| name=Wild Flour Bakery | alt= | url=https://www.wildflourbakery.ca/ | email=
+| address=211 Bear St | lat=51.177345 | long=-115.572739 | directions=
+| phone=+1 403-760-5074 | tollfree=
+| hours=7AM-5PM daily | price=
+| lastedit=2025-01-20
+| content=Artisanal bakery cafe. Their menu includes sandwiches, croissants and different soups.
+}}
+
+===Mid-range===
+[[File:Sulphur Mountain Restaurant (369087090).jpg|thumbnail|Meal with a view, on the top of Sulphur Mountain]]
+* {{eat
+| name=Balkan Restaurant | alt= | url=https://www.banffbalkan.ca/ | email=
+| address=120 Banff Ave | lat=51.175509 | long=-115.570827 | directions=
+| phone=+1 403-762-3454 | tollfree=
+| hours= | price=
+| content=The Balkan restaurant first fired up its grill on Banff Avenue in 1982. The restaurant was the creation of Greek families out of their element in the cold Canadian Rockies who wished to bring the authentic flavors and warm festive atmosphere of the Mediterranean to this high mountain town. Check out their Tuesday and Thursday night "Greek Night" with live belly dancing, Greek dancing and plate smashing.
+}}
+* {{eat
+| name=Magpie and Stump | alt= | url=https://www.magpieandstump.ca/ | email=
+| address=203 Caribou St | lat=51.176552 | long=-115.571377 | directions=
+| phone=+1 403-762-4067 | tollfree=
+| hours= | price=$25-40
+| lastedit=2025-01-20
+| content=A Mexican restaurant that specializes in margaritas and typical Mexican dishes. There is usually at least one night per week where margaritas are half-price, and if you go in early you are almost guaranteed to leave late.
+}}
+* {{eat
+| name=The Meatball Pizza & Pasta | alt= | url=https://banffptarmiganinn.com/restaurant/ | email=
+| address=337 Banff Av | lat=51.180174 | long=-115.569832 | directions=at the Banff Ptarmigan Inn
+| phone=+1 403-762-3667 | tollfree=
+| hours= | price=Breakfast around $20; dinner $30-40
+| lastedit=2025-01-20
+| content=Truth in advertising: the dinner menu includes pizza, pasta, and some creative meatball options. Several different takes on bacon, sausage, & eggs for breakfast, alongside the offer of a boozy start to the day if one so desires. Vegetarian choices available too.
+}}
+* {{eat
+| name=Seoul Country Korean Restaurant | alt= | url= | email=seoulcountrykorean@hotmail.com
+| address=215 Banff Ave | lat=51.177574 | long=-115.571033 | directions=Sundance Mall
+| phone=+1 403-762-4941 | tollfree=
+| hours= | price=$20
+| content=This Korean BBQ restaurant smells fantastic as you enter. Value for money.
+}}
+* {{eat
+| name=Rose and Crown | alt= | url=https://roseandcrown.ca/ | email=
+| address=202 Banff Ave | lat=51.176841 | long=-115.570583 | directions=
+| phone=+1 403-762-2121 | tollfree=
+| hours= | price=$30-40
+| lastedit=2025-01-20
+| content=Serves a substantial, eclectic menu, along with 11 beers and one cider on tap.
+}}
+* {{eat
+| name=Vistas Dining Room | alt= | url=https://www.banffcentre.ca/vistas-dining-room | email=
+| address=End of St. Julien road | lat=51.171588 | long=-115.561025 | directions=upper level of Sally Borden Building at the Banff Centre
+| phone= | tollfree=
+| hours= | price=
+| content=This buffet restaurant in the Banff Centre shares a floor with The Three Ravens (see below), but provides more food for less money.
+}}
+
+===Splurge===
+
+* {{eat
+| name=Grizzly House | alt= | url=http://banffgrizzlyhouse.com/ | email=
+| address=207 Banff Ave | lat=51.177043 | long=-115.571125 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=A must-see, this was once a swinger's bar. This uniquely shaped restaurant downtown has telephones at every table with placemats that serve as a map so you can call tables to chat through your dinner. It is a laid-back, fun atmosphere and the food does not disappoint. A typical meal may consist of a Caesar salad to start, then a cheese fondue served with freshly steamed veggies and mouth-watering bread for dipping. The second course is where things get exciting; opt for the hot-rock style of fondue. Rocks are brought to the table and heated to {{F|300}}. Each rock gets its own pot of garlic butter smeared on, first by your server and then by you; each person receives a customized plate of raw fish, chicken, bison, frog legs, AAA-beef, ''shark'', ''snake'', whatever you wish, or dare, to try. Accompanying the exotic mix of possibilities are dipping sauces like chipotle and teriyaki.
+}}
+* {{eat
+| name=The Keg Steakhouse and Lounge - Caribou Lodge | alt= | url=https://thekeg.com/en/locations/banff-caribou | email=
+| address=521 Banff Av | lat=51.184189 | long=-115.560482 | directions=at the Banff
+| phone=+1 403 762-4442 | tollfree=
+| hours= | price=
+| content=Steaks and a casual ambiance.
+}}
+* {{eat
+| name=The Keg Steakhouse and Lounge - Downtown | alt= | url=https://thekeg.com/en/locations/banff-downtown | email=
+| address=117 Banff Av | lat=51.175341 | long=-115.571254 | directions=
+| phone=+1 403-760-3030 | tollfree=
+| hours= | price=
+| content=The Keg steakhouse also has another restaurant downtown.
+}}
+* {{eat
+| name=The Maple Leaf | alt= | url=https://banffmapleleaf.com/ | email=
+| address=137 Banff Ave | lat=51.176417 | long=-115.571162 | directions=
+| phone=+1 403-760-7680 | tollfree=
+| hours= | price=Brunch/lunch around $30; dinner $60-100
+| lastedit=2025-01-20
+| content=Seafood and chophouse showcasing salmon, duck, bison, and Alberta beef, amongst other offerings. Impressive wine list that runs to some 40 pages.
+}}
+* {{eat
+| name=Saltlik Steakhouse | alt= | url=https://saltlik.com/location/saltlik-banff/ | email=
+| address=221 Bear St | lat=51.177899 | long=-115.572535 | directions=
+| phone=+1 403-762-2467 | tollfree=
+| hours= | price=
+| content=Features unique cocktails and a varied wine menu downstairs and a full on steakhouse upstairs.
+}}
+* {{eat
+| name=Eden | alt= | url=https://www.rimrockresort.com/dine-drink/eden/ | email=
+| address=300 Mountain Ave | lat=51.15118 | long=-115.559288 | directions=in the Rimrock Resort
+| phone=+1 403-762-1865 | tollfree=
+| hours= | price=4-course menu $160; 7-course menu $185
+| lastedit=2025-01-20
+| content=French restaurant using many local ingredients, with some Asian influences. Choice of several set menus (prix fixe) that change seasonally, one of which is vegetarian. 10-time winner of CAA 5-Diamond and "Best of Award of Excellence" Wine Spectator awards.
+}}
+* {{eat
+| name=Chucks Steakhouse | alt= | url=https://www.chuckssteakhouse.ca/ | email=
+| address=101 Banff Avenue | lat=51.1745 | long= -115.5713 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2018-05-26
+| content=High-end steak and dining.
+}}
+* {{eat
+| name=Three Ravens Restaurant and Wine Bar | alt= | url=https://www.banffcentre.ca/three-ravens-restaurant-wine-bar | email=
+| address=End of St. Julien Road | lat=51.169963 | long=-115.560347 | directions=3rd level of Sally Borden Building at the Banff Centre
+| phone= | tollfree=
+| hours= | price=
+| content=Fine dining with fine views. The restaurant uses fresh local ingredients and has an ambitious and creative kitchen that mostly succeeds in meeting its goals. The service is reportedly superb. Expect about $100 per person for a decent meal.
+}}
+
+===Desserts & sweets===
+Every tourist destination has stores that specialize in tempting visitors with sweet delights.
+* {{eat
+| name=Beaver Tails | alt= | url=https://beavertails.com/ | email=
+| address=120 Banff Ave | lat=51.175506 | long=-115.570776 | directions=
+| phone=+1 403-985-0086 | tollfree=
+| hours= | price=
+| content=Deep-fried pastry topped with many sweet options.
+}}
+* {{eat
+| name=Cows Ice Cream | alt= | url=https://cows.ca/store-locations/ | email=
+| address=134 Banff Ave | lat=51.176148 | long=-115.570706 | directions=
+| phone=+1 403-760-3493 | tollfree=
+| hours= | price=
+| content=Ice cream cones, shakes, sundaes, and fun cow-related novelty t-shirts and mooooer.
+}}
+* {{eat
+| name=The Fudgery | alt= | url=https://thefudgery.com/ | email=
+| address=215 Banff Ave | lat=51.177552 | long=-115.571041 | directions=
+| phone=+1 403 762-3003 | tollfree=
+| hours= | price=
+| content=Hand-made fudge and chocolates.
+}}
+* {{eat
+| name=Mountain Chocolates | alt= | url=https://mountain-chocolates.business.site/ | email=
+| address=200 Banff Ave | lat=51.176717 | long=-115.570703 | directions=
+| phone=+1 403-762-2624 | tollfree=
+| hours= | price=
+| content=Reportedly the only chocolate shop in town where the products are manufactured on site. They also have caramel apples, ice cream and other sweet things.
+}}
+* {{eat
+| name=Welch's Chocolate Shop | alt=The Banff Candy Store | url=https://banff-candy-store.business.site/ | email=
+| address=126 Banff Ave | lat=51.175805 | long=-115.57076 | directions=
+| phone=+1 403-762-3737 | tollfree=
+| hours= | price=
+| content=Candy and chocolates from all over the world. Ice cream cones, fudge, and locally-made chocolate treats.
+}}
+
+==Drink==
+Banff has a large variety of places to sit and enjoy a drink whether it is après ski or a patio.
+
+Most of the pubs have live music, both open mike and hired bands. Dancing is definitely encouraged!
+
+* {{drink
+| name=St. James Gate | alt= | url=https://www.stjamesgatebanff.com/ | email=
+| address=207 Wolf St | lat=51.178391 | long=-115.571715 | directions=
+| phone=+1 403-762-9355 | tollfree=
+| hours= | price=
+| content=Irish pub.
+}}
+* {{drink
+| name=Wild Bill's Legendary Saloon | alt= | url=https://wildbillsbanff.com/ | email=
+| address=201 Banff Ave | lat=51.176713 | long=-115.57109 | directions=
+| phone=+1 403-762-0333 | tollfree=
+| hours= | price=
+| content=Wild Bill's offers bands, a dance hall, line dancing & two stepping. Can accommodate groups of all sizes.
+}}
+* {{drink
+| name=Rose and Crown | alt= | url=https://roseandcrown.ca/ | email=
+| address=202 Banff Av | lat=51.176799 | long=-115.570626 | directions=Upstairs
+| phone=+1 403-762-2121 | tollfree=
+| hours= | price=
+| content=English pub.
+}}
+* {{drink
+| name=Elk and Oarsman | alt= | url=https://elkandoarsman.com/ | email=
+| address=1119 Banff Av | lat=51.175496 | long=-115.571242 | directions=2nd floor
+| phone=+1 403-762-4616 | tollfree=
+| hours= | price=
+| content=Canadian-style pubs.
+}}
+* {{drink
+| name=High Rollers | alt= | url=https://www.highrollersbanff.com/ | email=
+| address=110 Banff Ave | lat=51.174932 | long=-115.570827 | directions=lower level
+| phone=+1 403-762-2695 | tollfree=
+| hours=Su-F 4PM to late, Sa noon to late | price=
+| lastedit=2022-04-22
+| content=Bar featuring four bowling lanes, pizza, and a selection of craft beers.
+}}
+* {{drink
+| name=The Beaver | alt=Samesun Backpackers Lodges | url=https://www.beaverbarbanff.com/ | email=
+| address=433 Banff Ave | lat=51.182366 | long=-115.566018 | directions=
+| phone=+1 403-762-4499 | tollfree=
+| hours= | price=
+| content=Banff's liveliest and most central Backpacker bar. Nightly drink specials, $3 cocktails, $3.25 pints until 7PM every night. Open mic, trivia, live music and theme parties.
+}}
+* {{drink
+| name=Pump and Tap Tavern | alt= | url=https://pumpandtap.com/ | email=
+| address=215 Banff Av | lat=51.177551 | long=-115.571022 | directions=lower level Sundance Mall
+| phone=+1 403-760-6610 | tollfree=
+| hours= | price=
+| content=British pub. Looking to watch the footie game or cricket match?
+}}
+* {{drink
+| name=Dancing Sasquatch | alt= | url=https://banffnightclubs.com/ | email=
+| address=120 Banff Ave | lat=51.175427 | long=-115.570883 | directions=
+| phone=+1 403-762-4002 | tollfree=
+| hours=Daily 9PM-2:30AM | price=
+| content=Very popular with the locals who like to party and with tourists. Be there by 10PM to avoid long lines on weekends and holidays.
+}}
+* {{drink
+| name=Banff Avenue Brewery | alt= | url=https://banffavebrewingco.ca/ | email=
+| address=110 Banff Ave | lat=51.1749 | long=-115.57066 | directions=in Clock Tower Village Mall, upstairs near the Avenue and Buffalo
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2019-05-11
+| content=The local brewery in Banff operates out a darkened second floor space downtown. A good IPA for the craft beer snob, and a selection of other milder beers here for the tourist market. Elk pie and bison stew are on the menu.
+}}
+* {{drink
+| name=Park Distillery | alt= | url=https://parkdistillery.com/ | email=
+| address=219 Banff Ave | lat=51.1778 | long=-115.571 | directions=
+| phone=+1 403 762-5114 | tollfree=
+| hours=11AM-10PM | price=
+| lastedit=2022-07-09
+| content=Local distillery, serving their own liquors, flights, and cocktails, together with comfort food. Space opens to outside in summer.
+}}
+
+==Sleep==
+
+Being a national park, Banff has plenty of accommodation. However, book early, because places fill up quickly in winter and summer. To live in Banff, as opposed to being a perpetual tourist, residents must have a business in town. If you have access to a car, another often cheaper alternative is to stay in [[Canmore]] and drive to the ski resorts or into Banff.
+
+Most hotels are along Banff Avenue or on Tunnel Mountain Road.
+
+===Budget===
+[[File:Northern lights over the mountain.jpg|thumbnail|[[Northern lights]] over Banff]]
+* {{sleep
+| name=Banff Ptarmigan Inn | alt= | url=https://banffptarmiganinn.com/ | email=
+| address=337 Banff Ave | lat=51.180199 | long=-115.569888 | directions=
+| phone=+1 403-762-2207 | tollfree=+1-800-661-8310
+| checkin= | checkout= | price=$149-599
+| lastedit=2025-01-20
+| content=A block from downtown, it offers a great location.
+}}
+* {{sleep
+| name=Banff International Hostel | alt=Not associated with Hostelling International | url=https://www.banffinternationalhostel.com/ | email=reservations@banffinternationalhostel.com
+| address=449 Banff Ave | lat=51.182771 | long=-115.564692 | directions=
+| phone=+1 403-985-7744 | tollfree=+1-855-5HOSTEL | fax=+1 403-985-7745
+| price=$25-160 | checkin=4PM | checkout=11AM
+|lastedit=2023-03-26| content=The Banff International Hostel offers bunks in dorm rooms or private bedrooms all with lockers and with private bathrooms. 2 blocks from downtown on a bus route it connects guests with most sights in town. It offers free Wi-Fi and 3 internet work stations. For updates, check the hostel's blog as it keeps adding new services!
+}}
+* {{sleep
+| name=YWCA Banff Hotel | url=https://ywcabanff.ca/hotel/ | email=
+| address=102 Spray Ave | lat=51.171892 | long=-115.569416 | directions=
+| phone=+1 403-762-3560 | tollfree=+1-800-813-4138 | fax=
+| price=Private and semi-private rooms starting at $46, dormitory rooms starting at $22, group rates available | checkin= | checkout=
+|lastedit=2023-03-26| content=The Banff Y has a fully licensed bistro with an outdoor patio and a variety of meeting space. Internet ($1 for 10 minutes on a computer or $12 for 24 hours of Wi-Fi), laundry, common kitchen (it is not sparkling clean), and quiet sitting room all on the premises.
+}}
+* {{sleep
+| name=HI-Banff Alpine Centre | url=https://hihostels.ca/en/destinations/alberta/hi-banff | email=
+| address=801 Coyote Dr | lat=51.185117 | long=-115.548525 | directions=on Tunnel Mountain Road
+| phone= | tollfree=+1-866-762-4122 | fax=
+| price= | checkin= | checkout=
+|lastedit=2023-03-26| content=With private rooms, 2 spacious kitchens and lounge areas, 2 fireplaces and restaurant Cougar Pete's Lookout & Kitchen. 20-minute walk to downtown Banff. "The Storm Cellar, Banff's Pub and Game house" features drink specials, games (pool, darts, foosball) and an eclectic bunch of servers.
+}}
+* {{sleep
+| name=King Edward Hotel | alt= | url=https://www.kingedwardhotel-banff.com/ | email=reservations@kingedwardhotel-banff.com
+| address=137 Banff Ave | lat=51.176513 | long=-115.5712 | directions=
+| phone=+1 403-985-3734 | tollfree=+1-888-762-2607 | fax=+1 403-985-3735
+| checkin=4PM | checkout=11AM | price=$55-199
+| lastedit=2025-01-20
+| content=The King Eddie, as the locals call it, is at the most central point in Banff. The hotel offers private rooms with all major amenities, like free wireless internet, in-room coffee and tea, private bathrooms and 32" flat screen cable TV. Concierge service is available at the front desk.
+}}
+* {{sleep
+| name=SameSun Backpacker Lodge | url=https://samesun.com/banff-hostel/ | email=
+| address=433 Banff Ave | lat=51.182484 | long=-115.566114 | directions=
+| phone=+1 403-762-4499 | tollfree= | fax=
+| price=Ski and Stay for $155 or rooms starting at $31/night | checkin= | checkout=
+|lastedit=2023-03-26| content=A 100-bed hostel with a private room. Each room has an en suite bathroom. Lockers, laundry, common lounge and kitchen, free Wi-Fi and Internet kiosks, video games, nightly activities, BBQs, local tours, patio. Breakfast (self-serve pancakes, toast, porridge, fruit, juice, coffee, tea) included. Daily activities, including open mic, trivia, ice skating, bands, and theme parties.
+}}
+* {{sleep
+| name=Tunnel Mountain Campgrounds | alt= | url=https://parks.canada.ca/pn-np/ab/banff/activ/camping | email=
+| address= | lat=51.19333 | long=-115.527434 | directions=
+| phone= | tollfree= | fax=
+| price=$27.40-32.30 | checkin= | checkout=
+|lastedit=2023-03-26| content=Two sites, one of them operating around the year (Tunnel Mountain I is just open during the summer). The other has a 34-site "walk in" tenting area and a total of 188 sites.
+}}
+* {{sleep
+| name=The Dorothy Motel | alt= | url=https://dorothymotel.com/ | email=reservations@banfflodgingco.com
+| address=250 Marmot Cres; | lat=51.18635 | long=-115.55634 | directions=behind the Co-op Gas Bar
+| phone=+1 403-762-3386 | tollfree=+1-866-474-0423 (in North America)
+| checkin=4pm | checkout=11am | price=$129-329
+| lastedit=2025-01-20
+| content=Self-described "boutique motel" with an artistic theme showcasing pioneering mountain women. Rooms include microwave, mini-fridge, parking, wi-fi. Some rooms pet friendly at an additional $25/night; phone ahead if bringing a pet. Check in on your mobile phone or in person at the nearby Hotel Canoe, 600 Banff Ave.
+}}
+
+===Mid-range===
+* {{sleep
+| name=Banff Caribou Lodge & Spa | url=https://banffcariboulodge.com/ | email=reservations@banfflodgingco.com
+| address=521 Banff Ave | lat=51.184199 | long=-115.560476 | directions=
+| phone=+1 403-762-5887 | tollfree=+1-800-561-8764 | fax=
+| price= | checkin=4pm | checkout=11am
+|lastedit=2023-11-10| content=This mountain-themed lodge offers luxury bedding, large jetted hotpool, underground parking, The Keg Steakhouse & Lounge, and The Red Earth Spa.
+}}
+* {{sleep
+| name=Banff Inn | url=https://banffinn.com/ | email=
+| address=501 Banff Ave | lat=51.183575 | long=-115.562346 | directions=
+| phone=+1 403-762-8844 | tollfree=+1-800-667-1464 | fax=
+| price= | checkin= | checkout=
+|lastedit=2023-03-26| content=The Banff Inn features standard guest rooms, rooms with jacuzzi tubs, loft units, king rooms and honeymoon suites.
+}}
+* {{sleep
+| name=Banff Rocky Mountain Resort | url=https://rockymountainresort.com/ | email=
+| address=1029 Banff Ave | lat=51.199798 | long=-115.536007 | directions=
+| phone=+1 403-762-2638 | tollfree=+1-800-563-8764 | fax=
+| price= | checkin= | checkout=
+|lastedit=2023-03-26| content=This resort features suite-style accommodation with kitchens and fireplaces. The resort also offers an indoor pool, tennis courts, Wi-Fi, and complimentary shuttle to and from downtown.
+}}
+* {{sleep
+| name=Best Western Plus Siding 29 Lodge | url=https://www.bestwestern.com/en_US/book/hotels-in-banff/best-western-plus-siding-29-lodge/propertyCode.61028.html | email=
+| address=453 Marten St | lat=51.182888 | long=-115.565452 | directions=
+| phone=+1 403-762-5575 | tollfree= | fax=
+| price= | checkin= | checkout=
+|lastedit=2023-03-26| content=Breakfast included, heated indoor pool, balconies with mountain views, jacuzzi suites, heated parking and pet-friendly.
+}}
+* {{sleep
+| name=Fox Hotel & Suites | url=https://foxhotelandsuites.com/ | email=
+| address=461 Banff Ave | lat=51.183323 | long=-115.562995 | directions=
+| phone=+1 403-760-8500 | tollfree=+1-800-661-8310 | fax=
+| price= | checkin= | checkout=
+|lastedit=2023-03-26| content=The Fox offers one- and two-bedroom suites and hotel rooms. The hotel's centrepiece is the hot pool inspired by the original Cave and Basin Site.
+}}
+* {{sleep
+| name=Hidden Ridge Resort | url=https://banffhiddenridge.com/ | email=
+| address=901 Hidden Ridge Way | lat=51.187884 | long=-115.546414 | directions=
+| phone=+1 403-762-3544 | tollfree=+1-800-661-1372 | fax=
+| price= | checkin= | checkout=
+|lastedit=2023-03-26| content=This resort features condo style accommodation with full kitchens and wood-burning fireplaces. The resort also offers two outdoor hot pools, BBQ and picnic areas and Wi-Fi. It is located on the Banff transit route.
+}}
+* {{sleep
+| name=Hotel Canoe & Suites | alt=formerly Inns of Banff | url=https://hotelcanoeandsuites.com/ | email=reservations@banfflodgingco.com
+| address=#2000 - 600 Banff Ave | lat=51.185295 | long=-115.555708 | directions=opposite the Co-op gas bar
+| phone= | tollfree=+1-888-661-1272
+| checkin=4pm | checkout=11am | price=$229-579
+| lastedit=2025-01-20
+| content=Accommodation options include not just rooms but also 3- and 4-bedroom condos.  Offers outdoor hot pool & firepit as well as an onsite restaurant.
+}}
+
+===Splurge===
+[[File:Banff Springs Hotel - Fall 2013-2.jpg|thumb|Banff Springs Hotel]]
+* {{sleep
+| name=Banff Springs Hotel | alt= | url=https://www.fairmont.com/banff-springs/ | email=
+| address=405 Spray Ave | lat=51.16435 | long=-115.562126 | directions=
+| phone=+1 403-762-2211 | tollfree=+1-866-540-4406
+| checkin= | checkout= | price=From $270/night
+| wikipedia=Banff Springs Hotel | wikidata=Q806429
+| lastedit=2023-03-26
+| content=One of the [[grand old hotels]], few hotels can compare to the majesty of the Fairmont Banff Springs Hotel. Nestled in the trees overlooking the rest of the town and valley, it is a magnificent location for a magnificent building. Multiple restaurants, a heated outdoor pool and a wide range of accommodation. All this comes at a price, though, and the Banff Springs is an expensive hotel. Also, booking very early is required. Among the luxurious amenities, you can indulge in their three waterfall treatments whirlpools and indoor Hungarian mineral pool (that actually has music underwater to soothe you as you float into complete relaxation) or enjoy treatments at the onsite Willow Stream Spa. Bike and ski rentals are available at the hotel and can be booked in advance.
+}}
+* {{sleep
+| name=Rimrock Resort Hotel | alt= | url=https://www.rimrockresort.com/ | email=info@rimrockresort.com
+| address=300 Mountain Ave | lat=51.151535 | long=-115.559525 | directions=
+| phone=+1 403-762-3356 | tollfree=+1-888-RIMROCK
+| checkin= | checkout= | price=From $168/night
+| wikipedia=The Rimrock Resort Hotel | wikidata=Q19842523
+| lastedit=2023-03-26
+| content=Perched dramatically on the edge of Sulphur Mountain, the Rimrock has a spa and several fine dining restaurants.
+}}
+
+==Connect==
+
+All phone numbers must be preceded by a local area code. The area codes 403 and 587 are used for Banff & Lake Louise and most of Southern Alberta. If you see a Banff phone number without an area code, use the older area code, 403.
+
+==Stay safe==
+[[File:Berries are Yummy (5004711979).jpg|thumbnail|You may encounter bears, although the risk is much smaller than it used to be]]
+Banff has a lot of '''wildlife''' roaming in and around the town. Be careful of elk and deer when driving in the town. The most dangerous wildlife in Banff National Park are not bears or cougars, but elk. In spring, female (cow) elk are very protective of their offspring and will charge anyone who they consider a threat. In the fall, male (bull) elk are rutting and very aggressive. Cow elk weigh roughly 230 kg (507 lb), while bull elk weigh about 320 kg (705 lbs). Both sexes are capable of seriously injuring a person, and rutting males have also damaged cars.
+
+Thirty years ago, '''[[bears]]''' used to be quite common within the town but conservation efforts have largely fixed this problem. Garbage and litter within the town must be discarded into bear-proof containers. In Banff National Park it is illegal to feed any wildlife, and both stupid and illegal to feed bears. "A fed bear is a dead bear": bears who learn to associate humans with food engage in behaviours that are threatening to humans and ultimately fatal to the bear.
+
+'''Avalanches''' are a risk in winter. This risk is not limited to people engaging in activities like cross-country (Nordic) skiing, skiing off piste, ice climbing, or snowmobiling. The winter of 2013-2014 was particularly tragic in Banff National Park because four people were killed by an avalanche when snowshoeing and two people were killed by an avalanche when sledding. None of them had any avalanche gear with them.
+
+Learn to identify avalanche hazards.  An avalanche slope has enough of a slope to it that you can ski or sled down, but is not so steep that it won't hold snow. If you're not familiar with how to spot avalanche risks and you want to engage in outdoor activities like snowshoeing, cross-country skiing, or even sledding, check with Parks Canada staff or the [https://www.avalanche.ca/en/map Canadian Avalanche Centre] for more information.
+
+Be alert to your surroundings. Not all cliffs or other unsafe areas are marked with signs or blocked off by railings.  Some travellers disregard railings and warning signs of unsafe terrain, when they exist, because they are keen on getting a closer look or taking photographs. Even if the risk is not obvious to you, it's best to assume that someone put up the barriers and safety messages for a good reason.
+
+===Emergency contacts===
+
+*Ambulance/Police/Fire: 9-1-1.
+* {{listing
+| name=Banff Mineral Springs Hospital | alt= | url=https://www.covenanthealth.ca/hospitals-care-centres/banff-mineral-springs-hospital | email=
+| address=305 Lynx St | lat=51.17902 | long=-115.576068 | directions=
+| phone=+1 403-762-2222 | tollfree=
+| hours= | price=
+| wikipedia=Banff Mineral Springs Hospital | wikidata=Q4854877
+| lastedit=2023-03-26
+| content=
+}}
+
+==Go next==
+* If you are staying in the Banff and Lake Louise area and don't mind the slightly longer drive, you may also consider the '''Kicking Horse Ski resort''' just over the border in [[Golden (British Columbia)|Golden]], [[British Columbia]] west of [[Yoho National Park]], Banff's sister park and Canada's second protected area.
+* '''Drive along highway 1A''' west of Banff.
+* '''Johnston Canyon''' hiking.
+* '''Bow Falls''' is close to the Banff townsite.
+* '''Peyto Lake''', in [[Banff National Park]], is 40&nbsp;km north of the town on the [[Icefields Parkway]].
+* [[Jasper National Park]] — even more magnificent Rockies landscapes and hiking trails.
+* '''[[Calgary]]''' — the largest city in the province, world famous for its Stampede and an access point to many of the region's national parks.
+* '''[[Edmonton]]''' — set in a beautiful river valley park system, Edmonton is a great place to experience live theatre and music.
+
+{{routebox
+| placename=Banff
+
+| image1=Alberta Highway 1.svg
+| imagesize1=22
+| link1=Trans-Canada Highway
+| directionl1=W
+| majorl1=[[Kamloops]]
+| minorl1='''Castle Junction'''
+| directionr1=E
+| majorr1=[[Calgary]]
+| minorr1=[[Canmore]]
+}}
+
+{{routebox
+| placename=Castle Junction
+
+| image1=Alberta Highway 1.svg
+| imagesize1=22
+| link1=Trans-Canada Highway
+| directionl1=W
+| majorl1=[[Kamloops]]
+| minorl1=[[Lake Louise]]
+| directionr1=E
+| majorr1=[[Calgary]]
+| minorr1='''Banff'''
+
+| image2=Alberta Highway 93.svg
+| imagesize2=22
+| directionl2=&thinsp;N
+| majorl2=[[Jasper]]
+| minorl2=[[Lake Louise]]
+| directionr2=S
+| majorr2=[[Cranbrook]]
+| minorr2=becomes [[File:BC-93.svg|18px]] → [[Kootenay National Park]]
+}}
+
+{{guidecity}}
+{{geo|51.178056|-115.571944}}
+{{isPartOf|Banff National Park}}
