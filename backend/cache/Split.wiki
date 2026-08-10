@@ -1,0 +1,790 @@
+{{pagebanner|Split 080619-225050-IMG 0956-banner.jpg|unesco=yes}}
+'''Split''' is a city in Central [[Dalmatia]], [[Croatia]], and the seat of the [[Split-Dalmatia]] county. The city was built around the Diocletian palace (a palace/fort built for the retired Roman emperor Diocletian) where the locals sought refuge centuries ago.
+Wandering the historic centre of Split you can still clearly see the Roman walls, squares, and temples.
+
+==Understand==
+[[File:Split 080620-133710-IMG 0968x.jpg|thumb|300px|Split, view from the hill Marjan]]
+
+Because of its ideal climate, with 2,800 hours of sunlight each year, local people have a few nicknames for Split: "The most beautiful city in the world" and "Mediterranean flower". Many famous Croatian sports people were born in Split, so locals often nicknamed their city "The sportiest city in the world". The most popular sport institution is the football club Hajduk. Large portions of the city are painted with the club's colors and logo. This is done by Torcida, the oldest supporters group in Europe, established in 1950.
+
+Besides the bell tower of St. Duje, the symbols of city are the Dalmatian dog and a donkey. Locals have a high regard for the donkey because of its past indispensable place in field work and transport across the Dalmatian mountains.
+
+Winters in Split are generally mild for [[Europe]], with temperatures above {{C|0}}, but despite the popular saying that the city experiences snowfall once every 30 years, there is actually at least one snowy day nearly every winter, usually in January or early February. If you find yourself in Split on a day with significant snowfall, expect serious traffic disruption.
+
+Walking through the historic center in a bikini or shirtless is banned. Municipal wardens can issue on-the-spot fines of €150.
+
+===Tourist information===
+* {{listing
+| name=TIC Riva| alt=Tourist Information Centre | url=http://www.visitsplit.com/index.php/en/409/contact-us | email=
+| address=Obala Hrv. narodnog preporoda 9 | lat= 43.508200|long=16.437671 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2016-08-31
+| content=
+}}
+* {{listing
+| name=TIC Peristil | alt=Tourist Information Centre | url= | email=
+| address= Peristil bb| lat= 43.508311|long=16.440345| directions=at a tiny former chapel
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2016-08-31
+| content=
+}}
+* [http://www.split.hr Split city government] website
+
+==Get in==
+[[File:Diocletian's Palace (original appearance).jpg|thumb|Diocletian's Palace, reconstruction of the original appearance]]
+===By plane===
+
+* {{go
+| name=Zračna luka Split | alt=Split Airport {{IATA|SPU}} | url=http://www.split-airport.hr/index.php?lang=en | email=
+| address= | lat=43.536614 | long=16.299076 | directions=25 km west of Split, 5 km east of Trogir
+| phone= | tollfree= | fax= | hours= | price=
+| wikipedia=Split Airport | image=Croatia Split Airport Aerial Photograph 1.jpg | wikidata=Q1125392
+| lastedit=2019-09-22
+| content=Most flights are budget and charter airlines bringing in holiday-makers, highly seasonal. Destinations include Amsterdam, Athens, Barcelona, Belgrade, Berlin, Cologne, Copenhagen, Dublin, Düsseldorf, Frankfurt, Geneva, Glasgow, Gothenburg, Hamburg, Hannover, Helsinki, Katowice, Leeds-Bradford, London LCY LGW LHR Luton & Stansted, Lyon, Madrid, Marseille, Milan MXP, Moscow SVO, Munich, Nantes, Naples, Nice, Oslo, Paris CDG & Orly, Prague, Rome FCO, Stockholm ARN, Toulouse, Venice, Vienna, Warsaw and Zürich. There are domestic flights from Dubrovnik, Zagreb, Pula, Rijeka and Osijek. Enter from the large bus park into the ground floor check-in area next to Arrivals. Go to the first floor for departures; it has a cafe and limited seating, but there's a much larger ground-side seating area and cafe on the second floor. From the first floor go through security and you enter seating for domestic Gates 1 & 2, often empty but with no other facilities. For all international flights go through passport control to the open-plan Gates 3-10, with cafes and shops. A coffee costs €2.20 ground-side and €3.50 air-side, which shows what a bargain their "duty-free" prices are. There's free WiFi internet.
+}}
+
+==== Ground transport ====
+* '''To Split: the [https://plesoprijevoz.hr/en/split-croatia/ Airport Shuttle Bus]{{Dead link|date=December 2025 |bot=InternetArchiveBot }}'''  runs at least hourly between the airport and inter-city bus station, taking 30 min. From town it runs [https://www.ak-split.hr/en/departures-from-split/ 05:00-21:00]; into town it runs [https://www.ak-split.hr/en/arrivals-to-split/ 07:30-23:00]. One-way fare is {{EUR|8}}.
+* '''[https://www.promet-split.hr/en/airport-line Bus 37]''' plies every 20-30 min 04:00-00:00 between [[Trogir]], the airport, and Split's local bus station Sukoišan; it doesn't run to the inter-city station. The bus stops are just outside the airport, walk south out of the parking lot onto the highway Cesta Dr. Franje Tuđmana. The stop on the near side is westbound for Trogir, which takes 10 min, fare {{EUR|2.5}}; the opposite-side stop is eastbound via [[Kaštel Stari]] and Solin to Split, taking 50 min, fare {{EUR|3.00}}. You can pay the driver with contactless credit card.
+* '''Further north''' towards Šibenik, Zadar and Rijeka, buses fly past on the main highway and don't call at the airport, but they do call at nearby Trogir every hour. So you can save some time and money by taking transport to Trogir rather than doubling back via Split. In July and August only, there's a [http://www.sibenik.hr/bus/ direct bus] between the airport and Šibenik every couple of hours, taking almost 3 hours.
+* '''Going south''' towards [[Makarska]] and [[Dubrovnik]], simply head for Split and change. For the '''islands''', most ferries sail from Split, but those for the [[Drvenik Veli]] i [[Drvenik Mali]] sail from Trogir.
+* '''Taxi:''' the taxi stand is just left as you exit the terminal. To Split expect to pay {{EUR|46}}, 30 minutes; to Trogir {{EUR|14}}.
+
+===By bus===
+
+Most international services to Split involve a change of buses in Zagreb, but [https://www.flixbus.co.uk/ Flixbus] have direct buses from [[Vienna]] (11 hr), [[Munich]] (13 hr) and [[Mostar]] (4 hr). There is also a direct service to [[Sarajevo]] which runs multiple times daily.
+
+Croatian inter-city buses run north to [[Sibenik|Šibenik]], [[Zadar]], [[Rijeka]] and [[Zagreb]], and south to [[Makarska]] and (via [[Neum]] in Bosnia & Herzegovina) to [[Dubrovnik]].
+
+The long-distance bus station, {{marker |type=go | name=[http://www.ak-split.hr Autobusni kolodvor Split] | lat=43.503896 | long=16.443014 }} is next to the railway station and ferry port. It has ticket offices, toilets, left luggage and indoor seating; outside on the quay are lots of little cafes and kiosks.
+
+The airport bus runs to this station, but most local services (e.g. west through Solin to Trogir) depart instead from the local bus station 1 km north, see "Get around".
+
+===By boat===
+
+Cruise ships, long distance and short-run ferries all dock at the '''passenger port''' next to the bus & railway stations. Ferries run three times a week across the Adriatic to and from [[Ancona]] and [[Pescara]] ([[Italy]]). There is also a large ferry that runs twice a week up and down the coast between [[Dubrovnik]] and [[Rijeka]], stopping off at a couple of islands along the way. Split is the main hub for local boats and hydrofoils in Central [[Dalmatia]]. Several a day run to and from [[Brac|Brač]], [[Hvar]], [[Solta|Šolta]], [[Vis]], [[Korčula]] and Lastovo. 
+
+The major operators here are:
+
+* '''[http://www.jadrolinija.hr Jadrolinija]'''. State-owned sea shipping company. They have regular lines connecting the Croatian shore to its islands and with Italy.
+* '''[http://www.snav.it/ SNAV]'''. Italian sea shipping company with ferries from [[Ancona]] to and from Split. Tickets starting at {{EUR|30}} for a single crossing without cabin. Operates April-October only.
+* '''[https://www.ksc.hr/homepage Krilo Shipping Company]''' Croatian private sea shipping company with regular ferry lines connecting Split with islands Brač and Šolta. The ferries offer mediocre views for passengers as they travel, as the ships travel as far as possible from coastlines (except when approaching a port), the ships generally lack any outside deck, and window sight lines often poor.
+Split is a popular starting point for sailing trips along the Dalmatian coast. Several charter companies operate from Split:
+
+{{listing
+   | name = Silver Sail Yacht Charter
+   | url = https://www.silversail.hr/
+   | alt = Silver Sail
+   | address = 
+   | phone = 
+   | content = Offers skippered and bareboat yacht charters from Split to destinations including Hvar, Vis, Korčula, and the Kornati Islands.
+   | lastedit = 2025-08-03
+}}
+
+=== By rail ===
+
+[https://prodaja.hzpp.hr/en/Ticket Trains] run to Split from [[Zagreb]] once daily (with a second train mid-summer) taking six hours, and once overnight. Zagreb has trains from Vienna and Budapest, and connections across the rest of Europe. From [[Rijeka]] (which has trains from Zagreb, Ljubljana and elsewhere) there is one daytime and one overnight service changing at Ostarije, seven hours. From [[Šibenik]] there are five services changing at Perković, taking a couple of hours. 
+
+July-Sep the ''Adria'' sleeper runs alternate nights from Budapest Keleti. 
+
+The '''main railway station''' (Kolodvor Split) is next to the bus station and ship terminals. The station is grubby and basic but has left luggage. Many of these trains also stop at Split Predgrađe station in the north of the city.
+
+* {{go
+| name=Split railway station | alt= | url= | email=
+| address= | lat=43.50465 | long=16.442755 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q2281143
+| lastedit=2021-11-14
+| content=
+}}
+* {{go
+| name=Split Predgrađe railway station | alt= | url= | email=
+| address= | lat=43.521869 | long=16.455481 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q98791501
+| lastedit=2021-11-14
+| content=
+}}
+
+==Get around==
+{{Mapframe|43.508 |16.44 |zoom=15 |width=550 |height=450 |layer=W|lang=en|name=The Old Town of Split}}
+
+[[Image:SplitHarbour.jpg|thumb|harbour, bus terminal, and train station]]
+
+Central Split is quite compact and most sights can be easily seen and best experienced on foot, but there are frequent local buses to outlying attractions and the airport.
+
+===By bus===
+
+Public transport is run by [https://www.promet-split.hr/en/ Promet]. Most of the city buses in Split are new, but some are very old and dilapidated. You can find routes and schedules from [https://hr.easyway.info/en/cities/split Easyway] journey planner. The station for town and local buses is {{marker |type=go | name=Kolodvor Sukoišan | lat=43.515584 | long=16.443229 }} - these don't use the main station 1 km south by the harbour. To transfer between stations use Bus 9 / 10 or just walk.
+
+The fare is determined by the number of zones traveled, ranging from {{EUR|2}} for within Split to {{EUR|4}} between Split and Trogir one way. These can be purchased from the driver, at a kiosk, or using the Promet ticket app from a smartphone. (The app is in English and tickets purchased through the app are discounted.) Two-way tickets cost {{EUR|2.30}}, but you have to buy them in blocks of 5 or 10 from a kiosk. A one-month ticket is {{EUR|39}}.
+
+Local buses you might use are Bus 37 to the airport and Trogir described earlier, and Bus 60 to Omiš and Ravnicki Most which runs every 30 min. Long-distance buses from the inter-city station also pass through Omiš en route to Makarska.
+
+===By bike===
+
+Rent a bike and enjoy beautiful biking along Split's waterfront (Riva), continue to Marjan hill (approximately 7 km), climb to the top of the hill for great view on the Split town and surrounding islands. You can bike to the east side, along the coast to nearby village of Stobrec. Another great option from Split is to take a day tour to nearby islands of Solta, Brac, Hvar or Vis. You can take the bike on a regular ferry (they leave approximately every couple of hours in the summer season) and bike along quite roads and charming villages, explore great beaches and restaurants and return in the evening to Split!
+
+Older but rideable mountain bikes are available for €2/hour (March 2012) at the northern entrance to Marjan hill (near Mandalinski put).
+
+===By boat===
+* {{listing
+| name=RAFT Croatia | alt=RAFT Croatia | url=https://raftcroatia.com/ | email=sales@raftcroatia.com
+| address=Obala kneza Domagoja | lat=43.506432 | long=16.440408 | directions=
+| phone= | tollfree= | fax=
+| hours= daily 24 hr| price=
+| content= Online ferry platform to search, compare and buy ferry tickets in Croatia.
+}}
+Speed taxi boat is an excellent solution for fast transportation of passengers on whole Adriatic. Said service is available through [http://www.dalmatia-express.com Dalmatia-express] for direct transportation from airport Split to Split Riva or from Split Riva to Dalmatia islands.
+
+If you don't know how to sail, there are a few companies that offer skippered charters in the area..
+
+===By train===
+
+A suburban train uses the main line from Split as far west as Kaštel Stari. It doesn't reach the airport: they've announced an extension there by 2025, but have yet to identify funding so it's probably more like 2035.
+
+=== By ride hailing ===
+
+* {{Listing|name=Bolt|url=https://bolt.eu/|lastedit=2022-07-29}}
+* {{Listing|name=Uber|url=https://www.uber.com/|lastedit=2022-07-29}}
+
+==See==
+{{mapframe|43.514|16.444|zoom=13}}
+[[File:Diocletians Palace, Split (11908116224).jpg|thumb|Peristil]]
+
+===Diocletian's Palace===
+{{UNESCO}} The historic centre of Split is built around the remains of this Roman palace. Most probably this one of a kind Imperial Palace was built from 298-305 AD and is one of the most significant original structures of the period mostly because so much of it has been preserved. It is probably the best preserved Roman palace in the world. Later this Palace contributed to the broadening of the town because as the city evolved beyond its walls. You only need to wander around to experience it but you can also pay to visit the excavated remains of the basement of the palace. The palace has well preserved main streets ''cardo'' and ''decumanus''. Roman palace is enriched with some Gothic and Reinassance buildings which makes a perfect match. The palace has four monumental gates ''Porta Aurea'' (Zlatna vrata, Golden gate), ''Porta Argenta'' (Srebrna vrata, Silver gate), ''Porta Ferrea'' (Željezna vrata, Iron gate) and ''Porta Aenea'' (Mjedena vrata). The unique substructure halls were newly explored and each year more of them are opened to the public. Some have fascinating artefacts on display. May-Oct 10:00-19:00. Nov-Apr, opens at 11:00, duration 90 min. In English language. Starts in front of the tourist info centre, please arrive 15 min before tour is due to commence.
+
+* {{see
+| name=Peristylium | alt=Peristil square | url= | email=
+| address= | lat=43.508217 | long=16.440168 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikidata=Q56201928
+| content=Main square of Diocletian's palace with well preserved Roman architecture.
+}}
+* {{see
+| name=Katedrala sv. Duje | alt=St. Duje's cathedral | url= | email=
+| address= | lat=43.508056 | long=16.440278 | directions=
+| phone= | tollfree=
+| hours= | price=€3.40
+| wikidata=Q1268475
+| lastedit=2019-10-31
+| content=Built around 305 AD as a mausoleum of Roman emperor Diocletian's (the oldest cathedral building in the world). The cathedral is also a very beautiful mixture of Roman temple and Catholic church. It also has a beautiful belltower which provides you a great panoramic view of Split, nearby islands and Marjan hill.
+}}
+* {{see
+| name=St. Duje's bell tower | alt= | url= | email=
+| address= | lat=43.508056 | long=16.440278 | directions=
+| phone= | tollfree=
+| hours= | price=€4
+| lastedit=2019-10-31
+| content=Beautiful belltower which provides you a great panoramic view of Split, nearby islands and Marjan hill. The ascent is certainly not for those with vertigo, but the views from the top are marvelous. It costs €1.40 to go up the bell tower.
+}}
+* {{see
+| name=Jupiter temple | alt=Cathedral's baptistry | url= | email=
+| address= | lat=43.508324 | long=16.439562 | directions=
+| phone= | tollfree=
+| hours= | price=€0.70
+| wikidata=Q4501094
+| content=Ancient Roman temple which became St. John's church.
+}}
+*{{see
+| name=Getski vrtal | url= | email=
+| address=Ul. Dominisova | lat= 43.508850| long= 16.440333 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=is the smallest park in Split, situated in the Diocletian's palace at the Dominisova street (Marko Antonio De Dominis street). In that park are beautiful traditional Dalmatian tiramolas. During the summer these are full of clothes drying in the sunshine. In every guidebook about Split you have pictures from the Getski vrtal. It is the location of a 500-year-old stone house which was destroyed during World War II.
+}}
+*'''Two original Egyptian sphinxes'''- One is located on Peristil square, and the other in front of Jupiter's temple or St. John's church. They were brought from Egypt by Roman emperor Diocletian.
+* {{see
+| name=Basement halls of Diocletian's Palace | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=€6
+| lastedit=2019-10-31
+| content=Exceptionally well preserved substructure of Diocletian's Palace now open as a museum. One of the locations in [[Game of Thrones]].
+}}
+
+[[File:Gardien du Temple de Vulcain Split - Croatie.jpg|thumb|Sphinx]]
+[[File:Split IMG 8103.jpg|thumb|Papalic mansion]]
+
+===Beyond the Diocletian's Palace===
+*'''Riva''' is the main city promenade. Since 2007, Riva has a new, more ''modern'' appearance, which isn't to the taste of some used to its ''authentic'' look.
+*'''Marjan''' - a hill situated on the west of Split. Marjan is an oasis for many people who look for a natural stress relief, a great place for long walks, jogging, and bike rides. Marjan's peak, Telegrin is 178 m high and gives a wonderful panoramic view of Split. South cliffs are popular within alpine climbers. St. Nicholas church is situated on the east of Marjan, on its south side are beautiful St. Jeronimus church and "Gospe od Betlema" church (Madonna of Betlehem). There are several beaches on Marjan: Kasuni Beeach at the south-west with a nice small dog beach, and Bene Beach at the north side. West of Bene beach you can find lonely spots for snorkeling. Bus 12 brings you there. House building is strictly forbidden in order to save Marjan - the lungs of Split.
+*'''Varoš''' - one of the oldest parts of town. A place where most of the city peasants and fishermen lived. Charming streets and beautiful small houses.
+* {{see
+| name=Galerija Meštrović | alt= | url=https://mestrovic.hr/en/home-en/ | email=
+| address=Šetalište Ivana Meštrovića 46 | lat=43.504306 | long=16.417917 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Ivan Meštrović Gallery | image=Ivan Mestrovic Gallery.jpg | wikidata=Q6096967
+|lastedit=2023-09-21| content=The gallery contains works of Ivan Meštrović, famous Croatian sculptor.
+}}
+* {{see
+| name=Archaeological Museum | alt= | url=https://www.armus.hr/ | email=
+| address=Zrinsko-Frankopanska 25 | lat=43.515556 | long=16.434444 | directions=
+| phone= | tollfree=
+| hours= | price=Adults €8; children, students, disabled €4
+| image=Split Archaeological Museum (10421438644).jpg | wikidata=Q598800
+|lastedit=2023-09-21| content=The oldest museum in Croatia (1820), about 20 min walk north of the old town. Many artifacts and monuments from Roman colonies Salona and Narona. Most of the panel information is only in Croatian, so use a translator app or bring a Croatian friend.
+}}
+*{{see
+| name=Old graveyards | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Sustipan and old Jewish cemetery
+}}
+*{{see
+| name=Froggyland | url=https://froggyland.net/ | email=
+| address=Ul. kralja Tomislava 5, 21000 | lat=43.51022994057987 | long=16.438087640870137 | directions=
+| phone= | tollfree= | fax=
+| wikipedia=Froggyland
+| hours= | price=€13
+| content=A strange museum for 21 dioramas of taxidermy frogs in a variety of everyday human situations, crafted in the early 1900s.
+}}
+
+==Do==
+{{mapframe|name=Map of the region around Split}}
+
+[[Image:SplitRiva.jpg|thumb|Riva]]
+
+* {{do
+| name=Split city beach | alt= | url= | email=
+| address= | lat= 43.500815| long= 16.445582| directions=continue south past the bus station, follow the road which goes by the tracks, and from the bridge over the tracks you can take a stairs down to the beach
+| hours= | price=free
+| content=If you have a longer stop-over in Split, 5 min south of the passenger terminal and the train and bus stations lies Split's city beach where you can take a plunge in the Adriatic.
+}}
+* {{do
+| name=Picigin | url= | email=
+| address=Bačvice | lat=43.50241 | long=16.44705 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+|lastedit=2022-09-14| content=Traditional beach game with a small ball (Bačvice beach). In summer every year there is a world championship in picigin.
+}}
+*{{do
+| name=Grgur Ninski | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=It is said that if you touch the big toe of the statue and make a wish your wish will come true.
+}}
+* '''Watch football''' ie soccer at {{do
+| name=HNK Hajduk Split | url=https://hajduk.hr/naslovnica | email=
+| address=Stadion Poljud, Osmih mediteranskih igara | lat=43.520 | long=16.432 | directions=
+| phone= | tollfree= | fax= | hours= | price= | lastedit=2019-09-22
+| content=They play in Prva HNL, the top tier of football in Croatia; indeed they've never been out of it, and have won it several times. Their home ground of Poljud stadium (capacity 34,000) is 1 km north of the main bus station, harbour and old city. Don't go for the cheapest seats as these are in the north stand, the ''Torcida'' bastion of home fanatics.
+}}
+*'''Seabob'''. Explore some beaches above or below water with a Seabob.
+
+* Go [https://split-rafting.eu/ white river rafting] on the beautiful river Cetina.
+
+* {{do
+| name=Beach at Bačvice | alt= | url= | email=
+| address= | lat=43.50226 | long=16.44684 | directions=Bus No. 12 travels there
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-09-14
+| content=This beach has beautiful fine-grained sand, and it is very shallow. There are many cafes and places to eat ice cream. It is certainly not the best beach in Croatia (it is packed solid most of summer), but it will give you a feeling of 'real' Croatia as the vast majority of people who go there are from Split. You can also play Picigin here. To reach this beach, walk South along the waterfront from the bus station and then follow the road that crosses the railway line.
+}}
+=== Sailing ===
+
+There are lots of companies running boats, such as Busabout, RAFT Croatia, Topdeck, Contiki and Silver Sail.
+
+The majority of chartered sailing cruises in Croatia start from Split. There are many charter agencies where you can charter a sailing or motor yacht. Most of them operate from ACI marina Split, marina Zenta or marina Spinut. There are also many charter agencies based in marina Kastela, which is close to Split.
+
+==Buy==
+
+*{{buy
+| name=Pazar | alt= | url= | email=
+| address=Stari Pazar 2 | lat=43.507363 | long=16.441673 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Farmers market with perfect fruit, vegetables and more. The best time to visit the market is Saturday or Sunday morning.
+}}
+*{{buy
+| name=Ribarnica | alt= | url= | email=
+| address=Obrov 2 | lat=43.509114 | long=16.437392 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Fresh fish market.
+}}
+*{{buy
+| name=Marmontova | url= | email=
+| address= | lat=43.508954| long=16.436829| directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Shopping street in the centre.
+}}
+
+=====Shopping malls=====
+
+*{{buy
+| name=City Center One | url=http://www.citycenterone.hr/ | email=
+| address=Vukovarska 207 | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=daily 09:00-21:00, cinema and caffe bars 09:00-23:00 | price=
+| content=Opened in 2010. 3 floors (5 garage levels) and Cineplexx cinema.
+}}
+*{{buy
+| name=Mall of Split | url=https://mallofsplit.hr// | email=
+| address=Ul. Josipa Jovića 93 | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=daily 09:00-22:00, cinema and caffe bars 09:00-23:00 | price=
+| content=Opened in 2016.
+}}
+* '''Joker''' Put Brodarice 6. Opened in 2007. 50 shops on 4 floors with Tommy supermarket, DM, Hervis sports shop, Deichmann and a McDonalds. 15-20 min walk from the city center with buses stopping near the front of the centre. There is a cinema on the first floor. The top floor has fitness club, restaurant and a ''sky bar'' with an outdoor swimming pool.
+
+==Eat==
+
+Italian influences dominate Croatia's coast: a sample of the best of their legacy is risotto with tender white scampi or black calamari, a dish beloved by all Croatians. '''Dalmatinski pršut''' ("Dalmatian ham", comparable to Parma or speck) and cheese from the island of Pag are well worth trying, as is the large variety of excellent Croatian wines and beers.
+
+Do not miss Dalmatian '''pašticada s njokama''' (gnocchi). In winter you can try Soparnik, a traditional and usually vegan Dalmatian dish, made with chard, onions and parsley between two layers of dough.
+
+In a world suffocating under the weight of processed foods, Croatia's version of a traditional Mediterranean cuisine is one that is completely reliant on local produce, most of which is organic.
+
+Additionally, as any major city in the Balkans, Split is also a locus of general Balkans-style eating: ''Ćevapi''/''ćevapčići'' (diminutive), a ubiquitous Bosnian dish, are small grilled rolls of minced beef, pork, or lamb, or a combination of any of these three. Usually served with chopped onions, ''kajmak'' (similar to clotted cream) or, sometimes, ''ajvar'' (a relish made from bell peppers, aubergines, garlic and chilli).
+
+Split's eateries are to be found in a variety of settings, ranging from the romantic to the vibrant. It isn't difficult to enjoy superb food and wine in a classical environment with good friends and/or family.
+
+There are plenty of fast food joints between the Old Town and the bus station.
+
+===Budget===
+====In the Old Town====
+* {{eat
+| name=Pizza Cut Planet 1 | alt= | url= | email=
+| address=Marmontova ul. 2a | lat=43.5085017 | long=16.4367153 | directions=
+| phone= | tollfree=
+| hours= | price=
+ | lastedit=2022-05-01 | content=A good offer for those who want to try several types of pizzas without buying them completely. Great pizza idea. Several flavours to choose from.
+}}
+* {{eat
+| name=Vege | alt= | url= | email=
+| address=Ul. Stari pazar 7 | lat=43.5071346 | long=16.4419460 | directions=
+| phone= | tollfree=
+| hours= | price=
+ | lastedit=2022-05-01 | content=Delicious and fresh vegan food. The best veggies in Split. Good atmosphere and homemade food made live.
+}}
+* {{eat
+| name=Sandwich Bar Rizzo | alt= | url= | email=
+| address=Tončićeva ul. 4 | lat=43.5100684 | long= 16.4367921 | directions=
+| phone= | tollfree=
+| hours= | price=
+ | lastedit=2022-05-01 | content=The best sandwiches in Split. Always fresh food and very helpful staff.
+}}
+* {{eat
+| name=Ba!Će | alt= | url= | email=
+| address=Križeva ul. 1 | lat=43.5095680 | long=16.4361128 | directions=in the old town
+| phone= | tollfree=
+| hours= | price=
+ | lastedit=2022-05-01 | content=Balkan atmosphere. Ba!Cevapi is their flagship dish, which consists of minced meat, well spiced and grilled, served with typical bread and sauces
+}}
+* {{eat
+| name=Pizzeria Kaleta | alt= | url= | email=
+| address=Ul. Zrinsko Frankopanska 9 | lat=43.5114386 | long=16.4364092 | directions=
+| phone= | tollfree=
+| hours= | price=
+ | lastedit=2022-05-01 
+| content=Freshly baked dough, crispy just as it should be, chicken and hearty side dishes. Great pizza
+}}
+* {{eat
+| name=Zlatna ribica | alt= | url= | email=
+| address=Ul. Kraj Svete Marije 8 | lat=43.5092341 | long=16.4374077 | directions=
+| phone= | tollfree=
+| hours= | price=
+ | lastedit=2022-05-01
+| content=Great local spot for delicious seafood. Friendly staff. Not many tables so you may have to wait for an available table.
+}}
+* {{eat
+| name=Theatrum Bar & Food | alt=Theatrum Bar and Food | url=https://theatrumbarandfood.com/ | email=info@theatrumbarandfood.com
+| address=Trg Gaje Bulata 6 | lat=43.510912 | long=16.438034 | directions=near the old theatre and by the Marmontova street
+| phone=+385 21 219 357 | tollfree=
+| hours=Daily 07:00-01:00 | price=Dishes €7-17, drinks €4-15, wine €8-95
+| lastedit=2024-08-20
+| content=Reservation can be made via email, phone or social media. Dine in, curbside-pickup, delivery, seating, Wi-Fi, fresh ingredients, breakfast, dinner, lunch.
+}}
+
+====Near the Old Town====
+*{{eat
+| name=Fino i Friško 2 - Biškić | url= | email=
+| address=Čulića dvori 2 | lat=43.5093163 | long=16.4427717 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2022-05-01
+| content=Because of its proximity to school, this bakery always has fresh and tasty food.
+}}
+* {{eat
+| name=Fife | alt= | url= | email=
+| address=Trumbiceva obala 11 | lat=43.507641 | long=16.433668 | directions=across the bay from the ferry terminal
+| phone= | tollfree=
+| hours= | price=Mains €12-20
+| content=Lively and busy restaurant with lots of seating and deliciously large Croatian dishes.
+}}
+*{{eat
+| name=Popaj | url=https://m.facebook.com/profile.php?id=126881647399407 | email=
+| address=Pojišanska b.b. | lat=43.5049119 | long=16.4497914 | directions=
+| phone= | tollfree= | fax=
+| hours=M-Th winter 08:00-00:00, summer 08:00-01:00, F Sa winter 08:00-13:00, summer 08:00-14:00, Su winter 15:00-00:00, summer 15:00-01:00 | price=
+ | lastedit=
+| content=The most popular fast food in Split with great pizzeta (small pizza, €2) and very big ham sandwich (€2.70).
+}}
+
+===Mid-range===
+* {{eat
+| name=Kod Joze | url= | email=
+| address=Sredmanuska 4 | lat=43.5103407 | long=16.4419218 | directions=
+| phone=+385 21 347 397 | tollfree= | fax=
+| hours= | price=
+ | lastedit=2023-01-13
+| content=The traditional family-run ''konoba'' serves tasty dishes in style. Prices very reasonable considering the quality and atmosphere.
+}}
+*{{eat
+| name=Bakra - Steak & Pizza Bar | url= | email=
+| address=Radovanova 2 | lat=43.5062373 | long= 16.4432951 | directions=
+| phone= | tollfree= | fax=
+| hours=10:00-23:00 | price=
+ | lastedit=2023-01-13
+| content=Definitely one of the best pizza in town, baked on fireplace.
+}}
+*{{eat
+| name=Biser Orijenta | url= | email=
+| address=Bihaćka 2a (top floor of Lavčević building) | lat=43.5088540 | long= 16.4639823 | directions=
+| phone= | tollfree= | fax=
+| hours=11:30-00:00 | price=
+ | lastedit=2023-01-13
+| content=Good "European Chinese" cuisine. Not too popular among the locals, but the prices are fair and the service is friendly.
+}}
+*{{eat
+| name=Konoba Marjan | alt= | url= | email=
+| address=Senjska, 1 | lat=43.50839 | long=16.43428 | directions=
+| phone=+385 98 9346848 | tollfree= | fax=
+| hours= | price=
+ | lastedit=2023-01-13
+| content=Risottos, pasticada (marinaded veal cooked in sauce), and excellent fish. Prices are very reasonable and the staff very friendly. English spoken.
+}}
+* {{eat
+| name=Kod Sfinge Vanevropske Zviri | alt= | url= | email=
+| address=Ulica Kraj Svetog Ivana 2 | lat=43.5082 | long=16.4398 | directions=inside Diocletian's Palace, in between Jupiter's temple and Peristil
+| phone=+385 99 443 8666 | tollfree= | fax=
+| hours= | price=Pašticada for €20 (Aug 2016)
+ | lastedit=2022-10-01
+| content=A Konoba/Trattoria. Good Dalmatian specialties: Pašticada, Paški sir, etc. Also proposes good seafood catch of the day, but sometimes unavailable. Seems to be operated by a single family: The waiters knows very well the menu!
+}}
+*{{eat
+| name=Konoba Insula | url= | email=
+| address=popovica 2 | lat=43.5097301 | long= 16.4358369 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2022-06-01
+| content=Small side street restaurant run by a young married couple, incredible food at a very fair price.
+}}
+
+===Splurge===
+* {{eat
+| name=Nostromo | url= | email=
+| address=Kraj Svete Marije 10 | lat= | long= | directions=just off Marmontova
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2023-01-13
+| content=Good seafood and salad in a rather smoky ambience with friendly service.
+}}
+
+==Drink==
+
+Dalmatia is well known for its world class wines, but when in Split it is a must to try soda drinks called '''Pipi''' and '''Orela''', produced by local beverage manufacturer '''[http://dalmacijavino.hr Dalmacijavino]{{Dead link|date=November 2023 |bot=InternetArchiveBot }}'''.
+
+Lots of outdoor cafés are to be found along the Riva waterfront.
+
+* {{drink
+| name=St Riva | url= | email=
+| address= | lat= | long= | directions=Riva seafront
+| phone= | tollfree= | fax=
+| hours= | price=€2.70 a pint
+| content=Has an upper story that overlooks the promenade.
+}}
+* {{drink
+| name=Sanctuary Bar | alt= | url=https://www.facebook.com/sanctuarybarsplit/ | email=
+| address=Poljana Stare Gimnazije 1 | lat=43.509612 | long=16.438868 | directions=
+| phone=+385 95 896 1199 | tollfree=
+| hours=09:00-00:00 | price=
+| wikipedia= | wikidata=
+| lastedit=2019-01-13
+| content=The beachhead of craft cocktails in Split, with a selection of craft beers as well. Run by US expat, Tristan.
+}}
+* {{drink
+| name=Gaga Bar | alt= | url= | email=
+| address= | lat= | long= | directions=tucked away in a corner, just off Narodni Trg
+| phone= | tollfree=
+| hours= | price=Pint €2.70, cocktails €2.70-4.70
+| content=Cosy atmosphere, long list of cocktails, Latin music. Ask for a bill, because one round is €14, and then second one (the same one) may be €20. Atmosphere is nice, but the waiters are not. More tourists than locals.
+}}
+
+===Nightclubs===
+
+There are many clubs on '''Bačvice''' beach
+
+*{{drink
+| name=Vanilla Club | url=https://m.facebook.com/vanilla.bar.split/ | email=
+| address=Poljudsko šetalište b.b. | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=Fancy place by the swimming pool with popular domestic and foreign music.
+}}
+
+==Sleep==
+
+There is a wide variety of private accommodation available in Split, as well as a few hostels. Some of the best prices can probably be obtained by going to the bus station or ferry terminal and haggling with the many people there offering accommodation - even fairly late at night, there are still many people offering beds.
+
+===Budget===
+* {{sleep
+| name=Hostel Split Backpackers 2 | alt= | url=https://www.splitbackpackers.com/ | email=
+| address=Ul. kralja Zvonimira 17 | lat= | long= | directions=
+| phone=+385 91 549 9134 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2021-09-20
+| content=Lively hostel popular with solo travelers. Well located between the old town and the bus and train stations. Dorm from €15.
+}}
+* {{sleep
+| name=Tchaikovsky Hostel | alt= | url= | email=
+| address=Ul. Petra Iliča Čajkovskog| lat=43.51203 | long=16.43705 | directions=
+| phone= | tollfree=
+| checkin= | checkout= | price=Dorm bed €10
+| lastedit=2020-10-20
+| content=Chill hostel with only few guests around during low-season. Shared kitchen. Wifi.
+}}
+* {{sleep
+| name=Al's Place | alt=Hostelsplit | url=http://www.hostelsplit.com/ | email=info@hostelsplit.com
+| address=Petra Kružića 10 | lat= | long= | directions=inside the city walls
+| phone=+385 98 918 2923 | tollfree=
+| checkin= | checkout= | price=Dorm €20-25
+| lastedit=2019-09-30
+| content=Hostel open Easter to Oct run by British expat Al. The hostel is in an 800-year-old stone house inside the city walls, small and cozy with only 12 beds in 2 en suite rooms. There is also kitchen and common area, A/C, and laundry.
+}}
+* {{sleep
+| name=CroParadise Green Hostel | url=http://www.croparadise.com/ | email=
+| address=Culica Dvori 31 | lat= | long= | directions=
+| phone= +385 91 444 4194 | tollfree= | fax=
+| hours= | price=Dorm €11, double room €30
+| checkin= | checkout= | lastedit=2019-09-30
+| content=Has several units scattered across Old Town, lacks communal area for socialising. LCD televisions and computers with free internet access, some rooms dingy and noisy.
+}}
+* {{sleep
+| name=Old Town Hostel | alt= | url= | email=info@oldtownsplit.com
+| address=Dominisova 3 | lat= | long= | directions=
+| phone=+385 21 355 144 | tollfree=
+| checkin=13:00 | checkout=12:00 | price=Dorm €25
+| lastedit=2019-09-30
+| content=Free wifi, one shared computer, flat screen TV with a collection of movies.
+}}
+* {{sleep
+| name=Hostel Split | alt=formerly Pletkovic Hostel | url=https://www.hostelinsplit.com/accomodation-hostel | email=hostel1700@gmail.com
+| address=Poljana Kneza Trpmira 1 | lat= | long= | directions=
+| phone=+385 21 717 170 | tollfree=
+| checkin= | checkout= | price=Dorm bunk €15, private room €50
+| lastedit=2019-09-30
+| content=Very central, between bus station and old town. With 8-bedded dorm and private rooms.
+}}
+* {{sleep
+| name=SilverGate Hostel | alt= | url= | email=silvergatehostel@gmail.com
+| address=Hrvojeva 6 | lat= | long= | directions=
+| phone=+385 21 322 857 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2019-09-30
+| content=
+}}
+* {{sleep
+| name=Situs Hostel | alt= | url= | email=
+| address=Starčevićeva 3 | lat= | long= | directions=500 m north of harbour
+| phone=+385 98 314 299 | tollfree=
+| checkin= | checkout= | price=Dorm bed: €15-20
+| lastedit=2019-09-30
+| content=
+}}
+* {{sleep
+| name=Adriatic Hostel | alt= | url=https://www.adriatichostel.net | email=info@adriatichostel.net
+| address=Ul. Stari pazar 2 | lat=43.508072 | long=16.4419 | directions=in the center, overlooking the Green Market
+| phone=+385 21 265 700 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2022-08-19
+| content=Newly renovated with chandeliers, hardwood floors, modern bathrooms with custom glass showers (hotel style), A/C and flatscreen TVs in every room, stainless steel appliances in gourmet kitchen, new bedding and towels, huge lounge where guests can rest and chat, laundry room, internet stations.
+}}
+
+=== Mid-range ===
+
+* {{sleep
+| name=Guesthouse Vrlic | alt= | url= | email=
+| address=Držićeva 7 | lat= | long= | directions=
+| phone=+385 99 2152 352 | tollfree=
+| checkin= | checkout= | price=B&B double €50
+| lastedit=2019-09-30
+| content=Small central place.
+}}
+* {{sleep
+| name=Villa Varoš | alt= | url=https://villavaros.hr/ | email=jdonlic@yahoo.com
+| address=Miljenka Smoje 1 | lat= | long= | directions=200 m west of palace
+| phone=+385 99 215 9538 | tollfree=
+| checkin= | checkout= | price=B&B double €60
+| lastedit=2019-09-30
+| content=Clean comfy small hotel, very central, friendly helpful hosts.
+}}
+
+=== Splurge ===
+* {{sleep
+| name=Hotel Atrium | alt= | url=https://safirhoteli.hr/ | email=
+| address=Domovinskog rata 49a | lat=43.519 | long=16.448 | directions=
+| phone=+385 21 20 0000 | tollfree=
+| checkin= | checkout= | price=B&B double €250
+| lastedit=2019-09-30
+| content=Modern hotel in business district, with 124 rooms.
+}}
+* {{sleep
+| name=Hotel Mondo | alt=formerly Hotel Dalmina | url=https://hotelmondo.hr | email=
+| address=Kopilica 5 | lat= | long= | directions=
+| phone=+385 21 35 00 00 | tollfree=
+| checkin= | checkout= | price=B&B double €100
+| lastedit=2019-09-22
+| content=Business hotel in an industrial part of town, free parking.
+}}
+* {{sleep
+| name=Hotel Globo | alt= | url=http://hotelglobo.com | email=
+| address=Lovretska 18 | lat= | long= | directions=1 km north of harbour
+| phone=+385 21 481 111 | tollfree=
+| checkin= | checkout= | price=B&B double €100
+| lastedit=2019-09-30
+| content=Workaday neighbourhood but hotel is clean & well-run, close to central sights.
+}}
+* {{sleep
+| name=Hotel Luxe | alt= | url=https://hotelluxesplit.com | email=
+| address=Kralja Zvonimira 6 | lat= | long= | directions=
+| phone=+385 21 314 444 | tollfree=
+| checkin= | checkout= | price=B&B double €150
+| lastedit=2019-09-30
+| content=Decent place in town centre, some street noise, some rooms are in Annex 500 m away.
+}}
+* {{sleep
+| name=Hotel Park | alt= | url=http://www.hotelpark-split.hr/ | email=hotelpark@hotelpark-split.hr
+| address=Hatzeov perivoj 3 | lat= | long= | directions=200 m east of ferry piers
+| phone=+385 21 406 400 | tollfree=
+| checkin= | checkout= | price=B&B double €130
+| lastedit=2019-09-30
+| content=Good central hotel, claims to be 5 star but it's more like 3 or 4, and the room rates are in line with that.
+}}
+* {{sleep
+| name=Hotel Peristil | alt= | url=https://hotelperistil.com/ | email=booking@hotelperistil.com
+| address=Poljana kraljice Jelene 1 | lat= | long= | directions=
+| phone=+385 21 329 070 | tollfree=
+| checkin= | checkout= | price=B&B double €130
+| lastedit=2019-09-30
+| content=Friendly small place within the old palace.
+}}
+* {{sleep
+| name=Hotel Vestibul Palace | alt= | url=http://vestibulpalace.com | email=info@vestibulpalace.com
+| address=Iza vestibula 4 | lat= | long= | directions=
+| phone=+385 21 329 329 | tollfree=
+| checkin= | checkout= | price=B&B double €120
+| lastedit=2019-09-30
+| content=Within the old palace, so some rooms are small and you'll regret trying to bring a car, but excellent service and a comfy modern place in the centre.
+}}
+* {{sleep
+| name=Marmont | alt= | url=http://marmonthotel.com | email=
+| address=Zadarska 13 | lat= | long= | directions=
+| phone=+385 21 308 060 | tollfree=
+| checkin= | checkout= | price=B&B double €220
+| lastedit=2019-09-30
+| content=Central in old town, most rooms are small and dark, and parking is difficult. But it's clean and simple and has A/C.
+}}
+* {{sleep
+| name=Radisson Blu Resort & Spa, Split | alt= | url=https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-split-spa | email=info.split@radissonblu.com
+| address=Put Trstenika 19 | lat=43.503 | long=16.470 | directions=2 km east of ferry port
+| phone=+385 21 303 030 | tollfree=
+| checkin= | checkout= | price=B&B double from €200
+| lastedit=2019-09-30
+| content=Bland modern building, but a well-run resort hotel with beach club and good grill restaurant. With spa, but the indoor pool is closed indefinitely for repairs. One repeat visitor was impressed by the low staff turnover.
+}}
+* {{sleep
+| name=Riva Apartments | alt= | url=https://m.facebook.com/Riva-Apartments-Split-489286257769321/ | email=info@riva-apartments.com
+| address=Ul. Andrije Alješija 6 | lat= | long= | directions=
+| phone=+385 91 286 7411 | tollfree=
+| checkin= | checkout= | price=Double room €140
+| lastedit=2019-09-30
+| content=Self-catering apartments on Riva promenade looking out to Split Bay.
+}}
+* {{sleep
+| name=Palace Suites Heritage Hotel | alt= | url=https://palacesuites-split.com/ | email=info@palacesuites-split.com
+| address=Narodni Trg 13 | lat=43.50914 | long=16.43876 | directions=
+| phone=+385 21 339 040 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2022-08-19
+| content=Suites overlooking the main square, locally known as the Pjaca.
+}}
+* {{sleep
+| name=Hotel POSH | alt= | url=https://hotelposhsplit.com/ | email=hotelposh@hotelposhsplit.com
+| address=Spinčićeva 27 | lat= | long= | directions=
+| phone=+385 21 38 03 90 | tollfree=
+| checkin= | checkout= | price=
+| lastedit=2023-06-30
+| content=All-suites, 5* hotel with an amazing sea view, infinity pool, and Vip service.
+}}
+
+=== Out of town ===
+* {{sleep
+| name=Adria Hostel | url=http://www.hostel-adria.com/ | email=info@hostel-adria.com
+| address=Bajnice | lat= | long= | directions=near the main coastal road between Split and Omis, about 12 km south of Split. Take bus #60 or contact the hostel to arrange pickup
+| phone=+49 177 7368595, +385 21 873028 | tollfree= | fax=
+| hours= | price=Dorm bed: €15-25; bed in private room: €18-28
+| checkin=11:00 | checkout=09:30
+| content=Right next to the Adriatic Sea.
+}}
+* {{sleep
+| name=Hotel San Antonio | url=http://www.hotel-sanantonio.com | email=info@hotel-sanantonio.com
+| address=Grljevacka 30, Podstrana | lat= | long= | directions=7 km towards Dubrovnik, on the right hand side, right on the beach
+| phone=+385 21 336 111 | tollfree= | fax=
+| hours= | price=€48-95
+| checkin= | checkout=
+| content=54 rooms and 3 suites.
+}}
+* {{sleep
+| name=Le Méridien Lav | url=http://www.lemeridiensplit.com/ | email=
+| address=Grljevacka, 2A, Podstrana | lat= | long= | directions=
+| phone=+385 21 500 500 | tollfree= | fax=
+| hours= | price=
+| checkin= | checkout=
+| content=
+}}
+
+==Stay safe==
+
+Do not go to striptease bars because they are a tourist trap.
+
+For LGBT+ friendly places consider to consult locals first as [https://www.facebook.com/AcademiaClubGhetto Ghetto] is the only gay-owned bar-club. Alternative youth club [https://www.facebook.com/klub.kocka Kocka] is also gay-friendly location for concerts and parties.
+
+Walking through the historic centre in swimwear or shirtless is prohibited. Police issue on-the-spot fines of €150 for violating the dress code.
+
+=====Dentist=====
+
+* '''[http://www.split-dent.com/ Split-Dent]''' Dental treatment, visitors to the city are welcome.
+
+== Connect ==
+
+Split has good 4+G and 5G speed from Telemach, A1 and T-Mobile. Wifi is widely available in public places around center and most caffes.
+
+[https://internet-caffe-club-100-d-print-phone-calls.business.site/ Internet Club 100]{{Dead link|date=June 2024 |bot=InternetArchiveBot }} with print service is at Sinjska ul 2/4 north side of the old city, open Monday to Friday 09:30-15:30.
+
+==Go next==
+*'''Salona''' - ancient Roman colony, one of the biggest towns of Roman Empire. It had a population of nearly 60,000 people. It was a capital of Roman province Dalmatia. Well preserved amphitheater, theater, basilica, cemetery and many other Roman buildings. Situated near town of [[Solin]], 10-20 min bus ride from Split.
+* '''[[Hvar]]''' - A day trip by boat to this island is well worth the effort. Hvar town is small but extremely attractive, with numerous large yachts moored in the harbour.
+* '''[[Brac|Brač]]''' - An alternative could be the boat to the island of Brač which is just the other side of the water. Split is well connected with Milna, Sutivan, Bol and Supetar Brač. Try renting a bike or scooter for exploring the island.
+* '''[[Solta|Šolta]]''' - another gorgeous island easily reachable by ferry from Split within an hour. It's more laid back than Hvar and less touristy than Brač, mostly frequented by Croatian tourists. Great bays, clear water, historic towns and local honey, wine and olives.
+* '''[[Krka National Park]]''' - one of eight national parks in Croatia. Enjoy in beautiful waterfalls and visit old monastery on the island Visovac.
+* '''[[Omiš]]''' - this little town is situated on the mouth of Cetina river and its magnificent canyon. It is ideal place for rafting and canyoning. You can get to Omiš by regular scheduled bus.
+* '''[[Makarska]]''' - a popular resort town with beautiful beaches, 60 km southeast of Split. Frequent buses.
+* '''[[Bosnia and Herzegovina]]''' - possible day trips by regular scheduled bus include [[Mostar]], [[Međugorje]], Livno, Bugojno, Ljubuški, Travnik and even [[Zenica]].
+
+{{related|Ferries_in_the_Mediterranean}}
+{{IsPartOf|Split-Dalmatia}}
+{{usablecity}}
+{{geo|43.51143|16.43975|zoom=15}}

@@ -31,11 +31,7 @@ export default async function Home() {
 
   return (
     <main className="flex flex-col items-center">
-      {/* Hero */}
       <section className="flex w-full flex-col items-center gap-6 px-6 py-24 text-center">
-        <p className="font-data text-xs uppercase tracking-[0.2em] text-mist">
-          AI Travel Planner
-        </p>
         <h1 className="max-w-lg font-display text-3xl font-semibold text-ink sm:text-4xl">
           Find a place worth going.
         </h1>
@@ -46,7 +42,6 @@ export default async function Home() {
         <HeroSearchForm />
       </section>
 
-      {/* How it works */}
       <section className="w-full border-y border-mist/30 bg-paper px-6 py-16">
         <div className="mx-auto grid max-w-3xl grid-cols-1 gap-10 sm:grid-cols-3">
           {STEPS.map((step) => (
@@ -59,7 +54,6 @@ export default async function Home() {
         </div>
       </section>
 
-      {/* Featured destinations */}
       {featured.length > 0 && (
         <section className="w-full max-w-3xl px-6 py-16">
           <p className="mb-6 font-data text-xs uppercase tracking-[0.2em] text-mist">

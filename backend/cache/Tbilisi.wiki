@@ -1,0 +1,1921 @@
+{{pagebanner | Tbilisi banner.jpg}}
+[[File:Tbilisi at night, Kura, Georgia.jpg|300px|thumb|Tbilisi at night]]
+
+'''Tbilisi''' ([[Georgian phrasebook|Georgian]]: {{lang|ka|თბილისი}}), is the capital city of the country of [[Georgia (country)|Georgia]], lying on the banks of the Mtkvari River. The metropolitan area covers 726&nbsp;km² (280 mi²) and has a population of approximately 1.3 million (2026).
+
+==Understand==
+[[File:Georgia Tbilisi map.PNG|300px|right|Location of Tbilisi within Georgia]]
+Tbilisi (formerly called 'Tiflis' after its Russian name) lies in the centre of eastern Georgia, in the foothills of the Trialeti mountain range. According to Georgian legends, it was founded in the 5th century by King Vakhtang Gorgasali who, while hunting, shot a pheasant which fell into a warm spring and was either boiled or healed. Either way, the king was inspired to found a city on the site, and the name of the city derives from the Georgian word ''tbili'' meaning "warm". Although the city has been destroyed and rebuilt 29 times, the layout of the Old Town is largely intact with narrow alleys and big crooked houses built around courtyards.
+
+===Climate===
+{{climate chart
+|Tbilisi
+|-0.6 |6.9 |16.4
+|0.2 |8.4 |18.2
+|4.0 |13.2 |29.1
+|8.4 |18.6 |63.8
+|13.2 |23.7 |82.9
+|17.3 |28.5 |84.0
+|20.4 |31.5 |41.6
+|20.3 |31.9 |39.4
+|15.9 |26.2 |34.8
+|11.0 |20.0 |46.3
+|4.7 |12.6 |34.2
+|1.2 |8.1 |20.8
+|jansnow=71.0 |febsnow=55.0 |marsnow=72.0 |aprsnow=13.0 |maysnow=0.0 |junsnow=0.0 |julsnow=0.0 |augsnow=0.0 |sepsnow=0.0 |octsnow=6.0 |novsnow=16.0 |decsnow=22.0
+|float=right
+|clear=right
+|source=[[:w:Tbilisi]]
+|description=
+}}
+Tbilisi experiences relatively cold winters and hot summers. Because the city is bounded on most sides by mountain ranges, the close proximity to large bodies of water (Black and Caspian Seas) and the fact that the Greater Caucasus Mountain Range (further to the north) blocks the intrusion of cold air masses from Russia, Tbilisi has a relatively mild micro-climate compared to other cities that possess a similar continental climate along the same latitudes. The average annual temperature in Tbilisi is 12.7 °C (54.9 °F). January is the coldest month with an average temperature of 0.9 °C (33.6 °F). July is the hottest month with an average temperature of 24.4 °C (75.9 °F). The absolute minimum recorded temperature is −24 °C (−11 °F) and the absolute maximum is 40 °C (104 °F). Average annual precipitation is 568 mm (22.4 in). May and June are the wettest months (averaging 84 mm (3.3 in) of precipitation each) while January is the driest (averaging 20 mm (0.8 in) of precipitation). Snow falls on average 15–25 days per year. The surrounding mountains often trap the clouds within and around the city, mainly during the Spring and Autumn months, resulting in prolonged rainy and/or cloudy weather. Northwesterly winds dominate in most parts of Tbilisi throughout the year. Southeasterly winds are common as well.
+
+===Visitor information===
+* {{listing |type=other | name=Tourism Office | alt= | url= | email=
+| address=Freedom Square, Rustaveli Ave | lat=41.69635 | long=44.79999| directions=north side of the square | phone= | tollfree= | fax=| hours=Daily 09:00-21:00 | price=| lastedit=2018-10-16 | content=They provide a free, very detailed booklet with city map.
+}}
+* [https://www.tbilisi.gov.ge Tbilisi] municipal government website
+
+==Get in==
+===By plane===
+* {{go
+| name=Shota Rustaveli Tbilisi International Airport | alt={{IATA|TBS}}, Georgian: თბილისის საერთაშორისო აეროპორტი, Tbilisis saertasoriso aeroporti
+| url=http://www.tbilisiairport.com/ | email=info.tbs@tav.aero
+| address=Airport St | lat=41.669167 | long=44.954722 | directions=17 km east of city centre
+| phone=+995 32 310 265 | tollfree= | fax=+995 32 310 322
+| hours= | price= | lastedit=2018-10-16
+| wikipedia=Tbilisi International Airport | image=Tbilisi airport 1.jpg | wikidata=Q778213
+| content=Small but reasonably modern terminal. Seven food and drink outlets, four duty free shops. There is an ATM and a branch of [http://libertybank.ge/ Liberty Bank] ({{phone|+995 322 555500}}). Several bureau de change operate 24/7. The three main mobile phone companies sell SIM cards in the arrivals area.
+}}
+
+See [[Georgia (country)#By plane 2|this section]] for the very limited '''domestic flights''' to the city.
+
+'''International flights''' go to Tbilisi regularly from Aktau, Almaty, Amsterdam, Antalya, Athens, Baku, Belgrade, Doha, Donetsk, Dnipro, Dubai, Delhi IGI, Istanbul IST & SAW, Kazan, Kharkiv, Kyiv KBP, London LGW, Minsk, Moscow DME & ZIA, Munich, Novosibirsk, Odesa, Paris CDG, Prague, Riga, Rome, Rostov-on-Don, Sochi, St Petersburg, Tallinn, Tel Aviv, Vienna, Vilnius, Warsaw, Yekaterinburg and Yerevan. There are summer seasonal flights to the Med and Red Sea resorts.
+
+You may also want to consider arriving in the '''[[Kutaisi#By_plane|Kutaisi Airport]]'''. Flight prices from Asia and Europe can be as low as €20-30. The low fare routes are (as of May 2021) from Vienna, Larnaca, Prague, Tallin, Berlin, Dortmund, Memmingen, Athens, Thessaloniki, Budapest, Milan, Rome, Riga, Vilnius, Gdansk, Katowice, Kraków, Poznan, Warsaw, Wroclaw and Abu Dhabi. From Kutaisi to Tbilisi you go 4 hours in a marshrutka for {{GEL|20|when=2021-05-15}}. Or you can take the train.
+
+'''Getting there and away''':
+{{infobox|Airport rail connection|The rail connection from the airport to Tbilisi's main railway station is not operating as of 2023. The shuttered station is just across the street from the arrivals terminal and is difficult to not notice with its yellow, reflective glass panes.}}
+* '''By bus''' – Bus 337 leaves from the right corner of the arrival area. From 06:59 to 22:59 every 20-30 min. The night bus between 23:00–06:30 is not running (as of June 2022). Via Avlabari, Freedom Square, Rustaveli, Republic Square and Tamar Bridge to the main train station; allow 50 min. The fare is 1 lari with Metromoney Card, or 1.50 lari with credit card (contactless payment required). You will need either, coins are not accepted anymore. Also see: [http://transferen.ttc.com.ge/?page=live&setLng=en Tbilisi Transport Company]{{Dead link|date=June 2024 |bot=InternetArchiveBot }}
+:Don't count on the last or last two airport buses to run to the airport. Nothing is overly reliable in Georgia, especially when taxi drivers can earn an extra lari. In May 2023, the last airport bus departed Tbilisi's main railroad station at 23:50.
+
+* '''By taxi''' – Between the airport and the city it costs 20–30 lari. Standard rates are listed on a board by the taxi rank as you exit the airport, on the right hand side. As of early 2019, the tourist information in the airport quotes 30–50 lari, but Yandex.Go and Bolt can already be had for 20 lari. Taxi drivers (even of the "official" taxis) outside might insist that the official rate is 80 lari. They are lying.
+:'''Beware''': Scammer taxi drivers have proliferated at Tbilisi Airport in the past several years and will charge several times the rate. They are aggressive and will immediately accost you upon leaving the baggage claim with greetings like: "Hello, my friend." Be particularly wary of one tall and thin scammer, who will try to be very friendly yet can be menacing if you refuse. Try also to avoid withdrawing money from the ATMs at the airport as many of the scammer drivers that accost passengers try to look over your shoulder to see how much you are withdrawing. 
+
+* '''By thumb''' – Getting around in Georgia by thumb is easy, also from the airport. Try along the road to the highway or at the highway north from the airport, especially in case you want to explore [[Kakheti]] in the east.
+
+===By train===
+* {{go
+| name=Tbilisi Central Station | alt=თბილისი ცენტრალი; Tbilisi Tsentrali | url=http://www.railway.ge/ | email=
+| address=Station Square (Sadguris Moedani) | lat=41.7207 | long=44.7995 | directions=Metro stop: Station Square
+| phone= | tollfree= | fax=
+| hours= | price= | lastedit=2018-10-16
+| wikidata=Q1341835
+| content=After an extensive refurbishment, the lower levels are now a shopping mall. Tickets and platforms are on the upper levels. There's no Wifi at the station.
+}}
+
+====Domestic trains====
+Trains run 3x daily between Tbilisi and Batumi, departing each city around 07:30 and 17:30 and taking 5 hr. These trains also connect to Yerevan (Armenia).
+
+Trains also run from [[Gori]], [[Borjomi]], [[Kutaisi]] I + II, [[Marneuli]], [[Poti]] and [[Zugdidi]].
+
+====International trains====
+* [[Yerevan]] &ndash; There is a train servicing Tbilisi to Yerevan. Check https://www.railway.am and https://ticket.ukzhd.am for current information, as all of the information which follows this sentence may be outdated. 
+:An overnight train runs between Tbilisi and Yerevan in Armenia. From Oct to mid-June this departs from Tbilisi (as Train 371) at 20:20 on odd dates of the month, reaching the border at 22:00 and Yerevan 06:55 next morning. It departs from Yerevan (as Train 372) at 21:30 on even dates, reaching the border at 04:20 and Tbilisi at 07:50. The 31st/1st of the month may be skipped to maintain the alternation. Border procedures either side take 90 min. In summer these trains may be booked out for days ahead, so buy your ticket as soon as possible - you can do so online. The coaches are standard ex-Soviet behemoths, but with fairly comfortable sleeping compartments. No catering, so bring your own food, water, vodka etc.
+:The one way fare is 54.50/61.25 lari (upper/lower bed) in 3rd class, and about 90 lari in a 2nd class sleeper berth. 3rd class can be sticky and uncomfortable if it is fully booked&mdash;check ahead.
+:From mid-June through Sept this train runs daily from Batumi on the Black Sea coast. As Train 201, it departs Batumi 15:35 and Tbilisi 22:15, reaching Yerevan at 07:25. As Train 202, it departs Yerevan 15:30 and Tbilisi 00:45, reaching Batumi at 07:10. Other domestic trains link Tbilisi and Batumi. Batumi is close to the Sarpi/Hopa border crossing between Georgia and Turkey, which is the main overland route into this region.
+
+* [[Baku]] &ndash; Trains have not run between the Azerbaijani capital and Tbilisi since COVID-19. There are now no trains that cross the border between these two states.
+
+* [[Ankara]] &ndash; Passenger rail service between [[Baku]] and Turkey's capital city via Tbilisi has not yet started operating, and there seems to be no set timeline on when it is due to begin.
+
+===By bus or marshrutka===
+{{Infobox|Prices, marshrutka drivers and travel hours|Since marshrutkas are privately owned vehicles, some drivers try to charge tourists several lari more than locals. If you do not want to get ripped off, ask a local about the price and give money straight to the driver, or just pay at a ticket office (''{{lang|ka|სალარო}}'') if such exists–most larger cities have them, but not all destinations.<br/>Also, start early, because marshrutkas mostly start in the morning and become sparse in the afternoon. After 16:00 it can be hard to catch a marshrutka to/from Tbilisi, or any other city in Georgia for that matter.}}
+
+There are three main bus stations in Tbilisi, and several smaller ones. In Georgian, bus station is {{lang|ka|ავტოსადგური}} or {{lang|ka|ავტოვაგზალი}}. Most often than not, large bus stations are located adjacent to big train stations (called ''sadguri'' {{lang|ka|სადგური}} or ''vagzali'' {{lang|ka|ვაგზალი}}). To transfer between Didube and Ortachala, use marshrutka 150 or metro.
+
+* {{go
+| name=Station Square bus station
+| alt= 
+| address=Station Square and along Abastumani street | lat=41.722385853112414 | long=44.79679921508585
+| directions=Located in the large plaza in front of the train station and along Abastumani street.
+| hours= 
+| lastedit=2020-12-10
+| wikidata=Q1341835
+| content=This station generally serves larger cities in Georgia: Kutaisi, Batumi, Zugdidi, Telavi, Rustiavi, Gori, Akhaltsikhe, Borjomi, but also has buses from/to Mestia.
+}}
+{{mapframe|41.7506103|44.7786187|zoom=17|align=right|show=didube|name=Didube bus station:
+
+{{legend|#ff15f3|Zone 1: Western Georgia and Rustavi}}
+<div class="mw-collapsible mw-collapsed">
+* '''Akhaltsikhe-Borjomi'''
+* '''Batumi'''
+* Kaspi-Metekhi-Akhalkalaki
+* Khashuri/Surami
+* Khashuri-Zestaponi-'''Kutaisi'''
+* Rustavi
+* Tsilkani/Ereda
+* Ureki-Kobuleti-Sarpi
+* '''Zugdidi'''
+</div>
+{{legend|#ffff00|Zone 2: [[Mtskheta-Mtianeti]] region}}
+<div class="mw-collapsible mw-collapsed">
+* Akhaldaba-Prezeti
+* Akhalubani
+* Barisakho
+* Bazaleti
+* Chargali
+* Choporti
+* Dusheti
+* Dzegvi
+* Gremiskhevi
+* '''Gudauri'''
+* Bulachauri
+* Kanda
+* Kaspi-Akhalkalaki
+* Kaspi-Metekhi-Gomi
+* Kaspi-Metekhi-Barnabiani-Sasireti
+* '''Kazbegi/Stepantsminda'''
+* Khidisquri
+* Khovle
+* Kveshi
+* Misaktsieli
+* Mleta
+* '''Mtskheta'''
+* Natakhtari-Akhalubani
+* Natakhtari-Navazi-Misaktsieli
+* Nichbisi
+* Odzisi
+* Pasanauri
+* Prezeti
+* Saguramo-Galavani-Zakaro
+* Shuapkho
+* Tserovani
+* Tsikhisdziri
+</div>
+{{legend|#ff8000|Zone 3: taxi, [[Imereti]] region, Russia}}
+<div class="mw-collapsible mw-collapsed">
+* Borjomi-Bakuriani
+* Gori
+* Kareli
+* Kazbegi-Gudauri
+* Kutaisi
+* Vladikavkaz-Mineralnye Vody
+</div>
+{{legend|#00d500|Zone 4: Western Georgia}}
+<div class="mw-collapsible mw-collapsed">
+* Akhalkalaki
+* Akhaltsikhe
+* Ambrolauri
+* Batumi
+* Chiatura
+* Khoni
+* Kutaisi
+* Zugdidi
+</div>
+{{legend|#00ffff|Zone 5: Western Georgia}}
+<div class="mw-collapsible mw-collapsed">
+* Akhaltsikhe
+* Batumi
+* Khoni-Martvili
+* Kobuleti
+* Kutaisi
+* Sachkhere
+* Zestaponi
+* Zugdidi-Anaklia
+</div>
+{{legend|#ff0000|Zone 6: Western Georgia}}
+<div class="mw-collapsible mw-collapsed">
+* Batumi
+* Baghdati
+* Chala
+* Chiatura
+* Kharaguli
+* Kutaisi
+* Samtredia
+* Sachkhere
+* Senaki-Abasha
+* Tianeti
+* Tqibuli
+* Zestaponi-Terjola-Tuzi
+</div>
+{{legend|#0a03fc|Zone 7: [[Shida Kartli]] and [[Imereti]]}}
+<div class="mw-collapsible mw-collapsed">
+* Aghaianitowards Mestia
+* Akhaltsikhe-Aspindza
+* '''Batumi'''
+* '''Borjomi'''-Bakuriani
+* Borjomi-Sakire
+* Dzalisi
+* Ergneti
+* '''Gori'''
+* Kareli-Akhalsopeli-Tsromi
+* Kareli-Khvedureti
+* Kavtiskhevi-Tvaladi
+* Khashuri
+* Ksani
+* Ksovrisi
+* '''Kutaisi'''-Tsqaltubo
+* Mchadijvari
+* Mukhrani
+* Sachkhere
+</div>
+}}
+
+<maplink text="" lat="0" lon="0" group="didube" class="no-icon">
+{"type": "FeatureCollection","features": [{"type": "Feature","properties": {"stroke": "#555555","stroke-width": 2,"stroke-opacity": 1,"fill": "#ff15f3","fill-opacity": 0.5,"color": "#0f0","size": 15,"name": 1},"geometry": {"type": "Polygon","coordinates": [[[44.778701663017266,41.74968752559056],[44.77857291698456,41.749339334715295],[44.77878749370575,41.749309318172095],[44.779004752635956,41.74933533251034],[44.779315888881676,41.7494033699605],[44.77935075759888,41.749765568113865],[44.779010117053986,41.74974355612973],[44.778701663017266,41.74968752559056]]]}},{"type": "Feature","properties": {"stroke": "#555555","stroke-width": 2,"stroke-opacity": 1,"fill": "#ffff00","fill-opacity": 0.5,"color": "#f00","size": 15,"name": 2},"geometry": {"type": "Polygon","coordinates": [[[44.778060615062714,41.750409915578246],[44.77778434753418,41.7495694610801],[44.77843075990677,41.74961348516025],[44.778406620025635,41.749765568113865],[44.77847903966904,41.749785579002],[44.77858364582062,41.75032186848014],[44.778060615062714,41.750409915578246]]]}},{"type": "Feature","properties": {"stroke": "#555555","stroke-width": 2,"stroke-opacity": 1,"fill": "#ff8000","fill-opacity": 0.5,"name": 3,"label": "KJSFH"},"geometry": {"type": "Polygon","coordinates": [[[44.778884053230286,41.75146447029967],[44.77896720170975,41.751240353857895],[44.7789403796196,41.75102824293333],[44.77874994277954,41.749949668049354],[44.77876603603363,41.74989964094523],[44.77885454893112,41.7498936376901],[44.779053032398224,41.75106025972157],[44.77908253669739,41.75129238095874],[44.77896451950073,41.75149048376454],[44.778884053230286,41.75146447029967]]]}},{"type": "Feature","properties": {"stroke": "#555555","stroke-width": 2,"stroke-opacity": 1,"fill": "#00d500","fill-opacity": 0.5},"geometry": {"type": "Polygon","coordinates": [[[44.778669476509094,41.75037989953564],[44.7786882519722,41.75049996362183],[44.77843880653381,41.750533981738755],[44.778580963611596,41.75127036949815],[44.77843880653381,41.75136842049186],[44.778175950050354,41.75146447029967],[44.77811962366104,41.751340405937505],[44.77811962366104,41.75100823243256],[44.77808207273483,41.750808127081875],[44.77814644575119,41.7508041249685],[44.778122305870056,41.750676057208715],[44.77804720401763,41.750676057208715],[44.778039157390594,41.750618026420945],[44.77796137332916,41.750622028545926],[44.777923822402954,41.75049996362183],[44.778669476509094,41.75037989953564]]]}},{"type": "Feature","properties": {"stroke": "#555555","stroke-width": 2,"stroke-opacity": 1,"fill": "#00ffff","fill-opacity": 0.5},"geometry": {"type": "Polygon","coordinates": [[[44.77837979793548,41.75182665682387],[44.778170585632324,41.75148448065821],[44.77827250957489,41.751452464081545],[44.7783100605011,41.75152450135658],[44.77855682373047,41.751456466154515],[44.778626561164856,41.751506492045394],[44.7787606716156,41.75140043711043],[44.77858901023865,41.751242354900995],[44.778867959976196,41.75121033820359],[44.77883577346802,41.751380426725696],[44.77878749370575,41.75150048894054],[44.77852463722229,41.75173260858583],[44.77837979793548,41.75182665682387]]]}},{"type": "Feature","properties": {"stroke": "#555555","stroke-width": 2,"stroke-opacity": 1,"fill": "#ff0000","fill-opacity": 0.5},"geometry": {"type": "Polygon","coordinates": [[[44.7787606716156,41.75233291412086],[44.77862119674682,41.75219284333152],[44.77854073047637,41.752086789530516],[44.778511226177216,41.752018754924435],[44.778511226177216,41.75194671820409],[44.778538048267365,41.7518746814029],[44.77858632802963,41.75180264452088],[44.77873653173447,41.75167057669383],[44.77890819311142,41.75152049928786],[44.778999388217926,41.75147447547972],[44.779173731803894,41.75142244852643],[44.77923005819321,41.75164056124073],[44.779047667980194,41.75167657978279],[44.77907180786133,41.751746615778956],[44.77895110845566,41.75177062810291],[44.77884650230408,41.75178663631387],[44.778884053230286,41.75187868344954],[44.77878749370575,41.75190869879131],[44.778921604156494,41.75230089796741],[44.7787606716156,41.75233291412086]]]}},{"type": "Feature","properties": {"stroke": "#555555","stroke-width": 2,"stroke-opacity": 1,"fill": "#0a03fc","fill-opacity": 0.5},"geometry": {"type": "Polygon","coordinates": [[[44.779372215270996,41.75219884637162],[44.77939635515212,41.75205677427203],[44.77925956249237,41.751636559179225],[44.77918982505798,41.75142244852643],[44.77920323610306,41.7512663674136],[44.77923542261123,41.75115430894466],[44.77920055389404,41.75106226077029],[44.77958679199219,41.75102624188354],[44.77981746196747,41.75187268037949],[44.7796967625618,41.751906697768966],[44.77981209754944,41.75220685042421],[44.779372215270996,41.75219884637162]]]}}]}
+</maplink>
+
+* {{go
+| name=Didube bus station | alt=დიდუბე ავტოსადგური
+| address=Akaki Tsereteli Ave | lat=41.749818 | long=44.778053 
+| directions=2 km north of downtown, via metro "Didube" stop (fastest option), or marshrutkas 6 and bus 46 from Freedom Square, and bus 21 from the center&mdash;ask the driver, or a younger local, when to get off
+| hours= 
+| price= 
+| lastedit=2018-10-16 
+| content=For all north-western and western destinations, incl. '''[[Turkey]]''', '''[[Russia]]''' and '''[[Greece]]'''. Regular bus lines run from inside the terminal, occasional and private operators run from the small street around the station. Has regular connections between Tbilisi and Mtskheta, Stepantsminda/Kazbegi (for Russia).
+}}
+:* [[Kutaisi]] &ndash; 07:00-19:00 hourly. 3.5–4 hr. 10 lari.
+:* [[Stepantsminda]] (Kazbegi) &ndash; Connections to Tbilisi at 07:00, 08:00, 09:00, 10:00, 11:00, 12:00, 13:30, 14:00, 15:30, 17:00 and 18:00. 3 hr, 10-15 lari.
+:* [[Gori]] &ndash; Hourly. 1.5 hr. 3 lari
+:* [[Borjomi]] &ndash; Every 2 hr. 3 hr. 8 lari.
+:* [[Mestia]] &ndash; At 05:00 and 07:00 from Tbilisi, and probably also very early from Mestia. 10-12 hr. 30 lari.
+:* '''Turkey''' &ndash; [https://www.metroturizm.com.tr Metro Turizm] and [http://www.lukskaradeniz.com/ Lüks Karadeniz] run two buses a day each from '''[[Ankara]]''' and one from '''[[Istanbul]]''', and occasionally all the way from Athens and Thessaloniki. Prices are around 100 lari or 160 [[Turkey#Money|TL]].
+* {{go
+| name=Avlabari bus station | alt= | url= | email=
+| address= | lat=41.69250 | long=44.81459 | directions=right across the side road from the north exit of the metro - End of Dusheti Street
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2019-11-08
+| content=Regular connections from/to [[Yerevan#By_bus_or_marshrutka|Kilikia]] bus station in '''[[Yerevan]]''', [[Armenia]]&mdash; Company "AR Comfort Armenia" - every other hour between 09:00-19:00, 50 lari. From Yerevan the go 07:30, 08:30, 10:30, 13:00, 15:00,  17:00 and 19:00 for 8,000 dram. One can pay in both currencies in Yerevan. Phone: +995 593229554, +995 592408800, +37494929281, +37443305555. They pass the Armenian border and then pass through [[Debed Canyon]] (hiking and UNESCO sites), and of course [[Vanadzor]] city. According to other travellers, the marshrutkas from this station are far more reliable and modern than the ones at Ortachala.
+}}
+
+* {{go
+| name=Ortachala bus station | alt=ორთაჭალის ავტოსადგური / "Central" Station, though it's 4 km SE of centre | url= | email=
+| address=Dimitri Gulia St 1 / Vakhtang Gorgasali St | lat=41.67505 | long=44.83453 | directions=Marshrutka 70, 81, and 150; nearest Metro Isani is across river 1 km north
+| phone=+995 32 753433 | tollfree= | fax= | hours= | price=
+|wikipedia=|wikidata=|image= |lastedit=2018-10-16
+| content=Serves southern destination like Marneuli and [[Rustavi]], including [[Armenia]] and [[Russia]], as well as Qax and Zaqatala in the northwest pocket of '''[[Azerbaijan]]'''. Money-change and ATM available. Toilets are squalid, 1 lari.
+}}
+:* '''[[Yerevan]]''' (Armenia) via Vanadzor (08:00, 6 hr, 30 lari): change there for Sevan and Ijevan. Later marshrutkas start when full, but you are probably better off going from Avlabari bus station (see above). Alternatively, if you are 3-4 people, take a taxi&mdash;Alaverdi is just 110 lari with Bolt from Tbilisi. From Yerevan marshrutkas leave the Central/Kilikia bus station at 08:30 for 6,500 dram.
+:* [[Vanadzor]] and [[Sevan]] (Armenia - you can hop off in [[Debed Canyon]] or [[Dilijan]] en route) &ndash; Hourly 07:00–12:00.
+:* [[Ijevan]] (Armenia) &ndash; At least one marshrutka from Ijevan at 09:30 (1,000 dram), with necessary interchange at the border.
+:* '''[[Ganja]]''' (Azerbaijan) &ndash; Sprinter, from Tbilisi at 07:00, 15 lari, from Ganja at 09:00, 8 manat, 3-4 hr.
+:* '''[[Baku]]''' &ndash; Buses take 12 hr.
+:* [[Qax|Qax (Qakh)]] (Azerbaijan, via Lagodekhi border, 5-6 hr) &ndash; marshrutka from Qax (8 manat): 08:30, 10:30, 13:30; marshrutka to Qax (10 lari, pay straight at kassa, otherwise driver will want to take 12 lari from you): 08:40, ~11:00, ~13:00.
+:* [[Zaqatala]] (Azerbaijan, via Lagodekhi border, 5-6 hr) &ndash; marshrutka to Zaqatala, ~09:00 (10 lari). At least one per day from Zaqatala, or if you reserve ahead you might be able to board (along the way) the one that starts in Qax. From Tbilisi, you should be able to also use the Qax one.
+:* '''[[Tehran]]''' (bus 107 lari)
+:* '''[[Istanbul]]''' apparently one daily bus in the morning
+
+* {{go
+| name=Samgori bus station | alt=სამგორის | url= | email=
+| address=Ketevan Tsamebuli Ave | lat=41.68476 | long=44.85455| directions=east of the city, 300 m from Samgori metro station | phone= | fax= | hours= | price= |lastedit=2018-10-16 | content=This serves (less frequently) the east Georgian towns of Sighnaghi and Telavi
+}}
+:* [[Sighnaghi]] &ndash; Every odd hour from 07:00; 7 lari, 1½ hr.
+:* [[Telavi]] &ndash; A few per day, last one 17:00 from Telavi. To Telavi at 09:00 & 10:00 and later. Up to 2½ hr, 10 lari, some go by near Sighnaghi.
+:* Itinerary from [[Moscow]] (200 lari), [[Orenburg]] (270 lari), [[Samara]] and [[Volgograd]] (175 lari), [[Saratov]] (200 lari), [[Voronezh]] (185 lari), [[Rostov-on-Don]], [[Elista]] and [[Yelets]] and [[Nalchik]] (70 lari), [[Kropotkin]], [[Minvody]], [[Pyatigorsk]], [[Vladikavkaz]] (55-60 lari) go every day
+
+===By thumb===
+Getting into Tbilisi through hitch-hiking is mostly not a problem, because most people go into the centre. And even a little further away, you can always catch a cheap (yellow) bus the last metres.
+
+Getting out though can be challenging, as you need to find a place where the traffic goes to where you want. It is best to take a marshrutka or regular bus a few kilometres out of the city and start from there. Also, check the [http://hitchwiki.org/en/Tbilisi Hitchwiki] for detailed instructions.
+
+==Get around==
+{{Mapframe|41.6935|44.8015|zoom=14}}
+{{Mapshapes|Q37006}}
+{{mapshape}}
+===By public transport===
+The primary transport inside and outside the Tbilisi city are metro, [http://www.info-tbilisi.com/usefulinfos/busroutes/ buses] and ''marshrutka'' (converted transport vans aka minibuses aka ''microbuses''). Check the [http://transferen.ttc.com.ge/?page=live&setLng=en Tbilisi Transport Company website]{{Dead link|date=June 2024 |bot=InternetArchiveBot }} for live overview and more information on buses. Otherwise, to find the correct bus route, GoogleMaps has comprehensive bus network information with numbers and routes. If you click on one of the numerous bus stops around the city or next to you, you will get displayed the bus lines, their routes and frequency.
+
+There is the Metromoney (IC) card, which must be used for most of Tbilisi's public transport options and tapped when entering any vehicle or station. Visa is also possible on some buses, but 50% extra.
+
+The Metromoney card gives discounts when transferring between metro, buses and minibuses, specifically the first ride is 1 lari (for either metro, buses or marshrutka) and all subsequent rides are free within the next 1½ hr. Several people can use one card together, however, only the first person can profit from the free transfer.
+
+You can buy the card at any metro station, with a one-time "non-refundable" deposit of 2 lari. (It can be refunded though if you have the original receipt and register the card onto your name.) The card can be topped up with any amount in metro stations or at Bank of Georgia pay-booths around the city.
+
+Buses and metro station turnstiles will also accept contactless cards, though your bank may charge you for this service.
+
+====By metro====
+[[File:Merto Station TAVISUPLEBIS MOEDANI.jpg|thumb|right|200px|Freedom Square metro station]]
+[[File:Metro Tbilisi logo.svg|150px|thumb|Tbilisi Metro logo]]
+Tbilisi has a two-line [http://info-tbilisi.com/usefulinfos/underground/ metro system], which operates from 06:00–24:00. However, sometimes the last metros leave at around 23:00 from either end.
+
+All signs inside the metro are in Georgian and English, but station name signs are not always visible from the train. Station names are also announced in two languages. There are rarely system maps on the train cars themselves. You will be lucky to find English speakers riding the Metro. You will however have better luck with Russian, which older people will speak. Take a bilingual map with you if you are not proficient with the local alphabet/pronunciation.
+
+Some rebuilt metro cars have USB charging ports near the doors, so that passengers can charge their phone. Cell coverage exists in most stations.
+
+====By bus====
+City buses are green and blue, and come in various sizes. The bus number and a description of the route are usually listed on signs in the bus windows, but only in Georgian. The city has installed electronic arrival boards, with reasonably accurate estimated arrival times, at bus stops on major roads. The signs alternate between English and Georgian and display the bus number, minutes to arrival and destination.
+
+Board through any door you like, usually the double doors in the middle are easiest.
+
+====By marshrutka====
+[[File:Minibuses in downtown Tbilisi (2012).jpg|thumbnail|Minibuses (aka marshrutkas) in downtown Tbilisi]]
+Marshrutkas are vans which service the side streets of the city. They are independently owned. Like buses, the route is posted in the front window (often only in Georgian), but marshrutkas use a different route numbering system, and the route descriptions may be more general than the buses, e.g. "Vake" rather than a specific street in the Vake area.
+
+Shout "Stop" or "Gaacheret" when you want to get off, and hand the driver your fare on the way out.
+
+===On foot===
+Depending on where you are, certain parts of the city are conveniently walkable, but others cater mostly to motorists. Pedestrians have to contend with significant neglect of the pavements. As far as motorists are concerned pedestrians are allowed to use zebra crossings, but when doing so they do not have priority over vehicular traffic. However, pedestrians do have the advantage of being able to cross the pedestrian only peace bridge and travel on the cable car and funiculars. As of August 2025, police enforce a recent new rule penalizing jaywalking with 50 lari.
+
+===By taxi===
+[[File:Tbilisi, Old Tbilisi, Kura River, Georgia.jpg|thumb|Kura River, Tbilisi]]
+Taxis in Tbilisi are also cheap, especially through Bolt or Yandex.Taxi. They are typically privately owned vehicles, and are not metered. If you're going anywhere other than the nearest metro station, major hotels, or tourist destinations, or if you don't speak Georgian or Russian, it's likely that your driver will stop multiple times and ask pedestrians for directions. Even then, he may not know how to get to your destination. If the driver has difficulty finding your destination, he will charge you for his trouble. Always negotiate a price beforehand, unless it is a metered taxi. Prices start at 2 lari for very short trips. A trip in the center of town should rarely cost more than 3–5 lari, and anywhere in the city should never cost more than 15 lari. The taxi drivers can be persistent when trying to get customers.
+
+Consider making an account with [https://bolt.eu/en/ Bolt], [https://taximaxim.ge/en/ MAXIM] or [https://taxi.yandex.com.ge/?lang=en#index Yandex.Taxi]. They are quite cheap and especially going with several people more convenient. They can also help when the metro is closed and you are stuck&mdash;mostly less than 1 lari per km. If you are 3-4 people taxi is an inexpensive alternative to even marshrutkas.
+
+===By car===
+End on parking is widespread, but the ubiquitous informal parking attendants will help you reverse out into the traffic. It is all part of the service they offer in return for the usual tip.
+
+===By bicycle===
+Cycling was rare in the past, but is becoming more widespread, with dedicated bike-paths in some parts of town, including Vake and Saburtalo. In Vake, during rush hour cycling likely is the fastest mode of transport. Cycling on pavements is tolerated, especially by children, as long as done with respect to pedestrians. Experienced cyclists recommend getting thoroughly familiar with traffic and routes before venturing out. (There have been some accidents and fatalities.) The local mobility rental [https://bike.qari.co/ Qari]{{Dead link|date=October 2023 |bot=InternetArchiveBot }} offers rental bikes, requires a local app and pre-payment. A community sourced Safe Cycling map shows some routes that cyclists consider [https://www.google.com/maps/d/u/0/edit?mid=1gj30WxsYBjUJtfV04YYukyTfVm_IxN37&ll=41.76238999897584%2C44.777179531132056&z=14 reasonably safe]. 
+
+===By scooter===
+A number of international scooter services operate, including [https://bolt.eu/en/cities/tbilisi/ Bolt], [https://qari.eco/ Qari]{{Dead link|date=September 2024 |bot=InternetArchiveBot }}, and [https://go.bird.co/ Bird] (financial issues as of Sept 2023).
+
+==See==
+[[File:Dolmeni. ethnografiuli.JPG|thumb|right|200px|Dolmens in the Ethnographical Open-Air Museum]]
+===Museums===
+* The '''[http://museum.ge/index.php?lang_id=ENG&sec_id=31 Georgian National Museum]''' is the umbrella organisation for a dozen museums and other sites in Tbilisi and elsewhere, with practical info in English. Usually they charge 7 lari for an adult, and are closed Mondays.
+* {{see
+| name=Open Air Museum of Ethnography | alt=ეროვნული მუზეუმი ღია ცის ქვეშ | url=http://museum.ge/index.php?lang_id=ENG&sec_id=46 | email=
+| address=Kus Tba 1 (1 Turtle Lake Road, Tortoise pond lane) კუსტბის გზა #1) | lat=41.702000 | long=44.743000 | directions=Bus 59 from Metro Rustaveli; Bus 9 from station square and a little walk up
+| phone=+995 32 2729045 | tollfree= | fax=+995 32 2982133
+| hours=Tu-Su 10:00-18:00 | price=Adults 25 lari, guided tour 60 lari
+| wikipedia=Tbilisi Open Air Museum of Ethnography | image=Houses at the Ethnographic museum.jpg | wikidata=Q2920430
+| lastedit=2018-10-16
+| content=Part of the Georgian National Museum. "Skansen"-type museum with 70 houses and other buildings characteristic of the various parts of Georgia, plus household gadgetry and craft tools. The houses are in variable states of repair, some are tumbledown but especially those near the entry gate are okay and with helpful docents. Allow a half day for a visit, a quiet escape from the city.
+}}
+* {{see
+| name=Museum of Fine Arts | alt=საქართველოს ხელოვნების მუზეუმი | url=http://www.finearts.ge/en | email=
+| address=1 Gudiashvili Street | lat=41.69512 | long=44.80209 | directions=Metro: Liberty Sq.
+| phone=+995 32 999909 | tollfree= | fax=+995 32 2982133
+| hours=Tu–Su 10:00–18:00 | price=Adults 3 lari, students 1 lari
+| wikidata=Q60550826
+| lastedit=2018-10-16
+| content=Part of the Georgian National Museum. Large permanent collection from antiquity to present.
+}}
+* {{see
+| name=Tbilisi History Museum | alt=Former Caravanserai / თბილისის ისტორიის მუზეუმი | url=http://museum.ge/index.php?lang_id=ENG&sec_id=47| email=info@museum.ge | address=#8 Sioni St | lat=41.69086 | long=44.80770| directions=| phone=+995 32 2982281 | fax=+995 32 2982133 | hours=Tu–Su 10:00–18:00 | price=Adults 3 lari, students 1 lari | lastedit=2018-10-16 | wikidata=Q16370686 | content=Part of the Georgian National Museum.
+}}
+* {{see
+| name=Museum of Georgia | alt=საქართველოს ისტორიის ჯანაშიას სახ. მუზეუმი, Simon Janashia Museum | url=http://museum.ge | email=info@museum.ge
+| address=3 Shota Rustaveli avenue | lat=41.69605 | long=44.80026 | directions=Metro: Freedom Square 200 m
+| phone=+995 32 299 8022 | tollfree= | fax=+995 32 298 2133
+| hours=Tu–Su 10:00–18:00 | price=Adults 7 lari, students 1 lari, guided tour in English 45 lari | lastedit=2018-10-16
+| wikipedia=Simon Janashia Museum of Georgia | image=Rustaveli museum.jpg | wikidata=Q2899707
+| content=Part of the Georgian National Museum, the '''Museum of Georgia''' houses Caucasian artefacts of archaeology and ethnography. A permanent exposition follows developments from the Bronze Age to the early 20th century. Gold was mined and worked here from a very early date - it was probably the origin of the "Golden Fleece" legend - so the area developed its own style, which influenced Achaemenid and Hellenistic jewellery. The most valuable exhibits include ''Homo ergaster'' fossils discovered at Dmanisi; the Akhalgori hoard of the 5th century BC; a collection of 80,000 coins chiefly of Georgian minting; medieval icons and goldsmith pieces collected from various sites in Georgia; and a lapidary with a rich collection of Urartian inscriptions. <br />Nominally a separate '''Museum of Soviet Occupation''', but simply the 4th floor of the same building, depicts Georgia's treatment at the hands of its neighbour, from 19th-century tsarist expansion through Soviet times to the conflict over Abkhazia and South Ossetia.
+}}
+* {{see
+| name=Puppet Museum | alt=Doll Museum | url= | email=
+| address=17 Shavteli N St | lat=41.69624 | long=44.80698 | directions=Metro Freedom Square
+| phone=+995 32 995337 | tollfree= | fax=
+| hours=Apr-Oct: Tu–Su 11:00–18:00, Nov-Mar: Tu–Su 11:00–17:00 | price=Adults 3 lari; children 1 lari
+| lastedit=2018-10-16
+| content=Several visitors in summer 2018 found it closed.
+}}
+* {{see
+| name=Galaktion Tabidze Museum | alt= | url= | email=
+| address=Marjanishvili N 4 | lat=41.70862 | long=44.79418 | directions=Metro Marjanishvili
+| phone= | tollfree= | fax=
+| hours=Tu–Su 11:00–18:00 | price=
+| lastedit=2018-10-16
+| content=The museum of the eminent Georgian poet, Galaktion Tabidze (1892-1959).
+}}
+* {{see
+| name=Tbilisi Art Gallery | alt=National Gallery; ეროვნული გალერეა | url=http://museum.ge/index.php?m=2 | email=info@museum.ge
+| address=11 Shota Rustaveli Av | lat=41.6982 | long=44.7988 | directions=Metro: Freedom Square
+| phone=+995 32 2157300 | tollfree= | fax=+995 32 298 2133
+| hours=Tu–Su 10:00–18:00 | price=Adult 7 lari
+| wikidata=Q65963209
+| lastedit=2018-10-16
+| content=Part of the Georgian National Museum. Extensive permanent collection, plus rotating exhibitions usually featuring Georgian artists.
+}}
+* {{see
+| name=State Academy of Arts | alt=სამხატვრო აკადემია | url= | email=
+| address=3 Gudiashvili Street | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=2018-10-16
+| content=It's a working university, not a public gallery, but you may be able to peek in at the historic buildings.
+}}
+* {{see
+| name=Jewish History Museum | alt=ებრაელთა ისტორიის მუზეუმი David Baazov Museum | url= | email=
+| address=3 St. Anton Catholicos | lat= | long= | directions=
+| phone= | tollfree=
+| hours=Su-F 11:00-17:00 | price=
+| wikidata=Q5231015
+| lastedit=2018-10-16
+| content=Depicts the Jews in Georgia from earliest historic times to the present day. Rabbi David Baazov (1883-1947) was sent to Siberia during Stalin's purges, and his son was shot, but he survived to return to Tbilisi. The museum collection became a diaspora (notably to Rochester, Minnesota) but has been repatriated.
+}}
+* {{see
+| name=U. Japaridze House-Museum | alt= | url= | email=
+| address=Shio Mghvimeli St, #2 | lat=41.70997 | long=44.78182 | directions=North — Bus 6, 9, 14, 21, 31, 34, 37, 42, 46, 51, 59, 61, 66, 78, 87 to 'Janashia Street', off Iakob Nikoladze St
+| phone= | tollfree= | fax=
+| hours=Tu-Su 11:00-18:00 | price=Adult 3 lari
+| lastedit=2018-10-16
+| content=Part of Georgian National Museum. Home of distinguished painter Ucha Japaridze (1906-1988).
+}}
+* {{see
+| name=E. Akhvlediani House-Museum | alt= | url= | email=
+| address=12 Leo Kiacheli St. | lat=41.70578 | long=44.79052 | directions=Metro Rustaveli 200 m
+| phone= | tollfree= | fax=
+| hours=Tu-Su 10:00-18:00 | price=Adult 3 lari, student 1 lari
+| lastedit=2018-10-16
+| content=Part of the Georgian National Museum. Showcases the work of painter Elene Akhvlediani (1898-1975).
+}}
+* {{see
+| name=Open air carriage exhibition | alt= | url= | email=
+| address=Zviad Gamsakhurdia Named Right Bank | lat= | long= | directions=in front of the Public House, shaped as a mushroom, in the middle treed strip in the busy road
+| phone= | tollfree= | fax=
+| hours= | price=Free
+| lastedit=2017-11-26
+| content=In a strip of garden in the middle of a busy road, there are several carriages and wine making tools in exhibit.
+}}
+* {{see
+| name=Writer's House of Georgia | alt= | url=https://writershouse.ge/index.php?m=2&lng=eng | email=
+| address=Ivane Machabeli street 13 | lat=41.6901 | long=44.7998 | directions=easy to find in Sololaki, six minutes from Freedom Square
+| phone=+995 32 297 41 01 | tollfree=
+| hours=11 AM to 6 PM -- you may have to ring the door bell | price=5 GEL
+| wikipedia=Writer%27s_House_of_Georgia
+| lastedit=2023-09-18
+| content=Beautiful mansion and a focal point of Georgian literature. The house was built by David Sarajishvili, an entrepreneur, between 1903-1905, by a German architect, Karl Zaar, and combines art nouveau with neobaroque style elements. The terrace mosaic is made from tiles by Villeroy and Boch. The Writer's House was a location in which major figures of Georgian literature, such as the Blue Horns group, met in the early 1920s. Paolo Iashvili committed suicide at the Writer's House on July 22, 1937. The Writer's House of Georgia has a museum dedicated to Sarajishvili and a Museum of Repressed Writers exhibit featuring the story of how writers were persecuted. In the summer months, a cafe/restaurant operates in the garden.
+}}
+
+===Religious architecture===
+* {{see
+| name=Mamadaviti | alt=მამადავითის ეკლესია | url= | email=
+| address=Mtatsminda Pantheon | lat=41.69601 | long=44.78903 | directions=on Mtatsminda hill
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q12866896
+| content=Constructed in 1859–1871, domed in 1879.
+}}
+* {{see
+| name=Sioni Church | alt=სიონის ეკლესია | url= | email=
+| address=Sioni street (სიონის ქ.) #6 | lat=41.691389 | long=44.8075 | directions=upper Kala, from Metro Freedom Square 0.8 km south-east or from Metro Avlabari 0.7 km west
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Tbilisi Sioni Cathedral | image=Tbilisi Sioni Cathedral in Georgia, Spring 2011.jpg | wikidata=Q248050
+| content=
+}}
+* {{see
+| name=Sameba Cathedral | alt=Holy Trinity Cathedral of Tbilisi, Georgian: თბილისის წმინდა სამების საკათედრო ტაძარი Thbilisis cminda samebis sakathedro tadzari | url= | email=
+| address=Samreklo Street | lat=41.6975 | long=44.816667 | directions=on Elia Hill. 1 km north from Avlabari metro station
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Holy Trinity Cathedral of Tbilisi | image=| wikidata=Q36996
+| content=Constructed between 1995 and 2004, it is the third-tallest Eastern Orthodox cathedral in the world. Sameba is a synthesis of traditional styles dominating the Georgian church architecture at various stages in history and has some Byzantine undertones. The Sameba Cathedral was erected on the Elia Hill, which rises above the left bank of the Kura River (Mtkvari) in the historic neighborhood of Avlabari in Old Tbilisi on the grounds of what was once a park, and before that the largest Armenian cemetery in Tbilisi, a tiny portion of that cemetery now forms the Armenian Pantheon. Designed in a traditional Georgian style but with an exaggerated vertical emphasis, and regarded as an eyesore by many and venerated by as many others, the Sameba Cathedral has a cruciform plan with a dome over a crossing which rests on eight columns. At the same time, the parameters of the dome are independent from the apses, imparting a more monumental look to the dome and the church in general. The dome is surmounted by a 7.5-m-tall cross covered with gold. The cathedral consists of nine chapels (chapels of the Archangels, John the Baptist, Saint Nino, Saint George, Saint Nicholas, the Twelve Apostles, and All Saints); five of them are situated in a large, underground compartment. The overall area of the cathedral, including its large narthex, is 0.5 ha and the volume it occupies is 137 m³. The interior of the church measures 56 m × 44 m, with an interior area of 2,380 m². The height of the cathedral from the ground to the top of the cross is 105.5 m. The underground chapel occupies 35,550 m³. The height is 13 m. Natural materials are used for construction. The floor is made of marble tiles and the altar will also be decorated with mosaic. The painting of the murals is being executed by a group of artists guided by Amiran Goglidze. The Sameba complex consists of the main cathedral church, a free-standing bell-tower, the residence of the Patriarch, a monastery, a clerical seminary and theological academy, several workshops, places for rest, etc.
+}}
+* {{see
+| name=Metekhi Church ("Church of Assumption") | alt=მეტეხის | url= | email=
+| address=Metekhis Rise (მეტეხის აღმართი) | lat=41.69013 | long=44.81129 | directions=Metro Avlabari
+| phone= | tollfree= | fax=
+| hours= | price=
+| image=2014 Tbilisi, Cerkiew Metechi (05).jpg | wikidata=Q20577625
+| content=Goes back to the reign of St. Demeritus&nbsp;II. late 13th century. Rebuilt 17th century. Unusual in design.
+}}
+* {{see
+| name=Ascension Catholic Church of the Virgin Mary? | alt=Tbilisi Virgin Mary Church, მარიამ ღვთისმშობლის ამაღლების კათოლიკური ეკლესია | url= | email=
+| address=Gia Abesadze St (აბესაძის ქ.) #6 | lat=41.69269 | long=44.80349 | directions=Metro Metro Station Freedom Square
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q12864969
+| content=The church was built, which starts from the 13th century. The church is an example of eclectic architecture and has been built with pseudo-gothic and Baroco elements. The interior is decorated with thematic vitrages. Height: 23 m.
+}}
+* {{see
+| name=Anchiskhati ("Basilica of St. Mary") | alt=Georgian: ანჩისხატი | url= | email=
+| address=Ioane Shavteli St, 18 | lat=41.695434 | long=44.806848 | directions=Metro Freedom Square
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Anchiskhati Basilica | image=Anchiskhati Church, Tbilisi.JPG | wikidata=Q609419
+| content=Constructed began at the time of king Dachi Ujarmeli in the 6th century. This is the oldest church in town. Anchiskhati Basilica is a three-span basilica, divided by two abutments forming horseshoe shaped conches, which indicates the antiquity of its construction. Originally constructed of blocks of yellow tuff stone, the 1958–1964 restoration made extensive use of brick. The structure has entrances on three sides, but today only the western entrance is in use. Aside from the altarpiece, which was painted in 1683 by order of Catholicos Nikoloz Amilakhvari, all of the remaining paintings in the church date from the 19th century.
+}}
+* {{see| image=
+| name=Narikala Church| alt=ნარიყალა | url= | email=| address=Orbiri St | lat=41.68783 | long=44.80920 | directions=Narikala Castle| phone= | fax=| hours= | price=| content=
+}}
+* {{see
+| name=Kashveti Church of St. George | alt=Qashveti, Georgian: ქაშვეთის წმინდა გიორგის სახელობის ტაძარი | url= | email=
+| address=Shota Rustaveli Avenue (შოთა რუსთაველის გამზ) #9 | lat=41.697954 | long=44.799324 | directions=Metro Freedom Square
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Kashveti Church | image=Kashveti1.jpg | wikidata=Q1734896
+| content=A copy of 11th-century Samtavisi church. The Kashveti church was constructed between 1904 and 1910 by the architect L. Bilfeldt, who based his design on the medieval Samtavisi Cathedral. The construction was sponsored by the Georgian nobility and bourgeoisie. Kashveti was built on the site of a damaged church built of brick at the request of the Amilakhvari family in 1753. Significant contributions to the current church’s ornate design were made by N. Agladze. Kashveti’s frescoes were painted by the influential Georgian painter, Lado Gudiashvili, in 1947. The name "Kashveti" is derived from Georgian words kva for a "stone" and shva "to give birth." Legend has it the prominent 6th-century monk David of Gareja of the Thirteen Assyrian Fathers was accused by a woman of making her a pregnant in Tbilisi. David prophesied his denial would be proved when she gave birth to a stone. She did, and the place received the name of "kashveti."
+}}
+* {{see
+| name=Synagogue | alt=სინაგოგა | url= | email=
+| address=K. Leselidze street, 4? or Abkhazians Street.(კ. აფხაზის ქ.) #41 | lat=41.68994 | long=44.80729 | directions=Metro Freedom Square
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q550451
+| content=Functioning synagogue constructed in 1910. Women and men are seated separately.
+}}
+* {{see
+| name=Jumah Mosque | alt=მეჩეთი | url= | email=
+| address=Botanikuri (Abanotubani, ბოტანიკურის ქ.) #32 | lat=41.6872 | long=44.81018 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q4453131
+| content=Turkish Sunni mosque, along the road from the Botanical Gardens to the Sulphur Baths. The usual dress code and entry restrictions for non-Muslims apply.
+}}
+* {{see
+| name=Holy Trinity Church | alt=Old Trinity Church, ძველი სამების ეკლესია | url= | email=
+| address=Erosi Manjgaladze Turn, Abashidze Street (აბაშიძის ქ.) # 4 | lat=41.69664 | long=44.80184 | directions=Metro: Freedom Square
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q65287420
+| content=
+}}
+* {{see| image=
+| name=Alex. Nevskiy Orthodox Church | alt= | url= | email=| address=Marjanishvili Street, ~53 | lat=41.71133 | long=44.80106 | directions=| phone=| hours= | price= | content=
+}}
+* {{see
+| name=Armenian Cathedral of S. Gevorg | alt=სურფგევორქი | url=http://armenianchurch.ge | email=contact@armenianchurch.ge
+| address=5 Samghebro St. | lat=41.689252 | long=44.808849 | directions=At Meydan Square
+| phone=+995 322754111 | tollfree= | fax=
+| hours= | price=free
+| content=Built in 1251 AD, and seat of the Armenian Archbishop of Georgia. Tomb of the famous Caucasian bard Sayat-Nova is in front of the church.
+}}
+* {{see
+| name=Norashen Armenian Church | alt=ნორაშენის ეკლესია | url= | email=
+| address=Afkhazi Street | lat=41.691008 | long=44.806479 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Norashen Church, Tbilisi | image=Norashen Holy Mother of God Armenian Church 0008.jpg | wikidata=Q2046924
+| content=Boarded up Armenian Church, used as a library in Soviet times. It was built in 1487, with a lot of new work in the mid-1600s.
+}}
+* {{see
+| name=Church of Fathers' Cross? |alt= ჯვრის მამის ეკლესია |url= |email=|address=Abkhazians Street.(კ. აფხაზის ქ.) # 42 |lat= |long= |directions=| phone=| hours= | price=| content=
+}}
+* {{see
+| name=Upper and Lower Bethlehem churches |alt=ზემო და ქვემო ბეთლემის ეკლესიები კლდისუბანი |url= |email=|address= |lat= |long= |directions=| phone=| hours= | price=| content=
+}}
+* {{see
+| name= George Church|alt=კლდისუბნის წმ. გიორგის ეკლესია|url= |email=|address=Bethlehem Street (ბეთლემის ქ.) #7 |lat= |long= |directions=| phone=| hours= | price=| content=
+}}
+* {{see
+| name=Michael Tvereli church|alt= მიხეილ ტვერელის ეკლესია |url= |email=|address= Zaldastanishvili Street (ს. ზალდასტანიშვილის ქ.) #38|lat= |long= |directions=| phone=| hours= | price=| content=
+}}
+* {{see
+| name=Echmiadzin Armenian Church | alt=წმინდა სერგოს ეკლესია | url=http://armenianchurch.ge | email=
+| address= | lat=41.692599 | long=44.81372 | directions=in front of Avlabar Metro Station
+| phone= | tollfree= | fax=
+| hours= | price=free
+| wikipedia=Ejmiatsin Church, Tbilisi | image=Ejmiatsin Armenian Cathedral, Avlabari, Old Tbilisi, Georgia.jpg | wikidata=Q2613137
+| content=Built in 1805, and later renovated.
+}}
+* {{see
+| name=Vank Armenian Monastery Belltower | alt=Vanki | url= | email=
+| address=3 Atoneli Street | lat=41.697373 | long=44.805700 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia=Vank Monastery, Tbilisi | image=Raffi Kojian-Tiflis belltower-IMG 0388.jpg
+| lastedit=2024-09-11
+| content=This beautiful, tall belltower, hidden behind modern buildings near Carrefour is all that remains of the 14th century Vank Armenian Monastery, which had the largest church in Tbilisi until 1938 when it was torn down by the government. Somehow the belltower survived and pops up above the residential buildings at 3 Atoneli Street.
+}}
+
+===Other sights===
+[[File:Chronicle of Georgia.jpg|thumb|Chronicle of Georgia]]
+
+* {{see
+| name=Chronicle of Georgia | alt=History of Georgia / Tbilisi's Stonehenge | url= | email=
+| address= | lat=41.770628 | long=44.810611 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q65043165
+| lastedit=2019-09-05
+| content=An impressive memorial with a great view across Tbilisi and its lake. Also, a mesmerising walk through some past architecture. It consists of several giant statues and 16 30- to 35-m-tall columns at the top and a portrait of the life of Christ at the bottom part. There is also a chapel and a St. Nino cross. It was designed by Zurab Tsereteli in 1985 but was never fully finished. A hidden gem that many who have been here recommend seeing.
+}}
+* {{see
+| name=Mother Georgia Monument| alt=Kartlis Deda / ქართლის დედა| url= | email=
+| address=Sololakis Alley (სოლოლაკის ხეივანი)| lat= | long= | directions=
+| phone= | fax=| hours= | price=| wikidata=Q1147179 | content=A 20-metre aluminium figure of a woman in Georgian national dress, ready to meet enemies or friends, she has a knife in one hand and a bowl of wine in the other. Erected on the Sololaki hill in 1958, Tbilisi's 1,500th birthday and designed by Elguja Amashukeli.
+}}
+* {{see | image=Mtatcminda.jpg
+| name=Mtatsminda Pantheon of Writers and Public Figures | url= | email=
+| address= | lat=41.69588 | long=44.78889 | directions=Mtatsminda Mountain, in the churchyard around St. David’s Church - Mamadaviti | phone= | hours= | price= | wikidata=Q1195746
+| content=Many famous writers, and the mother of Joseph Stalin, are buried here.
+}}
+* {{see
+| name=Old Tbilisi | alt= | url= | email=
+| address= | lat=41.692778 | long=44.806389 | directions=Area between Liberty Sq, slopes of the hill of Narikala Fortress and the river.
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q445572
+| content=Perhaps one of the most distinctive pleasures of walking through the Old City, with its old-style balconies, ancient churches, winding streets, and charming shops. Be prepared to see a number of eclectic sights, from the abandoned streetcar near Erekle Street to the art galleries of Chardini Street to the stunning modern art lining Sioni Street. Sub-neighborhoods include Sololaki, with its elegant restaurants and art nouveau architecture, Old Tbilisi proper — with sites ranging from churches to mosques to sulfur baths, Betlemi — housing two of the city's oldest churches and the stunning vistas of the Narikala Fortress — and Mtsasminda, just up the mountain from Rustaveli Avenues, a more sedate, "livable" district filled with charming old houses and a number of families. A large section has been refurbished turning parts into a sterile, tourist-trade and therefore purely overly consumption attuned quarter. Bars and restaurants largely overpriced. Even ''Segway'' rental is available — given the state of Tbilisi pavements, a ridiculous proposition.
+}}
+* {{see
+| name=Vake Park Area | alt= | url= | email=
+| address=around Chavchavadze and Abashidze avenues | lat=41.71009 | long=44.75045 | directions=from MetroDelisi to south 1.5 km
+| phone= | tollfree=
+| hours= | price=
+| image=Vake Park.jpg | wikidata=Q3649372
+| content=This is one of Tbilisi's posher districts, home to many immigrants and nouveaux riches. While not quite as atmospheric as Old Tbilisi, Vake is home to some lovely parks, pleasant nineteenth-century architecture, and some of the city's most high-end shopping, including luxury furniture store Missioni. There are also plenty of elegant, if understated, bars and restaurants in this area. In Vake there are two buildings of Ivane Javakhishvili Tbilisi state university. The university is founded by Ivane Javakhishvili in 1918 and is one of the historical buildings in Tbilisi.
+}}
+* {{see
+| name=Shota Rustaveli monument| alt= შოთა რუსთაველის ძეგლი | url= | email=| address=- Shota Rustaveli Square (შოთა რუსთაველის მოედანი) | lat=41.70388 | long=44.78987| directions=| hours= | price=| wikidata=Q21283731 | content=
+}}
+* {{see
+| name=Gudiashvili monument|alt=ლადო გუდიაშვილის ძეგლი |url=|address=- April 9 Garden (9 აპრილის ბაღი)|lat=41.6986 | long=44.8000|directions=Metro Liberty Square;| price=| content=}}
+* {{see
+| name=Ietim Gurji monument |alt= იეთიმ გურჯის ძეგლი |url= |email=|address=Right bank (მტკვრის მარჯვენა სანაპირო)|lat= |long= |directions=| phone=| hours= | price=|wikidata=Q55664040| content=
+}}
+
+===Buildings===
+* {{see
+| name=Georgian National Academy of Sciences | alt=მეცნიერების აკადემია | url=http://science.org.ge | email=
+| address=Shota Rustaveli Ave. (შოთა რუსთაველის გამზ), #48 / Rustaveli Square | lat=41.703056 | long=44.790833 | directions=Metro Rustaveli
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Georgian National Academy of Sciences | image=Academy of Sciences of Georgia, Tbilisi.JPG | wikidata=Q538954
+| content=
+}}
+* {{see
+| name=City Hall | alt=საკრებულოს შენობა | url= | email=
+| address=Freedom square (Tavisupleba square, თავისუფლების მოედანი), 2 | lat=41.725917 | long=44.775194 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| wikipedia=Tbilisi City Hall | image=Tbscityhall.jpg | wikidata=Q2920873
+| content=Before City Hall stay the Monument of St. George
+}}
+* {{see
+| name=National Bank of Georgia|alt= საქართველოს ეროვნული ბანკი| url= | email=| address= Leonidze Street.(ლეონიძის ქ.) № 3/5 | lat= | long= | directions=| phone= | hours= | price=| wikidata=Q2667495 | content=
+}}
+* {{see
+| name=Georgian National Youth Palace | alt=Children's Palace / მოსწავლე ახალგაზრდობის სასახლე| url= | email=|address=Shota Rustaveli Ave. #6 | lat= | long= | directions=| phone= | hours= | price= | wikidata=Q16374230 | content=
+}}
+* {{see
+|name=Parliament|alt=პარლამენტი|url= | email=| address=Shota Rustaveli Ave.(შოთა რუსთაველის გამზ) #8 |lat= |long= |directions=|phone=|hours= | price=|wikidata=Q42650745|content=
+}}
+* {{see | image=Au loin, le palais présidentiel. (7738767010).jpg
+| name=Presidential Palace | alt=Ceremonial Palace of Georgia | url=http://president.gov.ge/ge/ | email=
+| address= M. Abdushevelli 1| lat=41.69550 | long=44.81126 | directions=Metro Avlabari| phone= | tollfree= | fax=| hours= | price=| wikidata=Q3653173 |content= Inaugurated in summer 2009, an architectural monstrosity above the river, designed by Italian architect Michele De Luki. Guided tours [http://president.gov.ge/en/ may be booked] seven work days in advance.
+}}
+* {{see
+| name=House of Melik-Azaryants | alt=მელიქ კაზარიანცის სახლი | url= | email=
+| address=- Shota Rustaveli Ave.(შოთა რუსთაველის გამზ.) #37 | lat=41.7034 | long=44.7912 | directions=Metro: Rustaveli
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q65285568
+| content=
+}}
+* {{see
+| name=House of the Officers| alt=ოფიცერთა სახლი| url= |email=| address=- Shota Rustaveli Ave. #16 | lat=41.6992 | long=44.7968 |directions=Metro: Liberty Square | phone=| hours=| price=| wikidata=Q16373887| content= }}
+* {{see
+| name=Theatre and Film University| alt=Shota Rustaveli Theatre and Film University / თეატრისა და კინოს სახელმწიფო უნივერსიტეტი | url= | email=| address=- Shota Rustaveli Ave. #19 | lat=41.70002 | long=44.79703| directions=Metro Liberty Square | phone=| hours= | price=| wikidata=Q4453142 |content=
+}}
+* {{see
+| name=Library of the Parliament| alt=National Parliamentary Library of Georgia / საქართველოს პარლამენტის ბიბლიოთეკა |url= |email=|address=Lado Gudiashvili Street. (ლ. გუდიაშვილის ქ.) #3 |lat=41.6959 | long=44.8015| directions=Metro Liberty Square | phone=| hours= | price=| wikidata=Q631526|content= }}
+* {{see
+| name=Caucasian House | alt=Georgian Ethno-House / კავკასიის სახლი | url= | email=
+| address=Galaktion Tabidze Street.(გალაკტიონის ქ.) #20 | lat=41.6905 | long=44.8015 | directions=Metro Liberty Square 400 m
+| phone=+995 595548608 | tollfree=
+| hours= | price=
+| wikidata=Q61137945
+| content=Also an accommodation.
+}}
+* {{see
+| name=Government Chancellery|alt=საქართველოს მთავრობის კანცელარია |url= |email= |address=P. Ingorokva Street.(პ. ინგოროყვას ქ.) #7 |lat=41.6959 | long=44.7958|directions=Metro: Liberty Square | phone=| hours= | price=| content=
+}}
+* {{see
+| name=House of Writers |alt= მწერალთა კავშირი|url= |email=|address=I l According Street (ი. მაჩაბლის ქ.) #11 |lat= |long= |directions=| phone=| hours= | price=| content=
+}}
+
+'''Nearby (50-150&nbsp;km) popular sights''' that allow for a day trip from Tbilisi are [[Mtskheta]], [[Gori|Uplistsikhe]], [[Udabno|David Gareja Monastery Complex]], [[Kartli#See|Dmanisi archaeological site]], [[Sighnaghi]] and [[Rustavi]] with its Sioni Church and the Auto Trade Center, the biggest market for used cars in the Caucasus.
+
+==Do==
+[[File:081 Tbilissi de nuit Forteresse de Narikala.JPG|right|thumb|Narikala fortress at night]]
+* {{do
+| name=Sulphur Baths | alt=Abanotubani | url= | email=
+| address=Bath Street (აბანოს ქუჩა) | lat=41.68790 | long=44.81120 | directions=from Metro Avlabari 1 km SW, south side of the Metekhi bridge
+| phone= | tollfree= | fax=
+| hours= | price=Private pool: 50–200 lari/hr; massage/scrub 5–20 lari
+| content=The main bath district is easy to spot with its small domes on ground level. There are several small baths offering different levels of comfort. The baths are relatively small, and you may have to wait for a pool to become available. English service is not guaranteed. Massages are available; however, they are more like a washing, but well worth it for the experience. You should bring your own towel and beach sandals but also they are available for a small fee, but pricey compared to the 3 lari if you use the public bath. Some travellers have suggested the Royal Baths is a much better alternative to Sulphur Baths (they are next to each other). Sulphur baths tend to double the price at the end of the massage and bath in spite of your original agreed price.
+}}
+:* {{do
+| name=Bath No. 5 | alt=Public bath | url= | email=
+| address=4 Mirza Fatali Akhudovi | lat=41.688769 | long=44.811347 | directions=
+| phone= | tollfree=
+| hours= | price=10 lari men, 6 lari women
+| lastedit=2025-10-08
+| content=This is the only '''public bath''' in this area right at the beginning, follow the neon light. It is definitely worth the experience, so do not miss it. The men's section has a central shower area, a hot pool and a sauna. The women's public section only provides showers and massage, and are probably not worth it. Massage is 10 lari extra. Bring slippers and towel or rent them there for extra cost.
+}}
+* {{do | image=KusTba 008.jpg
+| name=Turtle Lake (Kus T'ba) | url= | email=
+| address= | lat=41.70023 | long=44.75437| directions=take a taxi or walk up from Saburtalo | phone= | tollfree= | fax=| hours= | price=
+| content=This lake is in the hilly outskirts of Tbilisi. A popular weekend getaway for families, the lake offers pedal-boat rentals as well as swimming (deckchairs optional) for reasonable prices (swimming entry, without deckchair, is about 3 lari). Alright for a hot summer day, and offering views of the mountains and of the city below. Snackbars, restaurants and fruit cocktail shakers are available overlooking the lake. It's about an hour's pleasant walk from the Saburtalo district along country roads, passing the Ethnographical Museum, or a 10-15 minute (5–10 lari) cab ride from the center. There is also a funicular (cable car), going up from the corner of Vale Park at 74 Ilia Chavchavadze Avenue (running daily 08:00–20:00). While the lake itself isn't particularly nice, the views from the hike up to the lake makes it a worthwhile excursion.
+}}
+* {{do | image=Tbilisi sea.jpg
+| name=Lake Lisi (Lisis T'ba) | url= | email=
+| address=Reservoir Road | lat=41.68570 | long=44.73912 | directions=5.1 km SW-W
+| phone=| hours= | price=
+| content= Much further out than Turtle Lake (a cab will set you back about 10–15 lari each way), Lake Lisi is much larger and more remote, with long, winding mountain walks surrounding the lake. Unlike Turtle Lake, the entire Lake Lisi is opened up for swimmers. Be warned — there aren't always taxis waiting to take you back.
+}}
+*{{do
+| name=Climb up to the Narikala Fortress | alt= | url= | email=
+| address= | lat=41.68782 | long=44.80878 | directions=Metro Avalabari
+| phone= | tollfree=
+| hours= | price=
+| content=The crumbling ruins of this once-great fortress, standing alongside the Upper Betelmi Churches and the stunning Botanical gardens, offer panoramic views of the city below. It's quite a steep climb, though you could take the cable car instead. Also while the lack of bureaucracy and guard-rails can be liberating for some, you may want to watch your step. Temporarily closed as of May 2024.
+}}
+* {{do
+| name=Botanical garden | alt= | url=http://nbgg.ge | email=info@nbgg.ge
+| address=Botanikuri str. N1 | lat=41.68567 | long=44.80332 | directions=access via Botanikuri St., or from above through the fortress. Nearest Metro Avalabari. There is another entrance a little south (coming from the Transfiguration monastery), as well as from the top at Mother of Georgia's&mdash;pay on your way out.
+| phone=+995 322724306 | tollfree=
+| hours=09:00-18:30 | price=4 lari (adults)
+| content=National botanic garden of Georgia, founded in 1845. Lying in the Tsavkisis-Tskali Gorge near Narikala Fortress. The garden is big and inconsistently maintained. Some nice parts are the Waterfall and the path along the creek upstream in the Mediterranean collection. Also the Parterre in a Central Park is a hidden gem. A fun zipline for over 150 cm tall and under 110 kg sliders is available for 40 lari.
+}}
+
+[[File:Funicular of Tbilisi Jan 2013 06.jpg|right|thumb|The Funicular reopened in December 2012]]
+* {{do
+| name=Mtatsminda park | alt=Tbilisi Tower | url=http://www.park.ge | email=
+| address= | lat=41.6958 | long=44.78632 | directions=high on the hill; Bus 124 or the funicular railway up from Metro Rustaveli
+| phone= | tollfree=
+| hours=Bus until 23:00 | price=
+| content=to have fun with your kids, see the views of Tbilisi or to take a ride on the Ferris wheel. You need to buy an access card at a cashiers desk for 2 lari. Funicular ride is also 10 lari one way and you use the access card for that.
+}}
+* {{do | image=
+| name=Alexander's Garden | alt=ალექსანდროვის ბაღი | url= | email=
+| address=Dry Bridge Area (მშრალი ხიდი) | lat=41.69927 | long=44.80144| directions=Metro: Freedom Square
+| phone= | hours= | price=
+| content=A part of Park April.
+}}
+* '''Football:''' the men's national soccer team usually play at Boris Paichadze Dinamo Arena (capacity 54,000), 500 m northwest of the railway station.
+: [https://fcdinamo.ge/ FC Dinamo Tbilisi] play at Dinamo Arena in Erovnuli Liga, Georgia's top tier, which has a spring / autumn split playing season. 
+: [https://www.fcsaburtalo.ge/ FC Iberia 1999]{{Dead link|date=April 2025 |bot=InternetArchiveBot }} (formerly Saburtelo) also play in Erovnuli Liga, at Mikheil Meskhi Stadium (capacity 27,000) 5 km west of city centre. 
+: FC Gagra was based in Gagra, Abkhazia, but since the Russian occupation has played at David Petriashvili Arena, 10 km north of the centre. 
+* {{do
+| name=Vake Swimming Pool | alt= | url= | email=| address=Chavchavadze Avenue (ჭავჭავაძის გამზირი) | lat=41.71211 | long=44.74450| directions= | phone= | hours= | price= | content=
+}}
+* {{do
+| name=Paragliding around Tbilisi | alt= | url=https://flyzone.ge/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| lastedit=
+| content=Find yourself (and your pilot) hanging in the sky with the clouds staring at the gorgeous sprawling Georgian Caucasus mountains below you.
+}} 
+ 
+===Theatres===
+* {{do
+| name=Alexander Griboedov Russian State Drama Theatre | alt= | url= | email=
+| address=Rustaveli Av. 2 | lat=41.6943 | long=44.7996 | directions=M1 Liberty Square 200 m| phone=+995 32 293 58 11 | fax=| hours= | price=| content=
+}}
+* {{do
+| name=Gabriadze Theatre | alt= | url= | email=| address=Shavteli 13 | lat=41.69584 | long=44.80656| directions=M1 'Liberty Square' 500 m| phone=+995 32 2986590 | hours= | price=| content= }}
+* {{do
+| name=Tbilisi Opera and Ballet State Theatre | alt=თბილისის ოპერისა და ბალეტის თეატრი | url=http://opera.ge/Home.aspx?lang=en-US | email=
+| address=Rustaveli Avenue (შოთა რუსთაველის გამზ.), 25 | lat=41.70107 | long=44.79636 | directions=
+| phone= | tollfree=
+| hours= | price=
+| content=Beautiful opera house in neo-moorish building. Opera founded in 1851. Tickets (for some shows?) can be bought online at [https://tkt.ge/opera?culture=en] {{dead link|December 2020}}.
+}}
+* {{do | image=
+| name=Rustaveli National Theater | alt=Shota Rustaveli Theater, შოთა რუსთაველის თეატრი|url= |email=|address=Rustaveli Avenue (შოთა რუსთაველის გამზ.), 17 |lat=41.69961 |long=44.79783| directions=|phone= |hours= |price= |content=
+}}
+* {{do
+| name=Cinema Rustaveli| alt=კინოთეატრი რუსთაველი |url= |email=|address=Shota Rustaveli Ave.(შოთა რუსთაველის გამზ) #5 |lat=41.69677 | long=44.79973|directions=M1 Liberty Square 200 m|phone=| hours= | price=| content=
+}}
+* {{do
+| name= Tbilisi State Conservatory|alt=თბილისის სახელმწიფო კონსერვატორია |url= | email=| address= Al.Griboyedov Street. (ალ. გრიბოედოვის ქ.) #8-10 |lat=41.69938| long=44.79530|directions=M1 Liberty Square 500 m|phone=|hours=|price=| content= }}
+
+===Events===
+* {{do
+| name=Tbilisi Marathon | alt= | url=http://www.tbilisimarathon.ge | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=Participation fee 10 lari/10 km and 15 lari/Half marathon
+| lastedit=2018-10-15
+| content=Held annually in October, with full & half-marathon, 10 km race and kids' runs. The start and finish is at Rustaveli Avenue. The last event was 27 September 2020 as a virtual marathon, the last traditional event was 29 September 2019. In 2022, it will be held on 25 September.
+}}
+
+==Buy==
+===Money===
+Money exchange kiosks generally have a spread of less than 1% between "buy" and "sell" rates for major currencies&mdash;excellent value by western standards.
+
+===Shopping===
+Shops and restaurants around '''Kote Afkhazi Street''' (i.e. Old Tbilisi) are overpriced tourist-trippy-rippy places, double or more of what you pay elsewhere.
+
+====What====
+* '''Antiques & other miscellaneous gifts''' &ndash; in Georgia you will be able to find many antiques from Georgia, the Middle East, Mediterranean, Russia and Europe.
+* '''Gold, silver, precious stones, and other jewellery''' &ndash; Many foreigners visit Georgia to buy jewellery, because of its cheap cost and superior quality, there is a dizzying selection available upstairs in one of the malls N/W of station square metro.
+* '''Georgian wine''' &ndash; Georgia is the cradle of wine making, and with 521 original varieties of grape you will be sure to find excellent wines.
+* '''Brandy''' (locally called 'cognac') &ndash; made from Georgian wine.
+* '''Mineral waters''' &ndash; Borjomi, Sairme, Nabeghlavi mineral waters from Georgian resorts. Georgian sparkling waters all have a much more metallic taste (not unpleasant, more unexpected) than that of those in Western Europe.
+* '''Chacha''' &ndash; Grape vodka, a Georgian version of grappa. Available in supermarkets or homemade available in local markets for as little as 3 lari. Peach chacha is harder to find but goes down rather more smoothly than the more traditional 'grappa'-type stuff.
+* '''Churchkhela''' aka "Georgian snickers" &ndash; A traditional sweet made by dipping a string of nuts repeatedly into a grape sauce, a must-try.
+* Tea -- Georgia, especially Guria and Samegrelo, has a small tea production, and at least in luggage, tea makes an easier gift than wine. The Tea Museum (really a store) on Galaktion Tabidze street can explain more about what is on offer. Other stores in tourist areas also offer a small selection of organic teas.
+
+====Where====
+'''Markets''':
+* {{buy
+| name=The flea market | alt=Dry Bridge Market | url= | email=
+| address=Dzveli Tbilisi, ~3 Zviad Gamsakhurdia Named Right Bank | lat=41.70204 | long=44.80128 | directions=by the river on the "Dry Overpass" and surrounding areas; from Metro Station Freedom Square 0.6 km NW
+| phone= | tollfree= | fax=
+| hours=Every Saturday, but seems to be every day nowadays until sunset | price=
+| content=This is one of the best places to get jewellery, antiques, antique swords, musical instruments, and electronics. Haggling is encouraged, although if you speak little Georgian or Russian you may experience the odd juxtaposition of bargaining for antiques using the type-pad of your vendor's mobile phone. Very popular with tourists, so prices are inflated.
+}}
+* {{buy
+| name=Dezerter Bazaar | alt=Main vegetable/fruit market | url= | email=
+| address= | lat=41.72153|long=44.79401 | directions=between Station Square and Dinamo Arena
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2019-10-28
+| content=Sells everything, especially fruit, vegetable, cheese and churchkhela. Famous with tourists and locals likewise.
+}}
+* {{buy
+| name=Station Square Underground Market | alt= | url= | email=
+| address= | lat=41.721256|long=44.797686 | directions=underground right in front of the station
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2019-10-28
+| content=Sells mainly clothes, and has a lot of repair shops.
+}}
+* {{buy
+| name=Didube Market | alt= | url= | email=
+| address= | lat=41.749750|long=44.779168 | directions=around the Didube bus and metro station
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2019-10-28
+| content=Has a large selection of cheap second hand clothes and shoes.
+}}
+
+'''2nd hand''':
+
+Tbilisi is a great place to get cheap and good quality 2nd-hand cloths. Sure, there is lots of cheap stuff from China all over this city, but considering environment and durability, you are probably better off with the former.
+* {{buy
+| name=Station Square Bridge | alt= | url= | email=
+| address= | lat=41.72312 | long=44.79742 | directions=the bridge that starts from the stairs to the right of the ''Monte Carlo Casino''
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2019-10-31
+| content=Cloths and shoes can be found here. A pair of leather boots start at 40-50 lari.
+}}
+* {{buy
+| name=Samgori Metro Underpass | alt= | url= | email=
+| address= | lat=41.68568 | long=44.85573 | directions=take the eastern exit from the platform and walk north/left from there
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2019-10-31
+| content=The shops here specialise on used shoes.
+}}
+* {{buy
+| name=2nd hand outlet | alt= | url= | email=
+| address= | lat=41.69205 | long=44.82175 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2019-10-31
+| content=A huge store of about 200 m² with all sorts of used good, mostly shoes and cloths, but also sports and camping equipment, and even a scooter.
+}}
+* {{buy
+| name=Day Off! - Re-Use Store | alt= | url=https://www.facebook.com/dayoffreuse/ | email=
+| address=Vertskhlis St. 41 | lat=41.695512 | long=44.803494 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2019-10-31
+| content=Probably more posh than actual used, for the according extra lari.
+}}
+
+'''Various''':
+* {{buy
+| name=Caucasian Carpets Gallery | alt= | url=https://origincarpets.com/ | email=
+| address=8 Erekle II St| lat=41.69223 | long=44.80692 | directions=Metro Freedom Square| phone=+995 577 40 53 11 | fax=| hours=Tu-Su 16:00-21:00 | price=Entrance free| content=A marvel of assorted carpets.
+}}
+* {{buy
+| name=Pixel 34 | alt= | url= | email=
+| address=Ilia Chavchavadze ave., 34 | lat=41.70894 | long=44.77008 | directions=Bus 9, 21, 34, 51, 59, 61, 85, 88, 140 to Children's City Mziuri 50m
+| phone= | fax=| hours= | price=| content=Shopping Centre
+}}
+* {{buy
+| name=Kolkhoz Square Underground Market | alt=Grigol Orbeliani Square | url= | email=
+| address= | lat=41.6969 | long=44.80302 | directions=from Grigol Orbeliani/Kolkhoz Square/Park walk into the underground towards Liberty Square, you will find the shops right at the beginning
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2019-11-07
+| content=They sell home-made chacha and inexpensive churchkhela. Conveniently located near Liberty Square if you go back home from there (airport bus).
+}}
+
+==Eat==
+===Budget===
+Street side stalls selling Georgian fast food are all over the city. Some kind of hot snack will cost 0.70-2.50 lari.
+
+====City centre====
+* {{eat
+| name=Kiwi Vegan Cafe | alt= | url=https://www.facebook.com/kiwi.vegan.cafe | email=
+| address=6 Ivane Machabeli St | lat=41.691841 | long=44.800010 | directions=in Old Town between Pushkin and Leselidze
+| phone=+995 322990456 | tollfree= | fax=
+| hours= | price=4-7 lari (Dec 2017)
+ | lastedit=2022-08-01
+| content=Vegan cafe. Low prices, delicious, has tofu.
+}}
+* {{eat
+| name=Racha | alt= | url= | email=
+| address=4 Mikheil Lermontovi St | lat=41.6912634 | long=44.8023712 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2022-08-01
+| content=Great and authentic Georgian restaurant. It is not fancy, but it is real and the food is tasty. An interesting place in the basement for unpretentious tourists who want to eat inexpensively. The menu offers a selection of national dishes. You can feel the atmosphere of Georgia here.
+}}
+* {{eat
+| name= Veliaminov| alt= | url= | email=
+| address=8 Shalva Dadiani St | lat=41.6924153 | long=44.8022629 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2022-08-01
+| content=Restaurant with Georgian cuisine. It has the most delicious khinkali.
+}}
+* {{eat
+| name=Family kitchen | alt= | url= | email=
+| address=1 Giorgi Leonidze St | lat=41.6929568 | long= 44.8006197 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2022-08-01
+| content=Delicious dishes and comfortable atmosphere. There are options for those who don't eat meat. It works like in a canteen.
+}}
+* {{eat
+| name=Good Mood Food | alt= | url= | email=
+| address=1، Kote Afkhazi St | lat=41.6931691 | long= 44.8029351 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2022-08-01
+| content=Small eatery serving different kinds of Khachapuri.
+}}
+* {{eat
+| name=Tom Yum Thai Food | alt= | url= | email=
+| address=Lado Asatiani 48 | lat=41.689436 | long=44.798657 | directions=
+| phone= | tollfree=
+| hours= | price=
+| lastedit=2022-08-01
+| content=Excellent authentic Thai dishes, everything very tasty. The interior is rather simple.
+}}
+* {{eat
+| name=Shawarma | alt= | url= | email=
+| address= | lat=41.69019 | long=44.80795 | directions=West of Metekhi Bridge on Kote Afkhazi St, just past the Spar
+| phone= | tollfree= | fax=
+| hours= | price=10 lari for a "small" (quite big) shawarma
+| lastedit=2022-10-06
+| content=A delicious no-name shawarma joint nestled amongst the pricier tourist-oriented restaurants.
+}}
+* {{eat
+| name=Fire Wok Dadiani | alt= | url= | email=
+| address=20 Shalva Dadiani St | lat=41.69099 | long=44.80228 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=10–15 lari for a noodle box
+| lastedit=2022-10-06
+| content=Nurse that hangover with some greasy Asian noodles. No seating.
+}}
+* {{eat
+| name=Klike's Khinkali | alt= | url= | email=
+| address=1 Shio Chitadze St | lat=41.69537 | long=44.79592 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=1–2 lari per dumpling
+| lastedit=2022-10-06
+| content=An excellent underground khinkali spot, popular among locals.
+}}
+
+====Didube station====
+
+* {{eat
+| name=Joker Shaurma | alt= | url= | email=
+| address=Транспортная ул.4 | lat=41.7510202 | long=44.7788331 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2022-08-01
+| content=delicious shawarma and tasty kebab.
+}}
+
+===Mid-range===
+
+====Georgian cuisine====
+* {{eat
+| name=Dzveli Sakhli Restaurant (Old House)| url= | email=| address=3 Mtkvris Marjvena Sanapiro | lat=41.70222 | long=44.80068 | directions=on the Mtkvari River
+| phone=+995 322 36 53 65| fax= | hours=12:00-24:00 | price=
+ | lastedit=2022-08-01
+| content= Live traditional Georgian music and singing starts at around 18:00 every day, although it's also the perfect place for a quiet post-flea market weekend lunch. Stunning river-views and faux-rural atmosphere — enormous portions at relatively reasonable prices. Credit cards accepted.
+}}
+* {{eat
+| name=Cafe Gabriadze | url= | email=
+| address=Shavtelis Qucha | lat=41.69529 | long=44.80674| directions=Right off Baratashvili street, next to the puppet theatre| phone= | hours= | price=
+ | lastedit=2022-08-01
+| content= Formerly the trendy "Sans Souci," this artsy eatery (owned by master puppeteer Gabriadze) has reopened after a lengthy renovation period. With a quirkily bohemian decor and inventive takeoffs of classic Georgian dishes (just try their lobio!), the fare here is a cut above the standard khachapuri-and-khinkhali dinner options.
+}}
+* {{eat
+| name=Kala | url=http://www.kala.ge/ | email=
+| address=8/10 Erekle II St | lat=41.69198 | long=44.80691 | directions=
+| phone=+995 899 799737 | hours=10:00–02:00 | price=
+ | lastedit=2022-08-01
+| content=Hip cafe/restaurant with live Jazz most evenings. Wi–Fi; credit card payment accepted. Check the ratings.
+}}
+* {{eat
+| name=Khinkali House | alt=Khinklis Sakhli | url= | email=
+| address=37 Shota Rustaveli Ave | lat=41.70357 | long=44.79106 | directions=M Rustaveli 50m
+| phone=+995 893 756671 | tollfree= | fax=
+| hours=09:30-23:30 | price=
+ | lastedit=2022-08-01
+| content=All Khinkali, all the time. Does a wide range of other Georgian food too. The entrance isn't obvious, you have to enter an alleyway at No. 37 and then go down some steps into a courtyard.
+}}
+* {{eat
+| name=Cafe Flowers | url= | email=
+| address=Avlabari Ascent | lat=41.69433 | long=44.81500 | directions=in the pink house overlooking Europa Square - Metro Station Avlabari| phone= | tollfree= | fax=
+| hours= | price=30 lari
+ | lastedit=
+| content= Sporting stunning views, the terrace at Cafe Flowers (so named for the flora that adorn the terrace and adjacent garden) overlooks the Old Town from across the river. Food is generally good, although be wary of dairy-based dishes lest you come down with an upset stomach.
+}}
+* {{eat
+| name=Cafe Leila | alt= | url=https://www.facebook.com/Cafe-Leila-კაფე-ლეილა-1519161304994687/ | email=
+| address=Ioane Shavteli Str.18 | lat=41.69548 | long=44.80643 | directions=near the "Clock Tower"
+| phone=+995 593 28 10 85 | tollfree=
+| hours=Daily 12:00-02:00 | price=10-12 lari
+| lastedit=2026-06-15
+| content=Charming pescatarian cafe with vegan options. Serves vegan wine. Tables outside and good decor inside.
+}}
+* {{eat
+| name=Multifunctional Space - Theatre | alt= | url=https://teatri.ge/ | email=info@teatri.ge
+| address=99 Akaki Beliashvili St | lat= 41.776113 | long= 44.77946 | directions= Near Dighomi Park and Ethno Tsiskvili
+| phone=+995 577 00 08 88 | tollfree= | fax=
+| hours=Daily 20:00-02:00| price=
+ | lastedit=2023-08-18
+| content=The “Theatre” is a multifunctional space with a completely new concept, where you can simultaneously experience a classic cabaret, see an American musical, enjoy opera and ballet performances, attend a concert and listen to the works of modern artists. Tourists can also discover Georgian cultural attractions accompanied by gastronomy.
+}}
+* {{eat
+| name=Tsiskvili | alt= | url=https://tsiskvili.ge/ | email=info@tsiskvili.ge
+| address=99 Akaki Beliashvili St | lat= 41.776113 | long= 44.77946 
+| phone=+995 032 2 00 55 55 | tollfree= | fax=
+| hours=Daily 16:00-23:00| price=
+ | lastedit=2024-06-18
+| content="Ethno Tsiskvili" is not just a restaurant; it is a unique place with an extraordinary exterior and interior. It can be likened to a museum, with each aspect reflecting Georgian culture and history. What sets Ethno Tsiskvili apart is its natural waterfall on the premises, adding to the overall ambiance. Additionally, the restaurant offers a daily program that combines unique Georgian dance and folklore, further enhancing the cultural experience for guests.
+}}
+
+====Asian cuisine====
+* {{eat
+| name=Picasso Restaurant | alt= | url= | email=
+| address=6 Roman Miminoshvili St | lat=41.706432 | long=44.788504 | directions=Off Perovskaya St
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2022-08-01
+| content=Chinese cuisine
+}}
+* {{eat
+| name=New Asia Restaurant | url= | email=
+| address=11/5 Alexander Griboedov St | lat=41.70158 | long=44.79317| directions=up the hill from Metro Rustaveli at the corner of Lagidze and Griboedovi streets; opposite Tbilisi State Conservatoire | phone= | tollfree= | fax=| hours=
+| price=
+ | lastedit=2022-08-01
+| content=
+}}
+* {{eat
+| name=Shandiz Restaurant | url=https://shandiz.ge/ | email=
+| address=13 Ioane Shavteli St | lat=41.69599 | long=44.80637 | directions=Near to 'Anchiskhati Church' - | phone=+995 514 68 66 86 | hours=Club Th-Su from 20:00; karaoke bar daily from 19:00; restaurant daily from 11:00 | price=
+ | lastedit=2022-08-01
+| content=Sushi + night club + Middle Eastern atmosphere, 4 floors. Cocktail Bar, and BBQ.
+}}
+*{{eat
+| name=Baan Thai | alt= | url= | email=
+| address=4 Tabukashvili St | lat=41.70243 | long=44.79626 | directions=follow the road leading to the Radisson and continue past the Radisson as the road curves right; the restaurant is on the left side of the road, if you see the back side of the Opera house, you've gone too far
+| phone= | tollfree=
+| hours= | price=10-15 lari
+ | lastedit=
+| content=This is the most authentic Thai restaurant in the city, and a favorite of local immigrants. Operated by a friendly Thai woman, it has good food and quick service, but it's easy to miss because it's on an unremarkable street between the Opera house and Radisson hotel.
+}}
+
+====European and American====
+* {{eat
+| name=Cafe Canape | alt= | url= | email=
+| address=14 Irakli Abashidze Street | lat=41.707030 | long=44.771603 | directions=Vake
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2022-08-01
+| content=Reasonably priced, charming bistro with fusion French-Georgian cuisine and a neighborhood-y atmosphere. Definitely a brunch place for Vake's "smart set". The khachapuri is out-of-this-world.
+}}
+* {{eat
+| name=Obrigado Tasco | alt=ობრიგადო | url= | email=obrigadotbs@gmail.com
+| address=4b Akaki Tsereteli Ave | lat=41.72473 | long=44.78921 | directions=
+| phone=+995 593 18 39 60 | tollfree=
+| hours=W 19:00-23:00; Th-Sa 18:00-23:00; Su 17:00-23:00; M-Tu closed | price=
+| lastedit=2026-07-15
+| content=Cozy and authentic Portuguese restaurant focused on traditional petiscos, francesinha, bifana, and Portuguese wines, hosted by a welcoming Portuguese owner.}}
+* {{eat
+| name=Ronny's Pizza | alt= | url=http://www.ronnyspizza.com | email=ronnyspizza@gmail.com
+| address=3 Vaja Pshavelas | lat=41.727787 | long=44.766362 | directions=next to the archive building in Saburtalo
+| phone=+995 322 47 24 72 | tollfree= | fax=
+| hours=Su-Th 11:00–22:00, F Sa 11:00–23:00 | price=
+ | lastedit=2022-08-01
+| content=Lunch, dinner, delivery, take out and catering. Ronny's pizza comes in personal size, regular (12 inch) or extra large (18inch) Delivery charge based on kilometers all over Tbilisi. Classic American style pizza with mozzarella.
+}}
+
+====Italian cuisine====
+* {{eat
+| name=Fiorino | url= | email=
+| address=77 Kostava St. - Saakadze square | lat=41.7229451 | long=44.7775282 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2022-08-01
+| content=Fiorino offers best pizzas in Tbilisi, one of the best carpaccios and veal. Relaxing environment and outdoor seating.
+}}
+* {{eat
+| name=Prego | url= | email=
+| address=Three locations (Saburtalo, intersection of Vazha-Pshavela and Pekini St.; Vake, on Paliashvili, just below the round (UN) garden and the third in the old town, Erekle II st.) | lat= | long= | directions=| phone=| hours= 
+| price=
+ | lastedit=2022-08-01
+| content=Prices are said to be reasonable and service is usually good. Look out for the daily specials - usually a bit pricier, but worth it.
+}}
+* {{eat
+| name=Piano | url= | email=
+| address=Tabidze Street (right next to People's) | lat=41.6913362 | long=44.8012557 | directions=
+| phone=| hours= 
+| price=
+ | lastedit=2022-08-01
+| content=This new Italian eatery feels more like a swank New York restaurant than a Georgian-style trattoria, with black-and-white Botticelli-inspired wallpaper and uber-trendy minimalist light fixtures. The food is reasonably priced for the — admittedly expensive — area, but it's good (especially the super-fresh tomato-based sauces) and air-conditioned to boot. Beware of the bread; it's so delicious, you'll be full before your appetizers arrive.
+}}
+
+====Other====
+Some outlets of sterile international hamburger "restaurants" exist, also some "freed chicken" imitators in the city, offering the same kind of material Americans consider "food" at prices which are high by local standards.
+* {{eat
+| name=Prospero's Bookstore and Caliban's Coffehouse | alt= | url= | email=
+| address=34 Rustaveli Ave | lat= | long= | directions= in a courtyard by the entrance to the overpass near the opera, past the Sony store in the direction of the Rustaveli metro stop
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2022-08-01
+| content=With wireless internet, a bucolic courtyard, and spotless furnishings, this expat bookstore-cum-coffeehouse could be in London's Notting Hill. Good selection of English books, but the real gem is the atmosphere - a perfect escape for when Tbilisi's more chaotic pleasures start to become overwhelming. Effectively bilingual waitstaff, try to strike up conversations with other foreigners.
+}}
+
+===Splurge===
+
+* {{eat
+| name=Old City Wall | alt= | url= | email=
+| address=2 Shota Nishnianidze St | lat=41.6957725 | long= 44.8031875 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+ | lastedit=2022-08-01
+| content=
+}}
+* {{eat
+| name=Strada | alt= | url=https://www.stradacafe.ge/home | email=
+| address=5 Kote Marjanishvili St | lat=41.70824 | long=44.79467 | directions=
+| phone=+995 595 99 22 88 | tollfree= | fax=
+| hours= | price=25–60 lari mains
+| lastedit=2022-10-06
+| content=A mix of contemporary Asian and American cuisine.
+}}
+* {{eat
+| name=Rigi Gastrodouqan | alt= | url=https://rigidouqan.ge/?lang=en&page=douqan | email=
+| address=Saarbrucken Square 2/7 | lat=41.70231 | long=44.80493 | directions=
+| phone=+995 577 33 21 22 | tollfree= | fax=
+| hours= | price=25–70 lari mains
+| lastedit=2022-10-06
+| content=Georgian cuisine with a modern twist.
+}}
+* {{eat
+| name=Ninia's Garden | alt= | url= | email=
+| address=97 Dimitri Uznadze St | lat=41.71163 | long=44.79328 | directions=
+| phone=+995 322 19 66 69 | tollfree=
+| hours= | price=25–45 lari mains
+| lastedit=2022-10-06
+| content=Excellent Georgian cuisine nestled in a cozy garden.
+}}
+
+==Drink==
+One is never far from a corner store opening late selling the bare essentials of life late into the night, which always include booze and bread. Georgia is known as the cradle of wine having produced wine since the neolithic period; and locals are very proud of this. Georgian wine was and still is the best in post-Soviet culture and there are many wine tasting shops in the upmarket areas of the city where wine culture is greatly respected. Try one of the famous wines from Kakheti or the other popular regions.
+
+It is possible to have a great night you may or may not remember for only 10 or 15 lari if you follow students to the cheaper bars where tourists are welcome, but you might be shortchanged a few lari. Nightlife tends to congregate north and northwest of the city centre; do your best to avoid the overpriced drinks in the old town.
+
+Also of note (especially for non-drinkers) is the famous Georgian "Laghidze Waters", sweet drinks based on soda and natural fruit and herb syrups, listed as Intangible Cultural Heritage of Georgia. There is a Laghidze Waters restaurant in Tbilisi selling the genuine article, but Natakhtari is quite similar and sold in corner shops all over.
+
+===Bars===
+* {{drink
+| name=Fabrika courtyard | alt= | url= | email=
+| address=8 Egnate Ninoshvili St | lat=41.70909 | long=44.80293 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2022-10-06
+| content=A large courtyard filled with bars and cafes. Packed at night with locals and tourists alike.
+}}
+* {{drink
+| name=Wine Factory N1 | alt= | url= | email=
+| address=1 Vasil Petriashvili Street | lat=41.70828 | long=44.78037 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2022-10-06
+| content=Another courtyard with numerous bars and restaurants, a bit lower key than Fabrika
+}}
+* {{drink
+| name=Meoba Bar | alt= | url= | email=
+| address=4 Constitution St | lat=41.71684 | long=44.79748 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2022-10-06
+| content=A hip cocktail joint, popular with locals and not bad on the prices.
+}}
+* {{drink
+| name=Lolita | alt= | url= | email=
+| address=7 Tamar Chovelidze St | lat=41.70566 | long=44.78698 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2022-10-06
+| content=Popular restaurant by day, cracking bar by night.
+}}
+* {{drink
+| name=41 Gradus | alt=41° Art of Drinks | url=http://41gradus.com | email=
+| address=19 Galaktion Tabidze St | lat= | long= | directions=1.5 blocks south of Liberty Square
+| phone= | tollfree=
+| hours= | price=Cocktail 15 lari
+| wikipedia= | wikidata=
+| lastedit=2019-01-31
+| content=Small stylish cocktail bar serving their own creations. Slide the metal door to get downstairs.
+}}
+* {{drink
+| name=Alibi Room | alt= | url=https://m.facebook.com/alibiroomthe/ | email=
+| address=Akhvlediani, 20 | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours=Daily 18:00-03:00 | price=Chacha 1 lari, beer 2 lari
+| lastedit=2018-01
+| content=Cheap bar well known (or infamous) among locals, attracts a young crowd and gets packed on Fridays, when things can get a bit rough; so it's not for the faint hearted. '
+}}
+* {{drink
+| name=Dublin | url= | email=
+| address=8 Akhvlediani St | lat=41.705269 | long=44.790385 | directions=Metro Rustaveli
+| phone=+995 32 98 44 67 | tollfree= | fax=
+| hours=until 03:00 | price=30 lari
+| content=Irish pub with live music from 20:00-00:00. Try the meat wrapped in bacon.
+}}
+* {{drink
+| name=Over Bar | url= | email=
+| address=5 Vashlovani St | lat=41.706513824017 | long=44.789043057719 | directions=
+| phone=+995 514 00 98 86| hours= | price=
+| content=Cozy with lots of diverse drinks and bar snacks. }}
+* {{drink
+| name=Gallery Café | alt= | url= | email=
+| address= | lat=41.7025968 | long=44.7919159 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2020-07-14
+| content=A bar with DJs and live music for students and hip people. Retro and used look interior. Also cool to hang out during the day.
+}}
+* {{drink
+| name=Hangar Bar | alt= | url=http://www.thehangar.biz/ | email=
+| address=Irakli II Street (ერეკლე II ქუჩა) | lat=41.69536 | long=44.80647 | directions=Metro Station Freedom Square
+| phone=+995 551 61 15 88 | tollfree=
+| hours= | price=
+| content=Irish pub run by an American couple. Very popular among immigrants.
+}}
+* {{drink
+| name=Kazbegi Beer
+| address=68a Dimitri Uznadze street 0112 | lat=41.693630 | long=44.801620 | directions=on the river road, not D. Uznadze street; from D. Uznadze, turn left down O. Dgebuadze street; straight past some stalls of women selling fish behind chicken wire, then left on the main road
+| hours=Ostensibly 10:00-23:00 daily, but has been known to close early | price=2 lari per litre
+| lastedit=03/10/2019
+| content=Legendary. Large beer cafe frequented mostly by locals but also the famous "beer wall" where bottles will be filled with beer of your choosing from a hose.
+}}
+* {{drink
+| name=Mozaika | alt= | url= | email=
+| address= | lat=41.7061605 | long=44.7891555 | directions=
+| phone= | tollfree=
+| hours=M–Su 18:00–02:00 | price=
+| wikipedia= | wikidata=
+| lastedit=2020-07-14
+| content=Very nice bar with nice and hip people, and some vegetarian food. Pretty easy to get into conversation with locals here. The bar has two floors and a balcony for smokers, but it is often very packed. The beer prices are low to reasonable.
+}}
+* {{drink
+| name=Old London | url= | email=
+| address=6 Akhvlediani St | lat=41.705146 | long=44.790456 | directions=
+| phone=+995 57279194, +995 593259116 | hours= | price=
+| content=Live music every evening.
+}}
+* {{drink
+| name=Sakhelosno | alt= | url=https://m.facebook.com/SakhelosnoBAR/ | email=
+| address=28 Kote Afkhazi St | lat= | long= | directions=behind the opera, 2 blocks to the NW
+| phone=+995 592 18 66 48 | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2019-01-31
+| content=Crowded underground dive, alternative/student vibe, with cheap and tasty peach chacha, and (at least on weekends) excellent karaoke singing.
+}}
+* {{drink
+| name=Singer | alt=Konka Station | url= | email=
+| address= | lat=41.69077 | long=44.80769 | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Mulled wine 8 lari
+| content=Jazz bar and restaurant with great live music, mostly for elder and settled people. In summer you might just hang around on the square in front and enjoy the music with a beer from the local shop.
+}}
+* {{drink
+| name=Success bar | alt= | url=http://www.facebook.com/successbar2017 | email=
+| address= | lat=41.706030 | long=44.788574 | directions=
+| phone= | tollfree=
+| hours=23:00-05:00 | price=
+| image=SUCCESS Bar in Tbilisi 2023 06 52 29 875000.jpg | wikidata=Q122746076
+| lastedit=2023-09-21
+| content=Mostly a gay bar with affordable cocktails and club for diverse crowd with drag shows, karaoke and alike. Well worth a visit if you are bored with packed Mozaika. Nice latex sofas.
+}}
+* {{drink
+| name=Warszawa bar | alt="war-sha-wa" | url= | email=
+| address= | lat=41.69502 | long=44.80249 | directions=next to the Subway restaurant on Liberty Square
+| phone= | tollfree= | fax=
+| hours= | price=2-6 lari
+| lastedit=2017-12-25
+| content=Polish bar with a nice atmosphere, popular with young people. 2 lari beer, decent selection of other drinks.
+}}
+
+===Cafés===
+Tbilisi is the one city in Georgia where coffee vending machines 0.50-0.80 lari may be found, though with a huge load of sugar.
+
+Unless you would like to forget you are in Tbilisi and drink in fancy expensive places where only tourists and immigrants may be found, Chardini and its connecting streets should be avoided as the most blatant tourist trap in the country. The best pubs and cafes in Tbilisi are tucked in unlikely looking side streets of the Old City, often underground or sometimes without even a sign to mark their presence. Keep your eyes and ears open.
+
+* {{drink
+| name=Althaus Tea | alt= | url= | email=
+| address= | lat=41.70147 | long=44.7955 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2020-07-14
+| content=Nice and cosy café with interesting sublevel. Good during colder times.
+}}
+* {{drink
+| name=Laghidze Waters| alt= | url= | email=
+| address=53 Davit Aghmashenebeli Avenue | lat=| long=| directions=Just at the Marjanishvili end of the 'tourist' section of Aghmashenebeli Avenue where the fairy lights start
+| phone=| tollfree= | fax=
+| hours=12:00–00:00 daily (ostensibly) | price=
+| content=Small cafe selling the (reasonably) famous Laghidze Waters and a range of Georgian pastry snacks quite cheap (3–7 lari for a pastry). The other Laghidze Waters cafe near Sameba Cathedral seems to be closed as of 3/19 so this is the only one in Tbilisi.
+}}
+* {{drink
+| name=Minimalist  | alt= | url=http://minimalist.fotografia.ge/ | email=minimalist.tbilisi@gmail.com
+| address=21 Revaz Tabukashvili | lat=41.7004097 | long=44.7986395 | directions=
+| phone= | tollfree=
+| hours=Tu–Th 12:00–20:00, F–M 10:00–20:00 | price=
+| wikipedia= | wikidata=
+| lastedit=2020-07-14
+| content=Interesting tiny café with attached gallery that serves coffee in various different ways (cold brew, French press, filter, ePebo, Moccha, etc.). Though, the type of coffee they have is quite sour ... not an expert though.
+}}
+* {{drink
+| name=Unity Kava | alt= | url= | email=
+| address=20 Shalva Dadiani St | lat=41.69112 | long=44.80217 | directions=
+| phone=| tollfree= | fax=
+| hours=M-Su 9:00-21:00 | price=
+| lastedit=2022-10-06
+| content=Great coffee with minimal seating.
+}}
+* {{drink
+| name=Plant Lovers Tbilisi | alt= | url= | email=
+| address=4a Niaghvari St | lat=41.69548 | long=44.79433 | directions=
+| phone=| tollfree= | fax=
+| hours=M-Su 10:00-21:00 | price=
+| lastedit=2022-10-06
+| content=A gardening shop that also has incredible coffee and delicious homemade baked goods, for some reason.
+}}
+* {{drink
+| name=Museum Cafe | alt= | url=http://www.finearts.ge/en/space | email=
+| address= | lat=41.69741 | long=44.79942 | directions=At the northwest corner of the Museum of Fine Arts
+| phone=| tollfree= | fax=
+| hours= | price=
+| lastedit=2022-10-06
+| content=Good coffee and good food in a comfortable seating environment. A nice place to open the laptop and knock out some work. Hours are a bit unpredictable.
+}}
+
+===Clubs===
+Be wary about scams and tourist traps &ndash; see [[#Stay safe]] below. Some shady clubs/bars have specialised in forcing tourists to pay unjustified amounts of money for drinks and services, especially strip bars. If it's shiny and classy, be wary.
+
+* {{drink
+| name=Bassiani | alt= | url=https://bassiani.com/ | email=
+| address=2 Akaki Tsereteli Ave | lat=41.7227728 | long=44.7908222 | directions=under the dinamo arena
+| phone= | tollfree=
+| hours= | price=30 lari entry (if the bouncer lets you in)
+| content=A famous underground techno club, possibly one of the best in the whole region&mdash;think ''[[Berlin/East_Central#Clubs|Berghain]]''. It also has an LGBT night, clearly stating its modernness and openness. Don't go if the latter does upset you in any way! [https://facebook.com/bassiani/ '''<span style="color:#3b5998">FB</span>'''].
+}}
+* {{drink
+| name=Buddha Bar | url=http://www.buddhabar.ge {{dead link|December 2020}} | email=info@buddhabar.ge
+| address=Rikhe, | lat= | long= | directions=
+| phone=+995 322 255222 | fax=| hours=19:00–Late | price=Expensive
+| content=Opened in March 2012. Latest arm of Buddha Bar Asian-inspired restaurant/lounge chain. Reservations are highly encouraged and sometimes a must. Reservations can be called in after 12:00 daily. An excellent place for sushi and good lounge and electronic music.
+}}
+* {{drink
+| name=Cubic | url= | email=| address=45 Kostava Str | lat= | long= | directions=
+| phone= | hours= | price=Entrance: 30 lari| content=One of the best places for good house music, real minimal techno and sometimes some breakbeats and dnb.
+}}
+* {{drink
+| name=Drama Bar | alt= | url=https://www.facebook.com/dramatbilisi/ | email=
+| address=37 | lat=41.7035853 | long=44.7911018 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2020-07-14
+| content=Another interesting club with DnB sometimes. A good option if the do not close soon and you don't want to head out to Bassiani or Khidi.
+}}
+* {{drink
+| name=Guru Club | url=http://www.myspace.com/gurunightclub | email=contact@guruclubtbilisi.ge
+| address=12 Rustaveli Ave | lat= | long= | directions=
+| phone=+995 322 983803 | tollfree= | fax=
+| hours=F Sa Su 22:00-07:00 | price=
+| content=Foreign DJs and singers & G.U.R.U. show girls
+}}
+* {{drink
+| name=KalaKuri Restaurant/Club | url= | email=
+| address=13 Shavteli St | lat= | long= | directions=Mtatsminda District
+| phone=+995 322 996683 | fax=| hours=Club: F and Sa from 23:00; Restaurant: 12:00–13:00; Lounge Bar: 17:00–03:00 | price=| content=Good night club, pop, 90s and modern music.
+}}
+* {{drink
+| name=KHIDI | alt= | url=https://www.khidi.ge/ | email=
+| address= | lat=41.725067 | long=44.781180 | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2020-07-14
+| content=If you do not get into Bassiani, head here. However, reviews are complaining about an excess of guys. So, better to be female or to bring your "own" if you are into meeting straight people.
+}}
+* {{drink
+| name=Night Flight|alt=| url=| email=
+| address=Baratashvili Street | lat= | long= | directions=Under Baratashvili bridge
+| phone= | tollfree= | fax=
+| hours=Open on Fridays and Saturdays | price=Entrance: 30 lari
+|lastedit=2019-10-28| content=Supposedly has the best house, trance, dance, club music, Georgian and foreign DJs in Tbilisi. Drinks are a bit expensive, but worth it.
+}}
+
+===Wineries===
+* {{drink
+| name=Numisi Cellar Museum | alt= | url=https://www.facebook.com/numisi/ | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2019-07-28
+| content=
+}}
+* {{drink
+| name=Winery Khareba | alt= | url=http://winery-khareba.com/en | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikipedia= | wikidata=
+| lastedit=2019-07-28
+| content=
+}}
+
+==Sleep==
+[[File:Catedral de la Santísima Trinidad, Tiflis, Georgia, 2016-09-29, DD 125.jpg|thumb|Sameba Cathedral]]
+===Budget===
+Due to the countless budget options, prices have dropped significantly in the city. Check out prices on the usual suspect websites and turn up on site stating the price; hostel owners will happily give you the online rate, so they can skip the fee they pay via such websites.
+
+* {{sleep
+| name=George Apartment | alt= | url=https://george-apartment.business.site/ | email=kalatoz-kalatoz@mail.ru
+| address=Intersection Tsinamdzgvrishvili Street ~53 and Giorgi Mazniashvili St | lat=41.70747 | long=44.80232 | directions=
+| phone=+995 593 52 76 51 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=Warm reception. Wifi.
+}}
+* {{sleep
+| name=Backpackers Hostel | alt= | url= | email=backpackers.tbilisi@gmail.com
+| address=no.11, Machabeli St. Old Tbilisi district | lat=41.69053 | long=44.79943 | directions=through the arch next to the olympic office
+| phone=+995 32 293 44 72 | tollfree= | fax=
+| checkin= | checkout= | price=Dorms 8/18 lari in off-/high-season
+| lastedit=2017-11-18
+| content=Hostel in the old city, Kitchen, laundry services, common room. It is one of the cheapest places in town but has trouble with drifters.
+}}
+* {{sleep
+| name=Boombully Rooms & Hostel | url=https://www.facebook.com/boombullyhotel/ | email=mail@boombully.com
+| address=Rustaveli Ave. 24 | lat=41.70019 | long=44.79584 | directions=across from Opera House - Metro Rustaveli| phone=+995 599 99 17 71 | tollfree= | fax=
+| hours= | price=| checkin= | checkout=
+| content= It's in historical downtown, near many city attractions and the Old town District, a block away from Prospero’s Books. The property is in a historical building with many green, eco-friendly and sustainable elements, like vintage and re-purposed furniture. The sign on the front of building for Boombully isn't the most noticeable, so watch the building addresses as you pass them.
+}}
+* {{sleep
+| name=Terrace Hostel Tbilisi | url=https://www.facebook.com/hostelterrace/ | email=hostelterrace11@gmail.com | address=11, Alexander Chavchavadze str. | lat=41.70039 | long=44.79397| directions=from Metro Rustaveli near the Opera turn up the hill and go two blocks | phone=+995 555 10 60 06 | fax=| hours= | price=king bed 75 lari
+| checkin= | checkout=| content=Friendly people, amazing view of the city, free wi-fi, possible airport transport for $20.
+}}
+* {{sleep
+| name=Envoy Hostel | alt= | url=http://envoyhostel.com/ | email=info@envoyhostel.com
+| address=45 Betlemi St | lat=41.68946 | long=44.80613 | directions=off Gorgasali Meidan, in the Old Town area - from Metro Freedom Square 0.8 km SE
+| phone=+995 322 920111 | tollfree= | fax=
+| checkin= | checkout= | price=
+| content=Boasting a large terrace with a view of the city. Their staff speak excellent English and are very knowledgeable and helpful. Newly renovated and clean, it has a high ratio of bathrooms per beds. Breakfast is offered daily, although it will cost you 10 or so lari. Wi-fi, laundry service, tours, airport pick up and air conditioning, and central heating.
+}}
+* {{sleep
+| name=Fox Hostel | alt= | url=https://www.facebook.com/foxhostel/ | email=foxhostel10@gmail.com
+| address=8 Ekaterine Gabashvili St | lat= | long= | directions=250 m from Metro Rustaveli | phone=+995 595 15 57 11 | fax= | checkin= | checkout= | price=
+| content=Hostel with kitchen access, pets, fox motifs on the walls.
+}}
+* {{sleep
+| name=Hostel FreeStyle | url= https://www.facebook.com/voyager.ge/ | address=95 Dimitri Uznadze St, Chugureti | lat=41.694110 | long= 44.833680 | directions= From Marjanishvili bridge, turn left through an archway. The hostel is on the right about halfway down the street. There is a painted sign "FreeStyle" on the door. Follow the courtyard all the way around the right and it's up a set of stairs. Bit hard to find | phone= | price= 10 lari| checkin=13:00 | checkout=12:00 | content= Small, friendly hostel in one of the nicest neighbourhoods of Tbilisi, Chugureti. Close to Marjanishvili metro, family atmosphere and nice social area. Beds perhaps aren't the most comfortable but a thick blanket over the mattress helps a good bit. Has a very cute cat.
+}}
+* {{sleep
+| name=Friends Hostel | alt=Friendly Hostel | url=https://www.facebook.com/Tbilisi-Friends-Hostel-160834993981805/ | email=info@friendshostel.ge
+| address=Betlemi Str. #28-30, entrance up from ascent Tumaniani street 9 | lat=41.689429 | long=44.807303 | directions=Old Tbilisi | phone=+995 577 737771 | hours= | price=Dorm from 7 lari, privates from 30 lari | checkin= | checkout=12:00
+| content=Near the Narikhala Fortress, surrounded by the traditional balconied Georgian houses and architecture. The building itself is a historic one, with old-styled interior. 10 beds in dorm and 2 privates. Nice balcony and common area (though a little dark), Old Town view, bar, BBQ area, guest kitchen. Two showers. Worth while if you get a bargain deal.
+}}
+* {{sleep
+| name=Green Stairs Hostel | url=https://greenstairs.business.site/ | email=
+| address=Tsinamdzgvrishvili Street, 53 | lat=41.70816 | long=44.80177| directions=walk east from Metro Marjanishvili one block, turn right and it'll be a 5-min walk on the left| phone=| hours= | price=25 lari/room| checkin= | checkout=| content=Free Wi-Fi and a communal fridge. The hostel is very simple, but run by a nice couple who speak English. It's a little cold in the winter, but each room does have a space heater. The owner will drive you to the airport for 25 lari.
+}}
+* {{sleep
+| name=Old Town Hostel | url= | email=tbilisioldtownhostel@gmail.com
+| address=Khodasheni/Iveria Street 7 | lat=41.69276 | long=44.80451 | directions=walk down from Freedom Sq to Leselidze St and in 2 min you turn on your right (in front of TBC Bank Leselidze branch) - Metro Freedom Square
+| phone=+995 571 00 40 02 | fax=
+| hours= | price=10-14 lari| checkin=13:00 | checkout=11:00
+| content=Comfortable beds, clean, cozy, and friendly hostel. Airport transfer is possible.
+}}
+* {{sleep
+| name=Rest Hostel Tbilisi | alt= | url= | email=resthostel@yahoo.com
+| address=68 Dimitri Uznadze St | lat=41.71138 | long=44.79289 | directions=near MetroMarjanishvili metro station
+| phone=+995 598 111469, +995 599 164249 | tollfree= | fax=
+| checkin=14:00 | checkout=11:00 | price=50 lari for room (2 beds)
+| content=Has 3 private rooms with shared bathroom, a total of 7 beds and one extra bed. Luggage storage, 24-hour reception (you may need to call, though), Internet, computers, free Wi-Fi in room, cable TV/DVD, free towels, linen included, air conditioning, guest kitchen, shared bathroom/shower, laundry. Car service 4WD, and can organize tours to the North-West.
+}}
+* {{sleep
+| name="New Tbilisi" Hostel| url=http://tbilisihostel.com/ | email= | address=Avlabari, Makhati turn 22 | lat=41.69509 | long=44.81792| directions=from Metro Avlabari metro station 0.4 km NE, from the exit turn right and pass the market and bear right| phone=| hours= | price=dorm: €10.55| checkin= | checkout=
+| content=Run by ex-backpackers. Popular among young backpackers, particularly those who are very price-conscious. Can be crowded and noisy. Free Internet & Wi-Fi; guest kitchen; cheap laundry service. Advertises itself as a 'party hotel'.
+}}
+* {{sleep
+| name=Tbilisi Rooms Hostel & Tours | alt= | url= | email=hosteltbilisirooms@gmail.com
+| address=Shota Rustaveli Ave | lat=41.7008577 | long=44.7957686 | directions=near Freedom Square in the city centre of Tbilisi: it's a 9-minute walk from Liberty Square Metro Station upwards Shota Rustaveli Ave opposite the Opera house
+| phone=+995 555 33 30 55 | tollfree= | fax=
+| checkin=24 hours | checkout=12:00 | price=20-45 lari
+| lastedit=2016-11-27
+| content=Hostel is clean and has both private rooms and dormitories, equipped kitchen for self catering, free tea and coffee, free Wi-fi, laundry (3 lari), and two shared bathrooms. The friendly staff speak English, Georgian, and Russian.
+}}
+*{{sleep
+| name=Hotel at Gomi 19 | url=https://m.facebook.com/hotelgomi19/ | email= | address=19 Gomi St | lat=41.68885 | long=44.80753 | directions=From Metro Freedom sq. to Leselidze st. in the end of Zdanevich upturn (behind Bethlemi st. 27). | phone=+995 571 84 32 32 | tollfree= | fax=
+| hours= | price=$29 | checkin=14:00 | checkout=13:00
+| content=Cozy rooms, big living room, kitchen and balcony with incredible view. 24h reception, fan, airport transfers ({{EUR|11}}), BBQ area, bicycle parking, cable TV, free parking, free Wi-Fi, laundry, linen and towels included, lockers, luggage storage, tours/travel desk.
+}}
+
+===Mid-range===
+
+* {{sleep
+| name=Beaumonde | alt= | url=http://hotelbeaumonde.com/ | email=
+| address=11 Chavchavadze St | lat=41.69956 | long=44.79272 | directions=next to Rustaveli Avenue
+| phone=+995 32 986003, +995 32 2921172 | tollfree= | fax=
+| checkin= | checkout= | price=Double B&B from US$50
+| lastedit=2018-10-15
+| content=Nice B&B with balconies and a roof deck. The breakfast and dinner are very filling. There is free internet. The family that runs the hotel is very warm and welcoming. Staff speaks Georgian, Russian, and some English.
+}}
+* {{sleep
+| name=Betsy's Hotel | alt= | url=http://betsyshotel.com | email=info@betsyshotel.com
+| address=32-34 Makashvili St | lat=41.70140 | long=44.78705 | directions=Metro: Rustaveli 500 m SW
+| phone=+995 32 931404 | tollfree= | fax=+995 32 999311
+| checkin= | checkout= | price=Doubles from US$80
+| lastedit=2018-10-15
+| content=Hotel with 57 rooms, 4 star going on 3, often booked out for conferences.
+}}
+* {{sleep
+| name=British House | alt= | url=http://www.british-house.ge/ | email=hotelbritishhouse@gmail.com
+| address=32 Belinski St | lat= | long= | directions=500 m west of Metro Rustaveli
+| phone=+995 32 988783 | tollfree= | fax=
+| checkin= | checkout= | price=Doubles from US$80
+| lastedit=2018-10-15
+| content=A friendly personalised 3-star bed & breakfast.
+}}
+* {{sleep
+| name=Georgian House Hotel | alt= | url=http://www.georgianhousetbilisi.com | email=hotel@exotour.ge
+| address=38 Vakhtang VI St | lat=41.69482 | long=44.81573 | directions=Below Trinity Cathedral; Metro Avlabari is 700 south
+| phone=+995 32 2791919 | tollfree= | fax=+995 32 2791920
+| checkin=12:00 | checkout=12:00 | price=Double B&B US$50
+| lastedit=2018-10-15
+| content=3 star near Rose Square.
+}}
+*{{sleep
+| name=Prestige Palace Hotel |url=http://www.hotelprestige.ge/ | email=
+| address=51 Marjanishvili St | lat=41.71114 | long=44.80078| directions=in north central Tbilisi on a quiet street| phone=+995 91 322 940505 | tollfree= | fax=| hours=
+| checkin= | checkout= | price=Doubles B&B US$50 | lastedit=2018-10-15 | content= Quiet, comfortable, renovated.
+}}
+* {{sleep
+| name=SkadaVeli | alt= | url=http://www.ska.ge | email=SkadaVeli@gmail.com
+| address=27 Vertskhli str | lat=41.69497 | long=44.80414 | directions=Metro Freedom Square
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=Double from US$35
+| lastedit=2018-10-15
+| content=Light, quiet and comfortable apartment in Kala neighborhood.
+}}
+* {{sleep
+| name=Tbilotel | alt= | url=http://www.tbilotel.ge/ | email=tbilotel@tbilotel.ge
+| address=8 Vitali Daraselia St | lat=41.73188 | long=44.76924 | directions=Metro Medical University is 400 m southwest
+| phone=+995 32 387804 | tollfree= | fax=
+| hours=24/7 | checkin= | checkout= | price=Doubles from US$70
+| lastedit=2018-10-15
+| content=Mid-range business and leisure hotel. Offers 18 comfortable rooms, standard and semi-suites, with balconies, free Wi-Fi Internet, satellite TV and international phone.
+}}
+* {{sleep
+| name=Vere Palace Hotel | alt= | url=http://www.verepalace.com.ge | email=hotelvp@verepalace.com.ge
+| address=22-24 Kuchishvili St | lat=41.70956 | long=44.78238 | directions=Near the Zoo and Hero's Square, Metro: Rustaveli
+| phone=+995 32 253340 | tollfree= | fax=
+| checkin= | checkout= | price=Doubles from US$50 | lastedit=2018-10-15
+| content=4-star hotel.
+}}
+* {{sleep
+| name=Hotel VIP | alt= | url= | email=
+| address=31 Leselidze Street | lat=41.69173 | long=44.80589 | directions=
+| phone=+995 32 923336 | tollfree= | fax=
+| checkin= | checkout= | price=Doubles from US$70
+| lastedit=2018-10-15
+| content=2-star hotel close to Sioni Cathedral. Friendly hotel in a quiet courtyard with views over the river. The owners are charming people and the breakfast is excellent.
+}}
+
+===Splurge===
+
+* {{sleep
+| name=Courtyard by Marriott Tbilisi | alt=სასტუმრო "ქორთიად-მარიოტი" | url=https://www.marriott.com/property/propertypage/TBSCY | email=
+| address=4 Freedom Square (თავისუფლების მოედანი) | lat=41.69346 | long=44.80081 | directions=Metro Freedom Square
+| phone=+995 322 779200 | tollfree= | fax=+995 32 779210
+| checkin=15:00 | checkout=12:00 | price=Doubles (room only) from US$170
+| lastedit=2018-10-15
+| content=Six-storey hotel built in the 1990s in post-modernist style. Comfortable and very central.
+}}
+* {{sleep
+| name=Mercure Tbilisi Old Town | alt= | url=https://all.accor.com/hotel/9417/index.en.shtml | email=
+| address=9 Vakhtang Gorgasali street | lat=41.68860 | long=44.81341 | directions=
+| phone=+995 322 00 60 60 | tollfree=
+| checkin=14:00 | checkout=12:00 | price=Doubles from US$100
+| lastedit=2018-10-15
+| content=A four-star chain hotel with fitness centre and a sauna bath.
+}}
+* {{sleep
+| name=Radisson Blu Iveria Hotel, Tbilisi City Centre | alt= | url=https://www.radissonhotels.com/en-us/hotels/radisson-blu-tbilisi | email=tbilisi.ots@radissonblu.com
+| address=First Republic Square 1 | lat=41.70391 | long=44.79344 | directions=
+| phone=+995 322 402200 | tollfree=
+| checkin= | checkout= | price=Doubles from US$140
+| lastedit=2018-10-15
+| content=
+}}
+* {{sleep
+| name=River Side Hotel | alt= | url=http://www.riverside.ge/ | email=
+| address=Brosse Street | lat=41.70194 | long=44.79880 | directions=corner with Right Bank; Metro: Freedom Square 500 m south
+| phone= | tollfree= | fax=
+| checkin= | checkout= | price=Doubles US$120
+| lastedit=2018-10-15
+| content=Really nice, comfortable, friendly staff. Free Wi-Fi.
+}}
+* {{sleep
+| name=Sheraton Grand Tbilisi Metechi Palace | alt= | url=https://www.marriott.com | email=
+| address=20 Telavi St | lat=41.68872 | long=44.82303 | directions=Metro: 300 Aragveli Station
+| phone=+995 32 772020 | tollfree= | fax=+995 32 772120
+| checkin= | checkout= | price=US$200+ per night
+| lastedit=2018-10-15
+| content=5 star on ridge crest east of river, 15-minute walk to the Old City.
+}}
+* {{sleep
+| name=Tbilisi Marriott Hotel | alt=სასტუმრო "თბილისი მარიოტი" | url=https://www.marriott.com/property/propertypage/TBSMC | email=
+| address=13 Rustaveli Prospekt (შოთა რუსთაველის გამზ.) | lat=41.69896 | long=44.79833 | directions=Metro Freedom
+| phone=+995 32 779200 | tollfree= | fax=+995 32 779210
+| checkin=15:00 | checkout=12:00 | price=Doubles from US$200
+| lastedit=2018-10-15
+| content=5-star hotel on city's main avenue; not to be confused with Courtyard by Marriott 500 m south.
+}}
+
+==Stay safe==
+Tbilisi is very safe after the Rose Revolution. You will be welcomed with the cheerful hospitality that is a hallmark of Georgian culture. The police system was reformed completely and the public's trust in police rose dramatically. The police are usually quick to respond, though usually only Georgian and Russian are spoken.
+
+Walking as a solo black man is unusual. Be prepared to receive stares and be "randomly" controlled by police every day.
+
+While walking is generally fine, even for solo women, it makes sense to take a bus or taxi home at night. Use common sense and big-city awareness. Night time at the clubs and bars are generally safe but fights between locals can escalate quickly. The taxi service is safe as long as it's a company taxi like "009" or others. The public bus is also a good, safe option for 1 lari.
+
+*Police Tel: 112
+*Ambulance tel: 112
+
+===Nightlife===
+Extreme caution should be exercised when frequenting any establishment in the "Shardeni" area, between Kote Apkhazi street and the river, on streets "Chardin", "Bambis Rigi", and "Rkinis Rigi". These bars, clubs, and restaurants are well known for operating expensive scams, charging upwards of US$1,000 for a few drinks and forcing tourists to pay. Although a few establishments in this area have a reasonable reputation, such as "KGB", it is safer and cheaper to completely avoid this area. This is the only area of the city where such caution should be taken.
+
+===Taxi drivers===
+As always, taxi drivers will try to cheat tourists; especially coming from the airport, rigging the meter, misrepresenting the value of the lari or quoting a price in lari then demanding payment in US dollars. Stand your ground and walk away if necessary.
+
+===Homeless people and kids===
+Beggars have become more aggressive in the tourist areas, and especially children may cling to the legs of wealthy-looking tourists or several adults may cling to a tourist whilst pickpocketing them; yell for help and fight back. Unfortunately, the police appears to be in on this and will often turn a blind eye; or encourage you to let the perpetrators go.
+
+==Stay healthy==
+* {{listing |type=other
+| name=Medi Club Georgia | alt= | url=http://www.mediclubgeorgia.ge/default.aspx | email=mcg@mediclubgeorgia.ge | address=22a, Tashkenti St | lat=41.7282 | long=44.7634| directions=Metro: "Medical University" 300 m walk to Taskent lane corner opp- of its| phone=+995 32 2251991, +995 599 581991 (Emergency) | fax=+995 32 2250911 | hours= | price= | content=One of designated medical clinic for foreigners&mdash;meaning overpriced. Apparently, official bills from here are accepted more commonly by international health insurances, but this really depends on your insurance.}}
+
+==Connect==
+SIM cards can be bought almost anywhere tourists abound (you'll see the signs or will be offered costly at airport), but the most reliable method to obtain the highest quality service is to hike over to the {{marker
+|name=Magti |type=other |lat=41.69997 |long=44.79626}} store on Rustaveli Avenue and purchase a SIM card there. As of October 2022, data prices are quite reasonable: 7 lari gets you one week of unlimited data, while 28 lari gets you four weeks unlimited. Magti's provides 4G coverage to all but the most remote areas of Georgia. Be prepared to wait a while at the Magti store, however; bring something to read. And don't forget to bring your passport.
+
+WIFI is available in some newer establishments, but you cannot count on availability and good experience not even everywhere in the center.
+
+==Cope==
+
+The Government '''postal service''' is notorious for being over-priced and unreliable with many thefts, and lost or damaged packages. Use a private postal company for anything important.
+
+===Embassies===
+More details here: https://www.embassypages.com/georgia
+
+* {{flag|Armenia}} {{listing |type=other
+| name=Armenia | url=http://georgia.mfa.am | email= armgeorgiaembassy@mfa.am
+| address= 4 Gia Tetelashvili Street, 0102 | lat=41.710779 | long=44.795552 | directions=
+| phone=+995 32 295-1723, +995 32 295-9443 | tollfree= | fax=+995 32 296-4287
+| hours= | price=
+| content=
+}}
+* {{flag|Austria}} {{listing |type=other
+| name=Austria | url=http://www.aussenministerium.at/tiflis | email= tiflis-ob@bmeia.gv.at
+| address= 4 Chovelidze Street, 5th floor, 0108 | lat= | long= | directions=
+| phone=+995 32 243-4402 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{flag|Azerbaijan}} {{listing |type=other
+| name=Azerbaijan | url=http://www.azembassy.ge/ | email= tbilisi@mission.mfa.gov.az
+| address= 4 Vakhtang Gorgasali street, 0114 | lat=41.687150 | long=44.818445 | directions=
+| phone=+995 32 224-2220 | tollfree= | fax=+995 32 224-2233
+| hours=09:00-18:00 | price=
+| content=
+}}
+* {{flag|Belarus}} {{listing |type=other
+| name=Belarus | url=http://georgia.mfa.gov.by/ | email= georgia@mfa.gov.by
+| address= 18 Krtsanisi street, 0114 | lat= | long= | directions=
+| phone=+995 32 223-4110 | tollfree= | fax=
+| hours=M-Th 10:00-14:00 and 14:45-19:00 and F 10:00-14:00 and 14:45-17:45 | price=
+| content=
+}}
+* {{flag|Brazil}} {{listing |type=other
+| name=Brazil | url=http://tbilisi.itamaraty.gov.br/pt-br/ | email= brasemb.tbilisi@itamaraty.gov.br
+| address= 11 Levan Mikeladze street, 0162 | lat= | long= | directions=
+| phone=+995 32 222-0636 | tollfree= | fax=
+| hours=M-F 10:00-17:00 | price=
+| content=
+}}
+* {{flag|Bulgaria}} {{listing |type=other
+| name=Bulgaria | url=http://www.mfa.bg/embassies/georgia | email= embassy.tbilisi@mfa.bg
+| address= 15 Vakhtang Gorgasali street, 0105 | lat=41.688277 | long=44.815861 | directions=
+| phone=+995 32 291-0194, +995 32 291-019495, +995 577233030 | tollfree= | fax=+995 32 291-0270
+| hours= | price=
+| content=
+}}
+* {{flag|China}} {{listing |type=other
+| name=China | alt= | url=http://ge.china-embassy.gov.cn/eng/ | email=yfarm@access.sanet.ge
+| address=52 Barnov str., 380008 | lat= | long= | directions=
+| phone=+995 32 25-2670 | tollfree= | fax=+995 32 25-0996
+| hours= | price=
+| content=
+}}
+* {{flag|Czechia}} {{listing |type=other
+| name=Czechia | alt= | url=http://www.mzv.cz/tbilisi | email=tbilisi@embassy.mzv.cz
+| address=37 Ilia Chavchavadze Avenue, Block VI, 0179 | lat= | long= | directions=
+| phone=+995 32 291-6740, +995 32 291-6743 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{flag|Estonia}} {{listing |type=other
+| name=Estonia | alt= | url=https://tbilisi.mfa.ee/ | email=tbilisisaatkond@mfa.ee
+| address=4 Kita Buachidze street, 0171 | lat=41.716671 | long=44.768097 | directions=
+| phone=+995 32 236-5122 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{flag|France}} {{listing |type=other
+| name=France | alt=Ambassade de France | url=http://www.ambafrance-ge.org/ | email= contact.tbilissi-amba@diplomatie.gouv.fr | address=51a Krtsanisi St, 0114 | lat=41.67060 | long=44.81137| directions=| phone=+995 32 272-1490 | tollfree= | fax=+995 32 272-1355 | hours=M-Th 09:00-13:00 and 14:00-18:00 and F 09:00-13:00 and 14:00-16:30 | price=
+| content=
+}}
+* {{flag|Germany}} {{listing |type=other
+| name=Germany | url=http://www.tiflis.diplo.de | email= info@tiflis.diplo.de
+| address= 38 Nino Chkheidze street, 0102 | lat= | long= | directions=| phone=+995 32 244-7300 | tollfree= | fax=+49 30 5000 67133| hours=M-Th 08:30–17:30, F 08:30-14:30| price=
+| content=
+}}
+* {{flag|Greece}} {{listing |type=other
+| name=Greece | url= | email= gremb.tbi@mfa.gr
+| address= 37d Titsian Tabidze street, 0179 | lat= | long= | directions=| phone=+995 32 291-4970 (4) | tollfree= | fax=+995 32 291-4980
+| hours=| price=
+| content=
+}}
+* {{flag|Vatican City}} {{listing |type=other
+| name=Holy See | alt= | url= | email=nuntius@vaticange.org
+| address=18 Besarion Zhgenti Street, Nutsubidze Plato II M/R, 0183 | lat= | long= | directions=
+| phone=+995 32 253-7601, +995 32 253-7604 | tollfree= | fax=+995 32 253-6704
+| hours= | price=
+| content=
+}}
+* {{flag|Hungary}} {{listing |type=other
+| name=Hungary | alt=Magyarország Nagykövetsége, Tbiliszi, Georgia | url=https://tbiliszi.mfa.gov.hu/ | email=mission.tbs@mfa.gov.hu
+| address=83 Lvovi Street on some map Kushitashvili street (off Budapesht Street), Saburtalo district | lat=41.7316 | long=44.7578 | directions=Metro: "Medical University" 0.7 km
+| phone=+995 32 2399008, +995 595 580777 (Emergency) | tollfree= | fax=+995 32 2399004
+| hours= | price=
+| content=
+}}
+* {{flag|Iran}} {{listing |type=other
+| name=Iran | alt= | url= | email=iranemb@geo.net.ge
+| address=80 Ilia Chavchavadze Ave | lat=41.70896 | long=44.74075 | directions=From M Delisi S3.5km - At Vake Cemetery
+| phone=+995 32 291 3656, +995 32 2913658, +995 32 2913659, +995 32 291660 | tollfree= | fax=+995 32 2913628
+| hours= | price=
+| content=
+}}
+* {{flag|Iraq}} {{listing |type=other
+| name=Iraq | url= | email= iraqiageoemb@yahoo.com| address=17 Lvov St | lat= | long= | directions=| phone=+995 32 223 4501, +995 32 223 4502, +995 32 223 4503|fax=+995 32 229 4503| hours= | price=| content=
+}}
+* {{flag|Israel}} {{listing |type=other
+| name=Israel | url=http://tbilisi.mfa.gov.il | email= press@tbilisi.mfa.gov.il
+| address=154 Aghmashenebeli Ave | lat= | long= | directions=
+| phone=+995 32 255 65 00 | tollfree= | fax=+995 32 255 65 33
+| hours= | price=
+| content=
+}}
+* {{flag|Italy}} {{listing |type=other
+| name=Italy | url= | email= embassy.tbilisi@esteri.it
+| address=3a Chitadze St | lat= | long= | directions=
+| phone=+995 32 299 64 18, +995 32 292 14 62, +995 32 292 18 54 | tollfree= | fax=+995 32 299 64 15
+| hours= | price=
+| content=
+}}
+* {{flag|Japan}} {{listing |type=other
+| name=Japan | url= | email= protocol@tb.mofa.go.jp
+| address=7d Krtsanisi St | lat=41.67562 | long=44.82085| directions=
+| phone=+995 32 275 21 11 | tollfree= | fax=+995 32 275 21 20
+| hours= | price=
+| content=
+}}
+* {{flag|Latvia}} {{listing |type=other
+| name=Latvia | url=https://www.mfa.gov.lv/georgia | email= embassy.georgia@mfa.gov.lv, consulate.georgia@mfa.gov.lv
+| address=46 A. Khakhanashvili St | lat=41.6911048 | long=44.8251043 | directions=
+| phone=+995 32 224 48 58 | tollfree=
+| hours= 8.30 till 17.00 (visits), 10.00 till 13.00 (visas, documents)
+| price=Only bank card payments (VISA, VISA Electron, VPAY, MasterCard un Maestro)
+| content=
+}}
+* {{flag|Lithuania}} {{listing |type=other
+| name=Lithuania | url= | email= amb.ge@urm.lt
+| address= 25 Tengiz Abuladze street, 0162 | lat= | long= | directions=
+| phone=+995 32 291 29 33 | tollfree= | fax=+995 32 222 17 93
+| hours= | price=
+| content=
+}}
+* {{flag|Romania}} {{listing |type=other
+| name=Romania | alt= | url=http://tbilisi.mae.ro/en | email=tbilisi@mae.ro
+| address=str. Lvovi, nr.7, cartier Saburtalo | lat= | long= | directions=
+| phone=+995 32 238 5310 | tollfree=
+| hours= | price=
+| lastedit=2021-12-04
+| content=
+}}
+* {{flag|Switzerland}} {{listing |type=other
+| name=Swiss | alt= | url= | email= | address= Krtsanisi St (კრწანისის ქუჩა)| lat=41.67419 | long=44.81933 | directions= | phone= | tollfree= | fax= | hours= | price= | content=
+}}
+* {{flag|Turkey}} {{listing |type=other
+| name=Turkey | url= | email= turkemb.tbilisi@mfa.gov.tr
+| address=35 Chavchavadze Ave | lat=41.71097 | long=44.76124| directions=
+| phone=+995 32 225 20 72, +995 32 225 20 73, +995 32 225 20 74, +995 32 225 20 76 | tollfree= | fax=+995 32 222 06 66
+| hours= | price=
+| content=
+}}
+* {{flag|United Kingdom}} {{listing |type=other
+| name=United Kingdom | alt= | url=https://www.gov.uk/world/organisations/british-embassy-tbilisi | email=british.embassy.tbilisi@fco.gov.uk
+| address=51 Krtsanisi St | lat=41.67238 | long=44.81496 | directions=
+| phone=+995 32 227 47 47 | tollfree= | fax=+995 32 227 47 92
+| hours= | price=
+| content=
+}}
+* {{flag|United States}} {{listing |type=other
+| name=United States | alt= | url=https://ge.usembassy.gov/ | email=askconsultbilisi@state.gov
+| address=11 Balanchini St | lat=41.788469 | long=44.776115 | directions=
+| phone=+995 32 227 70 00, +995 32 253 23 34 | tollfree= | fax=+995 32 253 23 22
+| hours= | price=
+| content=
+}}
+
+==Go next==
+It is worth mentioning that online prices and in-person prices for trips vary widely as of 2022.  You can bargain hard or price shop for tours in the old town (there are several competing companies). The tour guide sales people are mostly students who work on commission and many will drop the price in order to make a sale.  Competitive pricing for tours is around 2x Marshrutka prices (per person).
+
+===Within Georgia===
+====Day trips====
+* [[Mtskheta]] &ndash; The old capital, and nearby is Jvari monastery. Marshrutka from Didube (1 lari), or take a tour (prices range from 30-120 lari per person).
+* [[Rustavi]] &ndash; For a Soviet immersive experience, to the east. You'll be glad to come back. Unspoiled and 25&nbsp;km, about half an hour by frequent marshrutkas from metro station "station square" (1.5 lari) yellow marshrutka no. 19.
+
+====East====
+Not far east of Tbilisi is the beginning of the [[Kakheti]] region with various sights, including:
+* [[Telavi]] &ndash; Gateway to the close-by Alaverdi Monastery, [[Gurjaani]] (part of the wine route) and the mountain region of [[Tusheti]]
+* [[Sighnaghi]] &ndash; A restored wine town with an extensive wall and close-by the popular Monastery of St. George at Bodbe (aka Bodbe Convent)
+* [[Udabno|David Gareja Monastery Complex]] &ndash; A 6th-century cave monastery, though not as impressive as [[Vardzia]]
+
+====North====
+* [[Gudauri]] &ndash; A popular ski resort about 120&nbsp;km north
+* [[Kazbegi|Stepantsminda/Kazbegi]] &ndash; A great hiking and mountaineer destination with one of the highest mountains in Europe, Mount Kazbeg, and home to the spectacularly situated Gergeti Trinity Church. And along the way from Tbilisi the beautiful Ananuri Fortress Complex.  Competitive day-tour price is 45 lari as of 2022. You can ask to be left there for an overnight stay at no extra cost.
+
+====West====
+All sights are covered under the according region article and its cities, especially [[Rioni Region]], [[Samtskhe-Javakheti]] and [[Northwestern Georgia]]. Some highlights:
+* [[Gori]] – Known for its Stalin cult and the close-by Uplistsikhe, a 3,600-year-old Silk Road cave city that was a major regional centre of Caucasian pagan religion.
+* [[Borjomi]] – A resort town popular for its mineral well, the nearby Borjomi (Kharagauli) Nature Reserve, a hiking paradise, and Mtsvane Monastery (aka the Green Monastery).
+** Bakuriani – A ski resort and scenic slow train trip destination from [[Borjomi]].
+* [[Vardzia]] – The best cave monastery to visit in Georgia, beyond Uplistsikhe and David Gareja.
+* [[Mestia]]/[[Northwestern Georgia|Svaneti region]] – 10–12 hr away by bus, and the most famous mountain region in Georgia with the famous ''Svan Towers'', glaciers, the authentic village [[Ushguli]], as well as numerous hiking destinations
+* [[Batumi]] – About 250 km away by night and day train, plane, or bus marshrutka, a summer and beach city on the Black Sea, also on the way to Turkey.
+* [[Ozurgeti]] – A good jumping off point for nearby beaches and mountain resorts.  About 200 km via night train, leaves around 21:45, arrives 06:10. There is also a marshutka from Station Square (the train station), which leaves at 16:00 and arrives around 22:00), is a regional centre.
+
+===Armenia===
+* [[Debed Canyon]] &ndash; About 2 hr from Tbilisi, there are day trips available in Tbilisi to this deep picturesque canyon, with stunning monasteries such as Sanahin, Haghpat, Kobayr, Horomayri, Akhtala and Grigori Bardzrakash along the way. The first two are UNESCO World Heritage sites, and all the monasteries in the gorge are linked by hiking trails. While industrial [[Alaverdi]] is the largest town in the canyon, [[Tumanyan]] or some of the villages may prove nicer spots to spend a few nights.
+* [[Ijevan]] &ndash; A cute riverside town with a busy market. Also, easily reached by marshrutka from Tbilisi, several a day, and easy to get to Dilijan from here.
+* [[Dilijan]] &ndash; A town south of Ijevan known as the "Little Switzerland" of Armenia. Set in beautiful forested mountains, with some examples of nicely preserved traditional wooden architecture, and lots of hiking in the Dilijan National Forest.
+* [[Lake Sevan]] &ndash; The nearby lake (biggest in Armenia comprising 5% of the surface area of the country) is a famous summer destination. Several marshrutkas from or on the way to Yerevan.
+* [[Yerevan]] &ndash; The capital is a must see, and an excellent base for exploring the country.
+
+===Azerbaijan===
+* [[Ganja]] &ndash; First large town when entering Azerbaijan from Tbilisi along the main highway. Popular for its architecture as well as nearby hiking destination, Goygol National Park.
+* [[Baku]] &ndash; The most eastern point of Azerbaijan. The capital, cosmopolitan and spectacular. Best reached by plane, but also possible by marshrutka.
+* [[Qax|Qax (Qakh)]] &ndash; A popular and remote city near the Caucasus, great for hiking into the Caucasus
+* [[Zaqatala]] &ndash; Similar to Qax, though a little more touristic
+
+
+{{usablecity}}
+{{isPartOf|Kartli}}
+{{Geo|41.7167|44.7833|zoom=12}}

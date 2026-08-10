@@ -121,6 +121,7 @@ Do not repeat the destination name unnecessarily.
 Do not invent specific attractions, statistics, events, or other factual
 claims that are not reasonably supported by the source or established
 general knowledge.
+Do not use generic statements and promotional phrases such as 'don't miss,' 'must-see,' or 'world-class' unless they are directly relevant and factual.
 
 The description should be factual, concise, and useful for someone deciding
 whether the destination fits their travel interests.
@@ -357,8 +358,6 @@ async def call_llm_openai(
     from openai import AsyncOpenAI
 
     settings = get_settings()
-    print("OpenAI key loaded:", bool(settings.openai_api_key))
-    print("OpenAI key prefix:", settings.openai_api_key[:12] if settings.openai_api_key else "NONE")
 
     client = AsyncOpenAI(
         api_key=settings.openai_api_key

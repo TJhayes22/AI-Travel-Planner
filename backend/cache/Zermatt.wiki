@@ -1,0 +1,285 @@
+{{pagebanner|Zermatt banner Gornergrat.jpg|caption=Gornergrat railway}}
+'''Zermatt''' is one of the most famous mountain resorts in [[Switzerland]], and attracts people from around the world. Located in the German-speaking part of [[Valais]], its most popular sight is the iconic [[Matterhorn]], one of Switzerland's most famous mountains. It comes at no surprise then that the town of Zermatt caters mostly towards skiing, hiking and mountaineering. Though its fame has also a downside; the town is busier and much more expensive than other destinations in the region.
+
+[[Image:Zermatt small.jpg|thumb|200px|The Matterhorn in winter as seen from Zermatt]]
+[[File:Station Furi.JPG|thumb|200px|A view of Zermatt from the funicular towards Trockener Steg]]
+
+==Understand==
+{{Infobox|Reading up|Before you visit Zermatt for the Matterhorn, you may want to read ''Scrambles amongst the Alps'' by Edward Whymper — an interesting, well written book from the protagonist of the first successful and tragic ascent. It remains a classic of mountaineering literature even today, even though the motives of the author to excuse his own behavior have since been called into question.}}
+
+Zermatt is surrounded by a range of fabulous mountains, including the highest of Switzerland, Monte Rosa. However the most famous of them is Matterhorn. It was one of the last alpine mountains to be conquered (in 1865), and the first expedition that reached the top ended dramatically (only 3 of the 7 climbers survived).
+
+If you've never experienced a car-free city of any size then Zermatt could be a bit of a surprise:  during the high season nearly there are 20,000 people living in a town with only 5 or 6 streets and more significantly almost no internal combustion vehicles except very occasional outside delivery and specialist services.  This means that you can leave a noisy bar or party, and a few minutes later ''on foot'' find yourself in utter tranquillity.  You can sit on the hotel balcony and listen to dozens of varieties of songbirds while watching the sun set on one of the most striking mountains in the western world.  Wake up with the sun in a four or five-star room or a canvas tent to the sound of the aforementioned birds, crickets, church bells, and children's laughter.
+
+Almost all vehicles in Zermatt are battery driven and almost completely silent. Taxi drivers have a habit of assuming that pedestrians have eyes in the backs of their heads, with occasional alarming though seldom injurious consequences. Horse-drawn vehicles are equipped with bells and many startled pedestrians might well wish taxis were similarly provided.
+
+You can cycle or stroll in complete safety.
+
+Incidentally there is a version of the standard Zermatt ski map/summer walking map in English although for some reason the lift stations only seem to hand out the German/French versions with tickets. The map is free - you can generally find it on one of the stands in the lift stations or in the Tourist Information centre.
+
+The name "Zermatt" is a contraction of the local dialect words "zer", which means "to", and "matta", which means "field" or "meadow". Therefore: "to the field", although many of the fields have since had hotels of apartment houses built on them.
+
+The Matterhorn was one of the last of the main Alpine mountains to be ascended, not because of its technical difficulty, but because of the fear it inspired in early mountaineers. The first serious attempts began around 1857, mostly from the Italian side; but despite appearances, the southern routes are harder, and parties repeatedly found themselves having to turn back. However, on July 14, 1865, in what is considered the last ascent of the golden age of alpinism, the party of Edward Whymper, Charles Hudson, Lord Francis Douglas, Douglas Robert Hadow, Michel Croz and the two Peter Taugwalders (father and son) was able to reach the summit by an ascent of the Hörnli ridge in Switzerland. Upon descent, Hadow, Croz, Hudson and Douglas fell to their deaths on the Matterhorn Glacier, and all but Douglas (whose body was never found) are buried in the Zermatt churchyard.
+
+===Visitor information===
+* [https://www.zermatt.ch Official website]
+
+==Get in==
+===By train===
+''For more information on train travel and tickets see [[Rail travel in Switzerland]].''
+
+For most people the most convenient way to Zermatt is going to be by train. Half-hourly trains run from [[Visp]], which has connection to most major Swiss cities as well as the airports in [[Geneva]] and [[Zurich]]. Zermatt is also the end station of the Glacier Express, a panoramic express train going to [[St. Moritz]].
+
+* {{go
+| name=Zermatt railway station | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= | tollfree=
+| hours= | price=
+| wikidata=Q8069422
+| lastedit=2023-08-07
+| content=
+}}
+
+===By car===
+Private cars can only drive as far as Täsch. The last 7&nbsp;km must be travelled by train or by taxi. There is a [http://www.zermatt.ch/en/page.cfm/zermatt_matterhorn/arrival/car shuttle train] every 20 minutes during the day departing from the Matterhorn Terminal Täsch, which contains 2,100 covered parking spaces. You can take your luggage cart directly from your car, on to the shuttle, and on to the Zermatt train station forecourt.
+
+===By plane===
+If it's in line with your budget, [http://www.airzermatt.ch Air Zermatt] will fly you in from major regional airports. Otherwise the nearest airport is in [[Sion]], but due to its very limited flight schedule most tourists opt for Geneva, Zurich or Milan Malpensa airports. From there it's also possible to book an airport transfer by limousine or van to get to Zermatt.
+
+==Get around==
+{{cautionbox|boldtext=No cars|Be aware that if you inadvertently drive your car into Zermatt, you will be fined Fr.&nbsp;350 on the spot. The policemen will not accept an excuse that you didn't see the sign (they will show you a photocopy of a photo of the sign and tell you that they are only doing their job). If you have never been to Zermatt before and are not aware that it is a [[car-free destinations|car-free zone]], it is easy to miss the sign.}}
+
+{{Mapframe|46.0202|7.7488|height=500|width=300|layer=W|zoom=15}}
+
+===On foot===
+[[Image:Zermatt river matt.jpg|thumb|250px|The river Vispa runs right through town]]
+The village of Zermatt, while dense, is geographically very small. There are three main streets which run along the banks of the river Vispa, and numerous cross-streets, especially around the station and the church which forms the centre of the village. In general anything is at most a twenty minute walk away if you are fit.
+
+During the summer there are roads and hiking trails leading up to a number of year-round restaurants in the direction of the Matterhorn.
+
+===By taxi===
+There are several companies in Zermatt that run small electric taxis. You can call one of the companies' numbers (printed on side of the taxi) to pick you up at any location in the village or they can be hired from the ranks outside the main train station or cable car station.
+
+In addition, many of the higher-end hotels have porters who will meet you at the station with a small electric car/truck and will ferry you directly to check in, depositing the luggage in your room. A few of the really exclusive ones still use horse-drawn carriages.
+
+===By bus===
+Zermatt has a local bus with two lines. Both lines take the same route through the centre of the village, passing by the main station, as well as the Gornergrat and Rothorn stations. The green line then goes to the cable car whereas the red line makes a loop around the Winkelmatte area. Trips cost Fr.&nbsp;2.50 on the green line and Fr.&nbsp;3.20 on the red line, however if you have a ski pass or a train ticket, you can take it for free. A weekly pass with unlimited rides costs Fr.&nbsp;22. Buses run every 20-30 minutes depending on the time of the day and year.
+
+===By cable car===
+There is a series of cable car runs leading all the way to the summit of the Klein Matterhorn (3883m), presenting the highest scenic outlook platform in Europe. A ride along the entire series costs Fr.&nbsp;82 round trip.
+
+===By train===
+*'''Gornergrat Railway''' – A railway to the top of Mount Gornergrat. Pricing is dynamic, but it's at least Fr.&nbsp;36 one way, but can be up to Fr. 66 one way. Trains depart from a separate station opposite the main station. Allow a few hours and enjoy the great view and the sunny place. A nice trip is to take the train up and hike down.
+*'''Sunnegga (underground funicular) Railway''' - An underground funicular railway to 'Sunnegga Paradise'.  ''Fr.&nbsp;16 one way''.  Trains depart from a separate station at the other side of village from the main station (follow signing).  From Sunnegga, two cable cars take you to Rothorn Paradise with great views.  ''Fr.&nbsp;44 return''.  A nice easy walk is to go by train to Sunnegga (you may then wish to take the cable cars up to Rothorn and back) then walk down the Marmot Trail back to Zermatt.  You may even see some Marmots on the way!
+*'''Lift Passes''' are ideal tickets for hikers, mountain-bikers and nature-lovers. They give you unlimited rides on the following cable railways: Matterhorn glacier paradise, Rothorn, Schwarzsee, Gornergrat and on the Matterhorn Gotthard railway between Randa, Täsch and Zermatt. as well as free entrance to the glacier palace and unlimited rides on electric buses (see below). They are available for 3 or more days at all ticket-offices of the Zermatt mountain transport system. Peak season prices for a three day pass: Adult - Fr.&nbsp;190 Child - Fr.&nbsp;95
+
+==See and do==
+
+Zermatt and the surrounding area is full of things to do. For sporty people, there are many activities such as hiking, skiing and mountain biking for you to enjoy. For the more laid-back tourist, there are many easy walks, spas, scenic train and cable car trips, a museum and much more to enjoy. For social people, there are also pubs and clubs in the village centre.
+
+For more information on activities, a good place to visit is the Visitor Information Center near the main train station.
+
+===Mountaineering===
+[[Image:Matterhornnorth.jpg|thumb|250px|The Matterhorn]]
+
+* {{do|name=Breithorn
+|wikidata=Q16540
+|content=At 4150 m, it is the easiest 4000er of the Alps. Using the lifts "Furri" (1700 m), "Trockener Steg" (2800 m), "Kleines Matterhorn" (3883 m) you reach the top of the little Matterhorn. Go down to the "Theodul-Gletscher" and follow the trail to left on the Breithorn. The top of the Breithorn can be reached after two hours of walking (no climbing!). A rope is necessary and a mountain guide is recommended. You should not start the tour from the little Matterhorn after 10:00 in the morning, because the snow gets too weak and you will not reach the last lift down to Zermatt in time. The Glacier Paradise (Klein Matterhorn) ski area is at 3850m (3899m when the additional summer season drag lift is open).
+}}
+* {{do|name=Matterhorn|alt=Mont Cervin, Monte Cervino
+| wikidata=Q1374
+| content=One of the tallest mountains in the [[Alps]], straddling the border of [[Switzerland]] and [[Italy]]. The Matterhorn has a pyramidal shape with four faces facing the four compass points: the north and east faces overlook the town of Zermatt; the south face overlooks the resort town of Breuil-Cervinia; and the west face looks towards the mountain of Dent d'Hérens, which straddles the border. The north and south faces meet at the summit to form a short east-west ridge. The Matterhorn's faces are steep, and only small patches of snow and ice cling to them; regular avalanches send the snow down to accumulate on the glaciers at the base of each face, the largest of which is the Zmutt Glacier to the west. The 4478 m high mountain can be climbed by experienced mountaineers. The usual pattern of ascent is to take the Schwarzsee cable car up from Zermatt, hike up to the Hörnli Hut elev. 3,260 m (10,700&nbsp;ft), a large stone building at the base of the main ridge, and spend the night. The next day, climbers rise at 03:30 to reach the summit and descend before the regular afternoon clouds and storms come in. The cost is approx. Fr.&nbsp;1200 with a [http://www.alpincenter-zermatt.ch/cms/output.php?id=49&cat_id=3 mountain guide from Zermatt]{{Dead link|date=December 2024 |bot=InternetArchiveBot }}
+}}
+* {{do|name=Monte Rosa|alt=Dufourspitze
+|wikidata=Q3403
+|content=The 4634 m high culminating point of Switzerland. The starting point is Monte Rosa hut at 2795m. The climb requires excellent physical condition, experience in climbing with crampons and prior acclimatisation to the altitude. The cost is approx. Fr.&nbsp;700 with a [http://www.alpincenter-zermatt.ch/cms/output.php?id=50&detail_id=28&cat_id=2&cat_id2=11&currency=Fr.&nbsp; guide from Zermatt]{{Dead link|date=January 2025 |bot=InternetArchiveBot }}
+}}
+
+===Skiing===
+
+* {{do
+| name= Breuil-Cervinia Valtournenche Zermatt ski area | alt=200 km in winter, 26.5 km in summer, 53 lifts | url= https://www.matterhornparadise.ch/| email=
+| address= | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=Day pass Fr.&nbsp;79/40 for Zermatt only, Fr.&nbsp;92/46 including Italy in winter, Fr.&nbsp;66/33 in spring  and Fr.&nbsp;84/42 in summer
+| lastedit=2017-07-28
+| content= Zermatt has a huge ski area, which connects to the Italian ski resort of Cervinia. A part of the ski area is on the Theodul glacier and the highest point is at the Klein Matterhorn at 3880 metres altitude. There are two cablecars, a funicular as well as the Gornergrat railway which give access to the ski area:
+}}
+** {{Marker|type=do |lat=46.0145 |long=7.7428  |name= Klein Matterhorn area}}. This is the access to the biggest part of the ski area. There are two parallel cable cars leading up to Furi from where you can pick your onward destination. If you want to access the Italian area, the fastest way goes by this route.
+** A rack railway leads up to the {{Marker|type=do |lat=46.0237 |long=7.7492  |name= Gornergrat area}}, another rather small skiing area.
+** The {{Marker|type=do |lat=46.02246 |long=7.75181  |name= Sunnega-Rothorn area}} is an almost totally separated area which can be accessed via a funicular.
+
+===Cycling and mountain-biking===
+Zermatt is a great place to mountain bike although it doesn't appear to have really become popular there yet. Bikes can be hired from several shops around Zermatt from about Fr.&nbsp;38 for a hard tail and Fr.&nbsp;50 for a full suspension per day. Downhill rigs are Fr.&nbsp;100 per day and helmets are included.
+
+For bike hire, search for Bayardzermatt or Salom sport, Bayards is closer to the train station but you can get a mountain bike guide from salom sport for Fr.&nbsp;180 in the afternoon or Fr.&nbsp;240 in the morning and Fr.&nbsp;350 for a full day.
+
+Mountain Bike route and much more can be found at [http://www.zermatt.ch/en/page.cfm/experience/summer_activities/mountainbike].
+The routes on this website can also be download to GPS or printed.
+
+There is also the Bike school Zermatt, which is eager to give all interested bikers the best possible experience in the alpine environment around Zermatt. All ages and levels will find adapted programs, which will make your stay unforgettable, from playful skill training schemes for kids to epic freeride tours in alpine surroundings. See more infos at www.bikeschulezermatt.ch.
+
+If you plan on cycling through town, take note that the main street (Bahnhofstrasse) is closed to bicycles(unless pushed) from the train station to the church for most of the afternoon, and the police are quick to fine anyone who does so anyway.
+
+[[Image:Zermatt view of the matterhorn-1-.jpg|thumb|250px|View of the Matterhorn from town during the summer]]
+Mountain bikes may be carried on most of the ski lifts that are open in the summer although you will be charged extra. Lift passes that are valid for more than 3 days appear to include bike transport as standard although you can pay for individual journeys if you wish. Note that the Gornegrat train is not included in some summer lift passes.
+
+You can also buy area passes on a daily basis that include the lifts on one particular peak (either Rothorn or Schwarzsee). These passes are available in mountain bike versions for not much extra.
+
+The following lifts should allow your bikes:
+
+* '''Zermatt - Sunnegga''' (funicular)
+** You can wheel your bike through the tunnel to the bottom of the funicular and then place it in the bottom compartment on the train. You will have to carry it up about 8 steps at this stage. At the top of the mountain don't follow the crowd up the steps to the exit - there is a lower exit that you can wheel your bike straight out of and onto a slightly lower path. Alternatively get in the elevator lift located here and it will take you up the 15 metres (50&nbsp;ft) or so to the top exit.
+* '''Sunnegga - Blauherd''' (cable car)
+** When you arrive at the ticket barrier the attendant should notice you and take your bike around the barrier. Since they don't fit in the cabins your bike(s) will be carried in an open cargo cable car. You will have to wait for it to appear on the cable but this shouldn't take more than a few minutes. The attendant then loads your bikes in and fastens them down whilst you get in a standard cabin. They then radio the top station who unload them for you on arrival.
+* '''Blauherd - Rothorn''' (Telecabin)
+** The top stage of the Rothorn route is one of the huge telecabins that carry 150 people at a time. In summer you can just wheel your bikes in and out again at the top.
+* '''Gornergrat''' (Mountain railway)
+** Bikes can be carried on the Gornergrat railway right to the summit. There are special cars where you can hang up your bike vertically.
+* '''Schwarzsee lifts'''
+** A biking lift pass is available and a number of routes are marked down the mountain from this area.
+
+The tourist information centre next to the Zermatt train station sell a mountain biking map for Fr. 2 which includes a number of routes down from the various peaks. The map states that Zermatt's cycling policy is that any track wider than 2 metres (6.5&nbsp;ft) is a valid cycling route. There are numerous roads that run down and around the mountains in the summer that carry cyclists in safety. Remember that Zermatt is generally car free so you will only rarely see a powered vehicle.
+
+The Rothorn area is particularly good and suitable for all cyclists regardless of fitness or skill level. It is possible to cycle down from the summit following a wide but occasionally steep and rocky path down the back of the mountain that brings you back to the Blauhard lift station. From there you can follow the quiet mountain road routes all the way down to Zermatt. There are some excellent cross mountain routes that present you with stunning views and take you over to Gournergrat near Rifflealp. Unfortunately there is no cycling route down on the official map from that point so you can either get on the Gournergrat train or turn around and come back down to a lower point on the Rothorn.
+
+The restaurant at Fluhalp is a pleasant first ride from the Blauhard lift station and a good way of familiarising yourself with a hire bike.
+
+Make sure that you take some good quality cycling gloves since you can expect significant vibration from cycling along rocky tracks!
+
+==Eat==
+*{{eat
+| name=Restaurant du pont | alt= | url=http://www.dupont-zermatt.com | email=
+| address=Oberdorfstrasse 7 | lat=46.0191181 | long=7.7457478 | directions=near the Zermatterhof
+| phone=+41 27 967 4343 | tollfree= | fax=
+| hours= | price=
+| lastedit=2015-08-17
+| content=Restaurant which offers very good traditional Swiss dishes like fondue or raclette. Does not accept debit or credit cards.
+}}
+* {{eat
+| name=Manud | alt= | url=https://manud.ch | email=info@manud.ch
+| address=Hofmattstrasse 4, 3920 Zermatt | lat= | long= | directions=
+| phone=+41 279672020 | tollfree=
+| hours= | price=Fr. 25
+| lastedit=2024-09-16
+| content=Mix of Swiss and Asian food. Many vegetarian, vegan, and gluten free choices
+}}
+
+==Drink==
+
+==Sleep==
+For a tiny hamlet, Zermatt has more hotels than most big cities. There are 126 hotels and over 2700 apartments to rent for holidays. However, hotels and apartments can be sold out months, or even a full year before the major holidays. If you want a reasonably priced room, consider booking many months before your stay.
+
+There are other options. You can camp, or as throughout Europe vacation apartments are the rage. Timeshares are another option:  if you know you want to ski one week per year, maybe go in with a friend or two on a property. Foreigners are allowed to buy up to a certain square meterage in Switzerland, and you are free to lease, rent, or otherwise assign the property any way you like, barring industrial use.
+
+===Camping===
+If you're on a budget, try camping there is a camping area open in Zermatt during the summer months.  It's to the left of the train station's main exit.  Follow the street for a couple of hundred metres.
+
+The campsite in Täsch is only about 100 metres (330 ft) from the train station and works out at about Fr.&nbsp;20 a night for 2 people sharing a small tent without a car.
+
+Stove fuels are quite hard to find although you can buy them in some of the outdoor shops in Zermatt. You are unlikely to find any in Täsch. MSR butane/propane canisters and Coleman's liquid fuel are definitely available if you hunt around. You can also buy fondue fuel (usually meths) which will work well in Trangia stoves.
+
+===Budget===
+Despite the great number of hotels, pensions, and vacation apartments in Zermatt, few can be considered "budget".
+
+* {{sleep
+| name=Hotel Bahnhof | alt= | url=https://hotelbahnhofzermatt.com/ | email=welcome@hotelbahnhofzermatt.com
+| address=Bahnhofplatz 54 | lat=46.0245 | long=7.7488 | directions=
+| phone=+41 27 967 24 06 | tollfree= | fax=
+| checkin=08:00&ndash;11:00 | checkout=14:00&ndash;19:00 | price=Dorm Fr.&nbsp;36, rooms from Fr.&nbsp;55/95
+| lastedit=2020-01-02
+| content=Simple accommodation opposite the station. There are rooms with and without bathrooms.
+}}
+* {{sleep
+| name=Matterhorn Hostel | alt= | url=http://www.matterhornhostel.com/ | email=
+| address=Schluhmattstrasse 32 | lat=46.01710 | long=7.74521 | directions=
+| phone= | tollfree= | fax=
+| price=Dorm accommodation for Fr.&nbsp;33, or Fr.&nbsp;29 for stays of 3 nights and longer | checkin= | checkout=
+| content=
+}}
+
+If extensive hiking is in your plans, mountain huts may be an option.
+
+Near the base of the Matterhorn, the SAC-operated [http://schoenbielhuette.ch/ Schönbielhütte] offers dormitory lodging for Fr.&nbsp;80. SAC members are accommodated first and enjoy cheaper rates. Schönbielhütte is a 4-hour hike from Zermatt via Zmutt, but consider the more scenic 6 hour route via Pension Edelweiss, Hotel du Trift, and Höhbalmen.
+
+Near Rothorn, the [http://www.fluhalp-zermatt.ch/ Fluhalp Restaurant] offers dorm accommodation for Fr.&nbsp;29 or doubles for Fr.&nbsp;86. Fluhalp is accessible on foot (3 hours from Zermatt via Winkelmatten) or by funicular or cable car (Zermatt-Sunnega-Blauhard, then 45 min walk).
+
+The mountain hut {{marker|type=sleep|name=Regina Margherita|wikidata=Q373275}} is located at the top of a 4554m mountain, making it the highest-placed building in Europe. It provides around 100 places to sleep and basic amenities including food.
+
+If you are planning to ski in Zermatt, consider staying on the [[Aosta Valley|Italian side]]. Lodging there is much cheaper compared to Zermatt, and you can still easily access the Zermatt Ski Resort, but you will need a more expensive ski pass to cover access to the two regions.
+
+===Mid-range===
+* {{sleep |name=Hotel Allalin |alt= |address= Kirchstrasse 40 |directions= |phone= |fax= |email= |url= |hours= |price= | lat=46.01904 | long=7.74756 |content=A beautiful hotel that is in the centre of the action in Zermatt. The hotel features incredible woodwork a friendly and accommodating staff and some rooms feature views of the Matterhorn.}}
+* {{sleep
+| name=Walliserhof | url=http://www.walliserhof-zermatt.ch/ | email=walliserhof.zermatt@reconline.ch
+| address=Bahnhofstrasse0 | lat=46.02201 | long=7.74700 | directions=
+| phone= | fax=+41 27 966 65 50
+| checkin= | checkout= | price=Double from Fr.&nbsp;350
+| wikidata=
+| content=The four-star hotel built in typical Valaisan chalet style is on the main street, 300m from the train station.
+}}
+* {{sleep |name=Alpenroyal |alt= |url=http://www.alpenroyal.ch |email=info@alpenroyal.ch |address= |lat=46.02146 | long=7.75276 |directions= |phone= |tollfree=|fax=+41 27 966 60 54 |checkin=|checkout=|price= Single room from Fr.&nbsp;180, two-person room from Fr.&nbsp;239 (low season 2009)|lastedit=2017-01-18|hours= |content=Three-star hotel 300m away from the train station and the city centre. }}
+* {{sleep |name=Schönegg |alt= |url=http://www.schonegg.ch |email=info@schonegg.ch |address= |lat=46.02172 | long=7.75263 |directions= |phone= |tollfree=|fax=+41 27 966 34 35 |checkin=|checkout=|price= Single room from Fr.&nbsp;180, Two-person room from Fr.&nbsp;239 (low season 2009)|lastedit=2017-01-18|hours= |content=Four-star superior hotel 300m away from the train station and the city centre. }}
+
+===Splurge===
+
+* {{sleep |name=Mont Cervin |alt= |address= |directions= |phone= |fax= |email= |url= |hours= |price= |lat=46.02106 | long=7.74728 |content=The Mont Cervin has the advantage of being part of a hotel chain, and guests can eat in other chain-owned Zermatt hotels in their 'dine around' program, including the Riffelalp on the Gornergrat glacier.}}
+* {{sleep
+| name=The Omnia | alt= | url=http://www.the-omnia.com | email=info@the-omnia.com
+| address=Auf dem Fels | lat=46.02045 | long=7.74532 | directions=head toward the church from the train station and take a right just before the library
+| phone=+41 27 966 71 71 | tollfree= | fax=
+| price= | checkin= | checkout=
+| content=A modern interpretation of the Swiss Alpine lodge, this hotel has a chic feel to it without being pretentious. Be sure to experience the indoor/outdoor swimming pool and outdoor hot tub, which has an amazing view of the Matterhorn. The mattresses are Tempur-Pedic, which some people find difficult to adjust to.
+}}
+* {{sleep
+| name=Zermatterhof | url=http://zermatterhof.ch | email=info@zermatterhof.ch
+| address=Bahnhofstrasse 55 | lat=46.02013 | long=7.74692 | directions=
+| phone=+41 27 966 66 00 | fax=
+| checkin= | checkout= | price=
+| wikidata=
+| content=Considered to be one of the best hotels in town. While expensive, you get what you pay for, and it includes everything from a horse drawn carriage ride to the hotel from the train station, as well as a ski storage room complete with ski technician during the winter season.
+}}
+
+==Nearby==
+===Täsch===
+
+{{Marker|type=city |lat=46.0676 |long=7.7758 |name=Täsch|wikidata=Q69305}} a village down the valley from Zermatt. Whether you arrive by train or car, you'll have passed through here. This is also where the car terminal for Zermatt lies. Shuttle trains from Zermatt leave every 20 minutes throughout the day and the trip takes 10 minutes for Fr.&nbsp;8.60.
+
+Täsch offers beautiful cross-country skiing trails from difficult to easy. If you don't have your own cross-country skis, there is a shop in the village right by the train terminal that rents equipment.  A day pass is quite cheap costing only Fr.&nbsp;6. which can be purchased at the train terminal (window 1) or in the ski-rental shop.
+
+==Go next==
+* Go to nearby [[Saas-Fee]] for a quieter alternative of Zermatt: Similar panorama and ski offer, car-free as well, but with half the people.
+* Visit the [[Swiss Alps Jungfrau-Aletsch]] UNESCO world heritage site with the majestic Aletsch glacier.
+* Take the train to [[Brig]], to visit the closest thing to a city nearby.
+* Take the Glacier Express to [[Andermatt]], or if you don't mind sitting on the train for a whole day, all the way to [[St. Moritz]].
+* Travel on to Italy and visit [[Domodossola]], the closest town after the border.
+
+{{routebox
+
+| placename=Zermatt
+| image1=Glacier_Express.png
+| imagesize1=100
+| directionl1=St. Moritz
+| majorl1=[[Chur]]
+| minorl1= [[Brig]]
+| directionr1=Zermatt
+| majorr1=END
+| minorr1=
+| link1=
+| caption1=
+
+| image2=Regio.png
+| imagesize2=20
+| directionl2=Göschenen
+| majorl2=[[Brig]]
+| minorl2=[[Visp]]
+| directionr2=Zermatt
+| majorr2=END
+| minorr2=
+| link2=
+| caption6=
+}}
+
+{{usablecity}}
+{{isPartOf|Valais}}
+{{Geo|46.016667|7.75}}

@@ -174,26 +174,27 @@ def get_destination_summary(parsed: dict[str, Any]) -> str:
     Prefer the LLM-enriched description over raw Wikivoyage lead text.
     The raw lead is only used as a fallback when enrichment is unavailable.
     """
+
     for key in ("description", "summary", "lead"):
         text = coerce_text(parsed.get(key))
         if text:
-            sentences = re.split(r"(?<=[.!?])\s+", text)
-            for sentence in sentences:
-                cleaned = sentence.strip().rstrip(". ")
-                if cleaned and len(cleaned) > 20:
-                    return cleaned[:600]
             return text[:600]
 
     sections = parsed.get("sections")
+
     if isinstance(sections, dict):
-        for key in ("understand", "get in", "see", "do", "eat", "drink", "sleep", "history"):
+        for key in (
+            "understand",
+            "get in",
+            "see",
+            "do",
+            "eat",
+            "drink",
+            "sleep",
+            "history",
+        ):
             text = coerce_text(sections.get(key))
             if text:
-                sentences = re.split(r"(?<=[.!?])\s+", text)
-                for sentence in sentences:
-                    cleaned = sentence.strip().rstrip(". ")
-                    if cleaned and len(cleaned) > 20:
-                        return cleaned[:600]
                 return text[:600]
 
     return ""

@@ -1,0 +1,449 @@
+{{pagebanner|Wellington Lagoon from City to Sea Bridge banner.jpg}}
+{{otheruses}}
+{{printDistricts}}
+'''Wellington''' ([[Maori phrasebook|Māori]]: ''Te Whanganui-a-Tara'') is the capital and second largest urban area of [[New Zealand]]. It is also the world's southernmost capital city of a UN member state.
+[[File:Wellingtonbysteffen.JPG|thumb|300px|Wellington's central business district viewed from Mount Victoria]]
+The ''Windy City'' is on the foreshore of Wellington Harbour and ringed by hills, providing the scenic home of many of New Zealand's national arts and cultural attractions.
+
+==Districts==
+{{Mapframe|-41.2|174.9|height=450|width=400|zoom=10}}
+{{Mapshape|type=geoshape|wikidata=Q47037646|fill=#dcb8b8|title=Wellington City}} <!-- Wellington City-->
+{{Mapshape|type=geoshape|wikidata=Q94169870|fill=#bfd2dd|title=Porirua}} <!-- Porirua-->
+{{Mapshape|type=geoshape|wikidata=Q32249141|fill=#f8e3ac|title=Lower Hutt}} <!-- Lower Hutt-->
+{{Mapshape|type=geoshape|wikidata=Q49109787|fill=#c0dcb8|title=Upper Hutt}} <!-- Upper Hutt-->
+The Wellington urban area is divided between four city councils – Wellington, Porirua, Lower Hutt and Upper Hutt. Above the city councils is the Greater Wellington Regional Council, which covers the entire Greater Wellington region (i.e.  Wellington, the [[Kapiti Coast]] and [[Wairarapa]]) and is responsible for most of the shared services across the urban area. Proposals for a large "super-city" as was established in Auckland in 2010 have been put forward, but none have come to fruition due to local opposition.
+{{Regionlist
+| regionmap=
+| regionmaptext=
+| regionmapsize=
+
+| region1name=[[Wellington/City|Wellington City]]
+| region1color=#dcb8b8
+| region1items=
+| region1description=
+
+| region2name=[[Wellington/Porirua|Porirua]]
+| region2color=#bfd2dd
+| region2items=
+| region2description=
+
+| region3name=[[Wellington/Lower Hutt|Lower Hutt]]
+| region3color=#f8e3ac
+| region3items=
+| region3description=
+
+| region4name=[[Wellington/Upper Hutt|Upper Hutt]]
+| region4color=#c0dcb8
+| region4items=
+| region4description=
+}}
+
+==Understand==
+Wellington is home to 433,900 people, making it New Zealand's second-largest urban area, well behind [[Auckland]] and just ahead of [[Christchurch]]. Wellington became New Zealand's capital city in 1865, replacing Auckland; the government wanted a more centrally-located city as capital to quell the South Island nationalist movement.
+
+Wellington offers a blend of culture, heritage, fine food and coffee, together with lively arts and entertainment.
+
+Surrounded by hills and a rugged coastline, the city has a stunning harbour. Wellington’s charm is that it serves up a vibrant inner city experience with a slice of New Zealand scenery. And because of its compact nature, you can sample it all: boutiques, art galleries, trendy cafés and restaurants. Right on its doorstep is a network of walking and biking trails with beautiful wineries and vineyards just a few hours away.
+
+Wellington offers an array of theatre, music, dance, fine arts and galleries and museums. It is also home to one of the nation’s key attractions, the Museum of New Zealand Te Papa Tongarewa.
+
+The city promotes itself as "Absolutely Positively Wellington". Its motto ''Suprema a situ'' claims site supremacy, with some justification.
+
+* {{listing
+| name=Wellington Visitor Information Centre | alt=iSITE | url=https://www.wellingtonnz.com/ | email=
+| address=50 Cable Street | lat=-41.29135 | long=174.78126 | directions=Inside the Tākina Events and Convention Centre
+| phone=+64 4 802-4860 | tollfree=0800 933 5363
+| hours= | price=
+| lastedit=2025-08-12
+| content=A good place to begin your Wellington visit - they're able to book accommodation, activities and provide useful information about Wellington and surrounding areas. Their website contains the same information and is worth checking out prior to your visit. They are a member of the national [http://www.newzealand.com/travel/i-sites/i-sites_home.cfm i-SITE visitor information centre network].
+}}
+
+===Geology===
+Much of the central city is built on land that was raised up after a major earthquake in 1855. More land has been reclaimed since then. The shoreline as it was in 1840 is marked by plaques in the footpaths on Lambton Quay (hence the street name). There are several "quays" which are now nowhere near the harbour. The harbour's former name was 'Port Nicholson' and the smaller bay surrounded by the city is called 'Wellington' or 'Lambton Harbour'.
+
+''Earthquakes'' have played a major part in forming the whole Wellington region. Several earthquake fault lines run through the Wellington region, including the Wellington Fault, which runs west of the city centre along Glenmore Street and Tinakori Road to the Aotea Quay motorway interchange and then up the western Hutt Valley. Building regulations have meant that many older city buildings have been either demolished or strengthened, or require such work to be undertaken. Small and moderate earthquakes occasionally rock Wellington; so if the earth seems to move for you, it may not be just your imagination. Stay indoors until a "warden" or similar authority advises evacuation (unless you are in imminent danger, e.g. from a fire), and take shelter from potentially falling objects wherever you are.
+
+There are some places in Wellington where damage from the 1855 earthquake is still visible. The most accessible is a large landslip on State Highway 2 between Ngauranga and Korokoro (just north of Rocky Point where the BP petrol station is located) where the dramatic change in terrain is visible. Bush has overgrown the slip but it is visible. However, most people are oblivious to the location of landslip as they drive by on the highway.
+
+===Climate===
+{{climate chart
+|Wellington
+|14.6 |21.0 |60.0
+|14.8 |21.2 |60.4
+|13.5 |19.7 |66.0
+|11.7 |17.3 |79.8
+|10.1 |15.4 |88.4
+|8.0 |13.2 |102.6
+|7.1 |12.5 |109.7
+|7.6 |13.0 |94.1
+|8.9 |14.4 |79.9
+|10.1 |15.8 |90.9
+|11.4 |17.4 |74.7
+|13.5 |19.6 |67.1
+
+|float=right
+|clear=right
+| description = Source: NIWA
+}}
+
+The city is known as "Windy Wellington" - often said to be the world's windiest city, with an average wind speed of 27 km/h. The prevailing wind is from the northwest but the strongest winds are southerly. The wind speed and direction can be seen by the flag being flown from ''the Beehive''; a large flag is flown only on calm days, a small flag is flown when windy days are expected. The highest wind speed ever recorded in Wellington was ''275&nbsp;km/h'' (170&nbsp;mph) during the Wahine storm of 10 April 1968 (so called because it blew the interisland steamer ferry ''Wahine'' into the reef at the entrance of Wellington Harbour, causing her to founder and claim 53 lives.)
+
+The temperature in Wellington rarely drops to 0°C (32°F), even on cold winter nights, while daytime winter temperatures are rarely lower than 8°C (46°F). During summer, the daytime maximum temperature averages around {{c|20}} and rarely gets above {{c|24}}. Overnight lows in the summer average around {{c|15}} and rarely are over {{c|18}}. Away from the seaside, in inland valleys, frosts of up to -10°C (14°F) have been recorded. Snow falls on the nearby ranges during winter, but is rare in the urban area. Sunrise in the winter is not until 7:45AM, with darkness falling just before 5PM; in the summer months, the sun is up from 5:45AM to 8:45PM.
+
+===Geography===
+Wellington sits at the southern tip of New Zealand's North Island. The city core lies along the western shore of highly protected Wellington Harbour, with the city's suburbs spreading out in all directions. The city's primary urban core consists of the <abbr title="Central Business District">CBD</abbr> and the adjoining 'city suburb' of Te Aro, to the south and east. A fairly dense zone continues south from Te Aro into the adjoining suburbs of Mt Cook and Newtown, as well as Kilbirnie on the other side of the parklands of Mt Victoria.
+
+East from Te Aro, north-south-running ridgelines form Mt. Victoria and, further east yet, the Miramar Peninsula, which forms the western side of the mouth to Wellington Harbour. These hills&mdash;and the isthmus between&mdash;are home to a number of suburban areas as well as parkland and beaches.
+
+Several kilometres south of central Wellington is the rugged and stunning ''South Coast'' of the North Island, consisting of a string of small (and some large) bays, many with rocky beaches and interesting tide pools.
+
+To the west, the suburbs between Karori and Johnsonville spread into the hillsides, with various parks and hiking trails, and then give way to open rural areas such as Makara.
+
+===Holidays===
+Aside from the national public holidays, Wellington has its own public holiday, '''Wellington Anniversary Day'''. Commemorating the arrival of Wellington's first European settlers aboard the ''Aurora'' on 22 January 1840, it is observed across most of the Greater Wellington and Manawatu-Wanganui region on the Monday closest to 22 January.
+
+==Get in==
+===By plane===
+{{marker|type=go|name=Wellington International Airport|url= https://www.wellingtonairport.co.nz/|lat=-41.328|long=174.807}} ({{IATA|WLG}}) is in Rongotai, about 5&nbsp;km (3&nbsp;mi) southeast from the central city. It sits on an isthmus between the Miramar Peninsula and Mount Victoria.  The southerly approach is over Cook Strait, while the northerly approach is over the harbour.
+
+Wellington Airport is a major transit point for domestic travellers. There are frequent flights from [[Auckland]], [[Christchurch]], [[Palmerston North]], [[Rotorua]], [[Hamilton (New Zealand)|Hamilton]], [[Nelson (New Zealand)|Nelson]], [[Blenheim (New Zealand)|Blenheim]] and many other destinations.  International flights from [[Australia]] ([[Sydney]], [[Melbourne]], [[Brisbane]]) arrive about twice daily: the evening flights arrive after midnight when most facilities are closed. There are also flights from Fiji, Canberra, the Gold Coast and the [[Chatham Islands]]. There is a single terminal building, for both domestic and international.
+
+[[File:Cessna 172 flipped over, Wellington Airport.jpg|thumb|Just another windy day at the office for Wellington Airport emergency crews.]]
+Landing at Wellington Airport in a strong wind can be an adventure, and most pilots adopt a powered approach, followed by a full reverse thrust and hard braked landing due to the shortness of the runway (2,081&nbsp;m). This tends to create a roller-coaster ride, so make sure your seatbelt is securely fastened and all loose items are stowed before landing. Many locals swap stories of approaches with large dips, shudders, bumps, sudden sideways movement, followed by the plane going around for a second (and even sometimes a third) attempt to land. While there has been the odd Cessna landing on its roof, no large passenger plane has ever had a serious accident in Wellington.
+
+Public transport is available via the Airport Express bus service adjacent to the arrivals hall, which is an express bus service to the CBD and costs $8.95 with your Snapper card (see below). A cheaper alternative is the Metlink Route 2 bus runs to the CBD from Hobart Street, which is a 700-metre walk from the airport, costing about $4. Exit from Door E and follow the signs.
+
+When you get to the airport, you can call the Metlink hotline at 0800 801700 for info. A friendly person will answer very quickly. If you say where you are going, they will tell you what bus to take and even what special pass to buy (for example, if you are catching a train after getting off the bus).
+
+If you are travelling in a group, it will be more cost effective to use a ride-sharing service. Uber to CBD will cost around $20. Turn right when exiting the terminal and follow signs to the "App-based Pickup Zone".
+
+Shuttle van services, taxis and covered car parking are directly outside the terminal.
+
+===By boat===
+{{seealso|Cook Strait ferries}}
+There are regular ferries between Wellington and [[Picton (New Zealand)|Picton]] in the [[South Island]] operated by [https://www.interislander.co.nz/ Interislander] and [http://www.bluebridge.co.nz Bluebridge], connecting with buses and the train to Christchurch. The Bluebridge terminal is next to the railway station. The Interislander terminal is about 2&nbsp;km (1&nbsp;mi) northeast of the railway station, and a $2 shuttle bus runs between it and the station (bus terminal next to Platform 9). Some cruise ships from overseas stop in Wellington.
+
+===By road===
+Wellington sits at the southern tip of the North Island and is accessed from the north via two State Highways: State Highway 1 and State Highway 2. From most destinations in the North Island, you'll follow State Highway 1 south of [[Levin]] through to [[Ōtaki]], where you join the expressway through the [[Kapiti Coast]] and onto the motorway into Wellington. From the [[Hawke's Bay]] and the [[Wairarapa]], you'll follow State Highway 2 over the Remutaka Hill Road, which winds its way over the Remutaka Ranges and may occasionally close due to high winds or snow during winter, and through [[Upper Hutt]] and [[Lower Hutt]]. The two routes meet at the Ngauranga Interchange, on the harbour shoreline 5&nbsp;km north of the city centre.
+
+Hitchhiking from central Wellington is difficult as most traffic stays within the metropolitan area, and it is illegal to hitchhike on the motorway until the Hutt Valley (about 15&nbsp;km or 9&nbsp;mi northeast of Wellington) or Ōtaki (about 65&nbsp;km or 40&nbsp;mi north). If you are intending to hitchhike, you are best to catch a train to Waikanae or Upper Hutt and walk to the main highways to catch a lift from there (the best spot for Upper Hutt hitchhikers is at the Caltex petrol station about a 3&nbsp;km walk north from the railway station along Fergusson Drive). Using a sign will help in finding a willing driver going your way.
+
+Approximate distances and non-stop travel times to the Wellington city centre:
+*[[Auckland]] – 640&nbsp;km, 8 hours
+*[[Hamilton (New Zealand)|Hamilton]] – 520&nbsp;km, 6½ hours
+*[[Rotorua]] – 460&nbsp;km, 6 hours
+*[[New Plymouth]] – 360&nbsp;km, 5 hours
+*[[Napier]]/[[Hastings (New Zealand)|Hastings]] – 310&nbsp;km, 4½ hours
+*[[Palmerston North]] – 140&nbsp;km, 2 hours
+*[[Masterton]] – 100&nbsp;km, 1½ hours
+
+===By train===
+''There is an article on [[Rail travel in New Zealand]]''.
+
+The [https://www.greatjourneysofnz.co.nz/northern-explorer/ Northern Explorer] train service runs between Wellington and Auckland, with departures from Auckland on Monday, Thursday, and Saturday and departures from Wellington on Tuesday, Friday, and Sunday. There is a once-per-day commuter service from [[Palmerston North]], and a service from [[Masterton]] and the Wairarapa which operates several times daily.
+
+===By bus===
+National bus carrier [https://www.intercity.co.nz InterCity Coachlines] operates bus services to Wellington from across the North Island. Daily services operate between Auckland, [[New Plymouth]], [[Napier]], [[Hastings (New Zealand)|Hastings]] and Palmerston North. All InterCity Wellington services depart and arrive at Platform 9 at the Wellington Railway Station.
+
+==Get around==
+{{Mapframe|-41.2860|174.7787|zoom=14}}
+It's easy to get around the central city on foot, as it's very compact and pedestrian-friendly.
+
+Wellington has an extensive and well-patronised public transport network, with buses, trains and ferries serving the city and beyond extending into the Greater Wellington region. The network is coordinated by [https://www.metlink.org.nz/ Metlink], the public transport arm of the Greater Wellington Regional Council. Its website includes an interactive journal planner.
+
+* {{listing
+| name=Metlink service centre | alt= | url= | email=
+| address= | lat= | long= | directions=
+| phone= +64 4 801 7000 | tollfree= 0800 801 700 | fax=
+| hours= M-F 6AM-10PM, Sa 7AM-9PM, Su & holidays 8AM-8PM | price=
+| content=}}
+
+===Tickets and fares===
+Bus and train fares use a zone structure. For example, a single cash ticket for 1–3 zones costs $3, $4.5, and $6 respectively (May 2026). While there are 14 fare zones in total on the Metlink network, nearly all the Wellington urban area is covered by seven zones (there are two semi-rural suburbs of Upper Hutt in zone 8). Child tickets are available to those aged 5 to 15 and those 16 and over still at secondary school, while children under 5 travel free.
+
+Electronic ''Snapper'' fare cards can be used on all buses, and are available from most supermarkets and convenience stores. Alternatively, fares can be paid for using ''contactless credit or debit cards''. Both options offer a discount off the adult cash fare, with an additional discount on off-peak travel. Snapper cards can be topped up electronically at various agencies for a small fee. Remember to tag when you board the bus ''and'' as you leave the bus, or you will be charged for the whole route. 
+
+Trains also use Snapper and contactless payments.
+
+If you plan to use public transport extensively, you can buy a day pass which allows unlimited trips after 9AM on weekdays and all day weekends and holidays. Four Metlink Explorer day passes are available: zones 1 to 3 only (i.e.  Wellington City only) for $13, zones 1 to 7 for $18, zones 1 to 10 for $25, and all zones for $30 (Dec 2024).
+
+Special fares apply on some routes, including the Airport Express bus. On outbound Wairarapa trains (i.e., to [[Masterton]]), you will be charged for a fare to Maymorn station (zone 8) even if you disembark before then; this minimum fare does not apply in the inbound direction (i.e., to Wellington).
+
+===By bus===
+Wellington has an extensive network of buses. Excellent and free network maps and route timetables and maps are available from locations throughout town, including the main visitor centre in Civic Square, the Central Library, and many convenience stores. You can also access the timetables and maps [http://www.metlink.org.nz/ online]. While these maps can be quite useful if you desire to travel into the suburbs, they aren't generally necessary if you simply want to travel across the central city. Being a rather linear city, the heart of Wellington is heavily served by the central bus corridor between the Railway Station and Courtenay Place known as the "Golden Mile". Major bus routes run along most of the route length, so you rarely have to wait more than a few minutes to catch a ride.
+
+===By train===
+[[File:Tranz Metro network map.png|thumb|right|300px|Wellington rail network map]]
+Metlink's suburban rail network provides frequent electric trains connecting central Wellington with the northern suburbs of Wellington City, Porirua, Lower Hutt, Upper Hutt and the Kapiti Coast. On weekdays, services run every 20 minutes on the Hutt Valley and Kapiti lines, every 30 minutes on the Johnsonville line, and hourly on the Melling line. On weekends, the service on the Hutt Valley and Kapiti lines reduces to every 30 minutes and there are no services on the Melling line. Metlink also operates a diesel train service to Masterton in the Wairarapa several times daily.
+
+At Wellington station the destination and departure time of the next train departing from each platform is displayed on the message board at the entry to each platform. Two announcements are made a few minutes before each train is due to depart.
+
+Train fares can be paid for using Snapper cards or contactless credit or debit cards using the card readers installed on the platform at each station. By visiting a ticket agent or using the Snapper App you can load day passes or multi-trip tickets onto your card which offer discounts on single-trip fares. You can also buy single journey tickets and day passes, with cash, from the guard on board the train. Remember to tag on at your departure station and off at your arrival station. Snapper cards can be bought and topped up from the ticket agent at Wellington Station.
+
+===By foot===
+The core of Wellington is notably compact and vibrant, and is well-suited to exploration by walking. As dictated by geography, the core of the city is quite linear, with the classic commercial backbone known as the '''Golden Mile''' making for a diverting and pleasant walking route. This route runs from the Railway Station down '''Lambton Quay''' to its southern end at '''Willis Street'''. It then runs down lower Willis Street to '''Manners Street''', and continues straight onto '''Courtenay Place'''. On the Manners Street section, the route crosses Wellington's bohemian heartland of '''Cuba Street''', which heads south into the core of '''Te Aro'''. While these streets mark the traditional core of the commercial city, the surrounding blocks also have plenty to be seen.
+
+Another enjoyable and popular place to amble in the city core is the '''Waterfront''', from the revitalized '''Kumutoto''' area in the north, past '''Queen's Wharf''' to '''Frank Kitts Park''', and then through the '''Lagoon''' and '''City-to-Sea Bridge''' areas and on to the '''Te Papa''' museum and '''Waitangi Park'''. From here the waterfront curves northeastward along lovely '''Oriental Bay''' with its beach and promenade.
+
+===By cable car===
+[[File:WellingtonPanorama.jpg|frame|Panorama of Wellington]]
+The Kelburn cable car is a Wellington icon. It provides a regular service between Lambton Quay and Kelburn. The Wellington city terminal is at the end of '''Cable Car Lane''', just off Lambton Quay, near the intersection with Grey Street. The Kelburn terminal is at the end of Upland Road by an entrance to the Botanic Gardens.
+
+===By taxi===
+As in all New Zealand cities, taxi rates vary according to the company. There is a "flagfall" charge, then a per kilometre charge once the cab starts moving. Extra fees apply for things like airport pickup, phone booking, electronic payment etc. Major taxi companies in Wellington include Combined, Corporate, Green, and Kiwi. There are many other taxi companies and taxis are usually in plentiful supply.
+
+Check the door of the taxi before you get in for the current approved fare rates.
+
+* {{listing
+| name= Wellington Combined Taxis | alt= | url= http://www.taxis.co.nz/ | email=
+| address= | lat= | long= | directions=
+| phone=+64 4 384-4444 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{listing
+| name=Corporate Cabs | alt= | url=http://www.corporatecabs.co.nz/ | email=
+| address= | lat= | long= | directions=
+| phone=+64 4 387-4600 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{listing
+| name=Green Cabs | alt= | url=http://www.greencabs.co.nz/ | email=
+| address= | lat= | long= | directions=
+| phone=+64 4 801-5808 | tollfree=0508 447 336 | fax=
+| hours= | price=
+| content=
+}}
+* {{listing
+| name=Kiwi Cabs | alt= | url=http://www.kiwicabsltd.co.nz/ | email=
+| address= | lat= | long= | directions=
+| phone=+64 4 389-9999 | tollfree=0508 42 54 94  | fax=
+| hours= | price=
+| content=
+}}
+* {{listing
+| name=QuickCabs | alt= | url=https://quickcabs.co.nz/ | email=Bookings@quickCabs.co.nz
+| address= | lat= | long= | directions=
+| phone=+64 284309295 | tollfree=  | fax=
+| hours= | price=
+| content=
+|lastedit=2024-03-11}}
+
+Ridesharing services [https://www.uber.com/en-NZ/cities/wellington/ Uber] and [https://web.didiglobal.com/nz/ DiDi] are also available.
+
+===By car===
+Driving in the core of Wellington is generally not necessary or as convenient as walking. However, it's not particularly difficult once you learn the one-way system, nor is traffic a big worry outside of normal rush-hour periods.
+
+Street and garage/surface lot '''parking''' is not particularly difficult for a city of Wellington's density, but as with any city you may have to search a bit for a street spot. Street parking is generally metered in the centre at a rate of $4/hr (M-Th 8AM-6PM, F 8AM-8PM), often with a one or two-hour time limit. Multi-storey car parks tend to be similarly priced, but you can generally stay for longer periods.
+
+In the suburbs immediately surrounding the city, '''coupon parking''' zones exist in conjunction with Resident Only parking. In the Coupon Zones, two hours of parking are free. Beyond that you must display a coupon to allow you to park for the entire day. These are available at convenience stores for $5 each. The Coupon Zones are enforced 8AM-6PM. Resident Zones are generally reserved for residents (displaying a current permit) at all times, and you may be served with a ticket for parking there without a permit.
+
+On the weekend, metered car parking is free, with a two-hour time limit on both days.
+
+===By boat===
+The Eastbourne ferry service, which provides regular services between '''Queens Wharf''' and '''Days Bay''' in Eastbourne, also stops at '''Somes Island''' most trips.
+
+==See==
+
+===Political Wellington===
+[[File:Parliament House and the Beehive June 2012.JPG|thumb|The Beehive (at left) and Parliament House]]
+[[File:Govt buildings wellington.jpg|thumb|The Old Government Buildings, with the cenotaph in the foreground and ''NZ Post'' headquarters behind]]
+As the capital city, Wellington is the centre of New Zealand's government. [[Wellington/City#Political Wellington|Wellington/City]] is home to the residence of the Governor-General (the King's representative in New Zealand), offices of the New Zealand Government (executive), the New Zealand Parliament (legislative), the New Zealand Supreme Court and Court of Appeal (the country's highest and second-highest courts respectively) and the head offices of many Government departments. Most are within walking distance of Parliament, around the northern end of The Terrace and Lambton Quay areas and the Thorndon commercial area.
+
+===Museums and galleries===
+[[File:Te papa museum.jpg|thumb|The entrance to Te Papa]]
+
+[[Wellington/City#Museums and galleries|Wellington/City]] is home to many museums and galleries. The Museum of New Zealand Te Papa Tongarewa is New Zealand's national museum. It has interesting exhibitions on the country's history and culture.  The Wellington Museum is a well-presented museum of the history of the city, including its maritime history. The Carter Observatory offers a state-of-the-art planetarium show, along with multi-media exhibits show how early Māori, Polynesian and European settlers navigated their way to New Zealand. The National Tattoo Museum explains the history of tattooing in New Zealand and the Pacific, especially traditional Maori tattooing.
+
+Katherine Mansfield Birthplace and Nairn Street Cottage are preserved Victorian houses. The Cable Car Museum tells the history of this uphill transport. The City Gallery has changing modern art displays.
+
+===Landmarks===
+[[Wellington/City#Landmarks|Wellington/City]] is also home to other landmarks, such as Plimmer's Ark (the preserved remains of a wrecked ship), Turnbull House, Old St Paul's (a former cathedral), and the art deco National War Memorial.
+
+===Wellington/City===
+[[Wellington/City#Wellington/City|Wellington City]] is surrounded by hills, so there are a number of good vantage points. The Wellington Cable Car is the easiest way to get a nice view of the city and harbour. Mount Victoria is the best lookout in Wellington, with a  full 360-degree view of the airport, the harbour, the CBD and the Town Belt. Mount Kaukau ia a great lookout point, but not as close to the city as Mt Victoria. Wrights Hill has views, and World War II underground tunnels.
+
+===Other attractions===
+[[Wellington/City#Q913886|Zealandia]] provides a natural haven for endangered native birds, tuatara, wētā, and other indigenous flora and fauna, safe from introduced predators. By far the most convenient place in the country to see rare New Zealand wildlife.
+
+[[Wellington/Lower Hutt#Q1509894|Matiu/Somes Island]] sits in the middle of the harbour. It was a quarantine station for immigrants, and later for animals, then an internment camp during both world wars. 
+
+[[Wellington/City#Q1236009|Weta Workshop]] provides tours of the studio that made the hit movie trilogy [[Lord of the Rings tourism#Studios | ''Lord of the Rings'']].
+
+==Do==
+
+===Parks and gardens===
+The [[Wellington/City#Q2447822|Wellington Botanic Garden]] is a nice place to go for a picnic, or just an afternoon walk (or run for a challenging fitness experience). At the top of the Gardens, there are several attractions: the Cable Car Museum, the Lookout, and the Carter Observatory.  The [[Wellington/City#Q4940230|Bolton Street Memorial Park]] is a great place to meander through and check out the epitaphs of early pioneers and historical figures. [[Wellington/City#Q108672022|Frank Kitts Park]] on the waterfront
+is a great place to wander around, with walls to climb, inline skates, and jet ski rental.
+
+The [[Wellington/City#Q5631149|frigate ''Wellington'']] is probably the world's most accessible dive wreck, just a few kilometres around the coast from Wellington International Airport. 
+
+Take a ferry across the harbour. Go down to Queen's Wharf and check out the destinations and times.
+
+[[Wellington/City#Q15243986|Makara Peak Mountain Bike Park]] has 50 km of bike tracks through native Hush. 
+
+[[Wellington/City#Q17052319|Karori Cemetery]] is an interesting picnic spot.
+
+===Walks===
+[[Wellington/City#Walks|Wellington City]] has several interesting walks. The Art Deco Heritage Trail is a walk around central Wellington looking at the outside of 30 [[art deco]] buildings.  Pariwheo/Red Rocks is an interesting walk to a seal colony named for its distinctive red rocks. The Skyline Walkway is a 12-km (5- to 6-hr) challenging walk.
+
+Oriental Parade in Oriental Bay is Wellington's most beautiful street. Wellingtonians and visitors run, walk, cycle, rollerblade and eat at the great cafes & restaurants on this strip or sunbathe at the beach.
+
+==Buy==
+
+'''Old Bank Shopping Arcade''' in [[Wellington/City#Q7083422|Wellington City]] is a small upmarket arcade in the former Bank of New Zealand headquarters. Has an animated musical clock which performs on the hour, and a small display on the remains of a boat washed up here in 1855.
+
+'''Queensgate Shopping Centre''' in [[Wellington/Lower Hutt#Q7988732|Lower Hutt Central]] is the largest shopping mall in the Lower North Island.
+
+==Eat==
+{{eatpricerange|Under $15|$15-$30|Over $30}}
+[[File:CubaSt.JPG|thumb|Many restaurants, bars and cafés are located along, or near, Cuba Street.]]
+Wellington has a lot of restaurants and cafés, in fact more cafés, bars and restaurants per head than New York City. Malaysian food is surprisingly popular and available in most areas. You can also get good Turkish kebabs anywhere in the city, or Lebanese at the Phoenician Falafel on Kent Terrace (their kebabs are better than all the Turkish places too). Fish and chips is the best value food and you usually get better quality in the suburbs. The quality of pub fare is often decent to pretty good, but prices can range from relatively low to faint-inducing.
+
+Express 24-hour snack joints such as Night 'n Day and Fix are ''very'' prevalent in the CBD, serving lower quality snacks such as pies, noodles and confectionery for rock bottom prices. If you're in need of a good meal and you've got a low budget, there's nothing better.
+
+Uber Eats and Delivereasy are common to see in Wellington, especially around the CBD.
+
+==Drink==
+Wellington has a bustling nightlife, concentrated along '''Courtenay Place''', one of the major streets running from the CBD. It runs through Te Aro and ends in Mt Victoria. The nightlife causes this street to have the highest population density in all of New Zealand on Friday and Saturday nights. Wellington has a thriving craft beer scene and drinks are usually about $11-14 (in 2023). Entrance charges are either nonexistent or minimal. In some of the better clubs reasonable dress standards apply, however in the day the mood is usually extremely casual, with flip-flops (called '''Jandals''' in New Zealand) often accepted. '''Cuba Mall''' also features some cool and more alternative bars.
+
+Away from Courtenay Place in the CBD district (Lambton Quay) there are many after-work bars frequented by office workers, however this area becomes deserted in the later hours, and these establishments do not usually provide all-night partying.
+
+==Sleep==
+
+See listings in district articles. Most short-term accommodation is found in [[Wellington/City#Sleep|Wellington/City]].
+
+A better way to get to know more locals and experience some NZ culture (if that's what you are looking for) is a '''shared house''' (a "flat" in NZ English). These are an option for stays of a month in summer while students are away – usually flats are taken for the year or at least several months). Look for "Flatmates wanted" on Facebook Marketplace or on TradeMe (the local classifieds website).
+
+Flats are much cheaper and usually well furnished already by the other tenants in the communal rooms. You may need to provide your own bed (you could buy a cheap one second hand for the summer), or they might be able lend you one. All flatmates share the rent, bills and chores, and occasionally food, meals and even washing too. Some flats come fully furnished, but this is not the norm.  Rent is typically paid weekly instead of monthly and a bond of 2 to 4 weeks rent is normal.
+
+==Connect==
+[https://www.wcl.govt.nz/visit/locations/ Wellington City Libraries] have free wifi and computers. Te Matapihi ki te Ao Nui (Wellington Central Library) is located in Civic Square close to Willis Street and the Whairepo Lagoon and offers a spacious, relaxing place to sit in the heart of the city. Inside is a makerspace and a bookable recording studio. 
+
+==Stay safe==
+Wellington is reasonably safe at night, but common sense should prevail, especially on Friday and Saturday nights.
+
+Occasionally, tourists relax security in New Zealand, thinking that it is a crime-free paradise. While violent crime against tourists is very rare (and is usually followed up by public outrage against the offenders), opportunistic petty crime can still occur. Simple steps like locking valuables away and staying in well-lit areas at night usually prevent problems.
+
+Vehicle break-ins are common, especially in shopping malls and 'park and ride' type car parks. Thieves generally target older vehicles with less complicated locks. Removing all valuables and leaving the glove box open (to show that no valuables are hidden) will usually act as a deterrent. Police will normally give you a copy of their report for insurance purposes, but it is very unusual for any stolen property to be recovered and returned to its owner.
+
+Wellington has a homelessness problem, and wandering drunkards are not uncommon around town. Most will ignore you, but others may be aggressive.
+
+==Cope==
+
+===Embassies, High Commissions and consulates===
+Although there are 41 foreign missions in Wellington, some countries may have representatives in other cities such as [[Auckland#Consulates|Auckland]], [[Christchurch#Consulates|Christchurch]], [[Dunedin#Consulates|Dunedin]], [[Nelson (New Zealand)#Consulates|Nelson]] and [[Queenstown (New Zealand)#Consulates|Queenstown]]. In some cases the consular officials accredited to New Zealand from your country may actually be based in another country such as Australia or China! The New Zealand Ministry of Foreign Affairs and Trade (MFAT) maintains a [https://www.mfat.govt.nz/en/embassies/ useful list].<br />
+Details listed on Wikivoyage, such as telephone numbers and opening hours, are typically those of the consulate or consular section rather than for the embassy or High Commission itself.
+{|
+|-
+|
+* {{flag|Argentina}} {{listing
+| name=Argentina | url=http://www.enzel.mrecic.gov.ar/en | email=consul_enzel@mrecic.gov.ar
+| address=Level 14, Prime Finance Tower, 142 Lambton Quay | lat= | long= | directions=
+| phone=+64 4 472-8330 | tollfree= | fax=+64 4 472-8331
+| hours=M-F 9:30AM-1:30PM | price=
+| content=}}
+*{{flag|Australia}} {{listing
+| name=Australia | url= | email=nzinbox@dfat.gov.au
+| address=72-76 Hobson Street, Thorndon | lat= | long= | directions=
+| phone=+64 4 473-6411 | tollfree= | fax=+64 4 498-7103
+| hours=M-F 8:30AM-5PM | price=
+| content=}}
+*{{flag|Austria}} {{listing
+| name=Austria | alt= | url= | email=austria@vodafone.co.nz
+| address=75 Ghuznee St, Level 4 | lat= | long= | directions=
+| phone=+64 4 384-1402, +64 21 535 510 (Mobile) | tollfree= | fax=+64 4 384-3773
+| hours=Tu W 9:30AM-1PM | price=
+| content=Mr Peter J Diessl, is an Honorary Consul-General (Mrs Carolyn L Diessl assists) - the actual embassy is in [[Canberra]], Australia. Can issue emergency travel documents. This consulate deals with Gisborne, Hawke's Bay, Taranaki, Manawatu-Wanganui, Wellington, Marlborough and Nelson regions and there are others in Auckland and Christchurch.}}
+*{{flag|Bangladesh}} {{listing
+| name=Bangladesh | url= | email=tony.vanzijl@vuw.ac.nz
+| address=57 Upland Rd, Kelburn | lat= | long= | directions=
+| phone=+64 4 475-9667 | tollfree= | fax=
+| hours= | price=
+| content=Tony van Zijl, Honorary Consul.}}
+* {{flag|Chile}}{{listing
+| name=Chile | alt= | url= | email=
+| address=1 Willeston St. Pencarrow House | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+*{{flag|Egypt}} {{listing
+| name=Egypt | url=http://www.mfa.gov.eg/english/embassies/Egyptian_Embassy_Wellington/Pages/default.aspx | email=eg.emb_newzealand@mfa.gov.eg
+| address=5-7 Willeston St, (Level No. 10) | lat= | long= | directions=
+| phone=+64 4 472-4900 | tollfree= | fax=+64 4 472-4908
+| hours= | price=
+| content=}}
+*{{flag|Fiji}} {{listing
+| name=Fiji | url=http://www.fiji.org.nz/ | email=viti@paradise.net.nz
+| address=31 Pipitea Street, Thorndon | lat= | long= | directions=
+| phone=+64 4 473-5401, +61 4 473-5402 | tollfree= | fax=
+| hours=M-F 9AM-5PM | price=
+| content=}}
+* {{flag|Finland}} {{listing
+| name=Finland | url= | email=michael.scannell@simpsongrierson.com
+| address=HSBC Tower, Level 24, 195 Lambton Quay | lat= | long= | directions=
+| phone=+64 4 924-3416 | tollfree= | fax=+64 4 472-6986
+| hours=M-F 8:30AM-5PM | price=
+| content=Mr Michael Scannell, Honorary Consul-General, Mrs Mazz Scannell, Mr J. C. Macdonald, Honorary Vice-Consul.}}
+*{{flag|France}} {{listing
+| name=France | url= | email=ambassade@ambafrance-nz.org
+| address=34-42 Manners St | lat= | long= | directions=
+| phone=+64 4 802-7792 | tollfree= | fax=
+| hours=Consulate M-F 9AM-1PM | price=
+| content=}}
+* {{flag|Germany}} {{listing
+| name=Germany | url=http://www.wellington.diplo.de/Vertretung/wellington/en/02/Embassy__HptB.html | email=info@wellington.diplo.de
+| address=90-92 Hobson St, Thorndon | lat= | long= | directions=
+| phone=+64 4 473-6063 | tollfree= | fax=+64 4 473-6069
+| hours=M-F 8AM-noon or by appointment | price=
+| content=}}
+*{{flag|Greece}} {{listing
+| name=Greece | alt= | url=http://www.mfa.gr/australia/images/stories/canberra/docs/2016/ANNOUNCEMENT%20PASSPORTS%20ENGLISH.pdf | email=gremb.wel@mfa.gr
+| address=38-42 Waring Taylor, Petheric Tower | lat= | long= | directions=
+| phone=+64 4 473-7775 | tollfree= | fax=+64 4 473-7441
+| hours= | price=
+| content=Embassy closed - contact embassy in [[Canberra]] or consulate in [[Auckland]].
+}}
+* {{flag|Indonesia}}{{listing
+| name=Indonesia | alt= | url=https://www.kemlu.go.id/wellington/en/default.aspx | email=
+| address=70 Glen Road, Kelburn | lat= | long= | directions=
+| phone=+64 4 4758 697 | tollfree= | fax=
+| hours= | price=
+| content=
+}}
+* {{flag|South Korea}} {{listing
+| name=South Korea | url= | email=info-nz@mofa.go.kr
+| address=2 Hunter St, ASB Bank Tower | lat= | long= | directions=
+| phone= | tollfree= | fax=
+| hours= | price=
+| content=}}
+|}
+
+==Go next==
+===Greater Wellington region===
+The [[Greater Wellington]] region is far bigger than just Wellington City.  The old Wellington Province used to cover much of the southern half of the North Island, including the [[Manawatu]] and [[Wanganui]] regions.
+
+There are three other cities that are close enough to Wellington City that together they form a single metro – the Wellington metropolitan area. The cities are [[Porirua]], [[Lower Hutt]] (sometimes erroneously called "Hutt City", after its local council's preferred name) and [[Upper Hutt]]. The latter two cities may be referred to together as the [[Hutt Valley]].
+
+There are two other districts outside the Wellington metro that make up the Greater Wellington: the [[Kapiti Coast]] and [[Wairarapa]].
+
+There are a number of interesting sights and beaches in the Hutt Valley and Porirua. Plimmerton, for example, has seen future world windsurfing champions training, and Edmund Hillary practised rock-climbing at Titahi Bay before conquering Everest.
+
+The suburbs of Eastbourne and Days Bay are on the eastern side of Wellington Harbour. They can be reached by car, bus or ferry. There are a number of enjoyable hill walks in both [http://www.gw.govt.nz/Days-Bay-tracks/ Days Bay] and [http://www.gw.govt.nz/Eastbourne-tracks/ Eastbourne]. The [http://www.eastbywest.co.nz/ East By West ferry service] departs from Queens Wharf (Wellington) and travels to Days Bay Wharf, some services will stop on request at Somes Island (in the middle of the harbour). On weekends and public holidays the ferry also operates a harbour tour service which stops at Petone Wharf and Seatoun.
+
+The Kapiti Coast as referred to as 'The Nature Coast' is a beautiful mix of beaches and lush native scenery. Spend the day at the beaches, near a river, or taking a walk through one of the many beautiful trails surrounding the hills and valleys bordering the coastline.
+
+Further afield, the south Wairarapa has become one of New Zealand's wine growing regions.
+
+===South Island===
+[http://www.bluebridge.co.nz Bluebridge] and the [http://www.interislander.co.nz Interislander] ferry companies sail across Cook Strait to [[Picton (New Zealand)|Picton]] in the [[South Island]] through the [[Marlborough Sounds]]. The ferries take bikes, cars, buses and trains and the scenery on a good day is spectacular. The ferries are substantial ships designed for the sometimes rough conditions and the journey takes 3-3.5 hours.
+
+[http://soundsair.com/ Sounds Air] provides flights to Blenheim, Picton and Nelson.
+
+=== Chatham Islands ===
+Air Chathams operates flights from Wellington Airport to the [[Chatham Islands|Chatham islands]].{{usablecity}}
+{{geo|-41.288889|174.777222|zoom=14}}
+{{IsPartOf|Greater Wellington}}
+{{related|Driving_in_New_Zealand}}
