@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getDestination } from "@/lib/api";
 import { CoordinateStamp } from "@/components/CoordinateStamp";
+import Image from "next/image";
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -14,6 +15,10 @@ export default async function DestinationPage({ params }: PageProps) {
   if (!destination) {
     notFound();
   }
+  
+  const primaryImage = destination.images.find(
+    (image) => image.is_primary
+  );
 
   return (
     <main className="mx-auto max-w-2xl px-6 py-16">
@@ -33,6 +38,25 @@ export default async function DestinationPage({ params }: PageProps) {
           <CoordinateStamp latitude={destination.latitude} longitude={destination.longitude} />
         </div>
       </header>
+
+      {primaryImage && (
+        <figure className="mb-10">
+          <Image
+            src={primaryImage.url}
+            alt={primaryImage.alt_text ?? destination.name}
+            width={1200}
+            height={675}
+            className="h-72 w-full object-cover sm:h-96"
+            priority
+          />
+
+          {primaryImage.attribution && (
+            <figcaption className="mt-2 text-right font-data text-[10px] text-mist">
+              {primaryImage.attribution}
+            </figcaption>
+          )}
+        </figure>
+      )}
 
       {destination.tags.length > 0 && (
         <div className="mb-8 flex flex-wrap gap-1.5">

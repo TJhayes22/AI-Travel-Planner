@@ -9,7 +9,7 @@ from sqlalchemy.orm import selectinload
 
 from app.db.session import get_db
 from app.models.destination import Destination
-from app.schemas.destination_schemas import DestinationDetail, DestinationSummary, ListingSummary
+from app.schemas.destination_schemas import DestinationDetail, DestinationSummary, DestinationImageSummary, ListingSummary
 
 router = APIRouter()
 
@@ -58,6 +58,7 @@ async def get_destination(slug: str, db: AsyncSession = Depends(get_db)) -> Dest
         .options(
             selectinload(Destination.tags),
             selectinload(Destination.listings),
+            selectinload(Destination.images)
         )
         .where(Destination.slug == slug, Destination.status == "published")
     )
@@ -82,4 +83,17 @@ async def get_destination(slug: str, db: AsyncSession = Depends(get_db)) -> Dest
         longitude=destination.longitude,
         tags=[tag.name for tag in destination.tags],
         listings=[ListingSummary.model_validate(listing) for listing in destination.listings],
+        images=[
+            DestinationImageSummary(
+                id=image.id,
+                url=image.s3_key,
+                alt_text=image.alt_text,
+                source_url=image.source_url,
+                source_name=image.source_name,
+                attribution=image.attribution,
+                is_primary=image.is_primary,
+                sort_order=image.sort_order,
+            )
+            for image in destination.images
+        ],
     )

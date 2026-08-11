@@ -17,10 +17,7 @@ if TYPE_CHECKING:
 
 
 class RawScrape(Base):
-    """Raw scraped data from external sources."""
-
     __tablename__ = "raw_scrapes"
-
     __table_args__ = (
         CheckConstraint(
             "status IN ('fetched', 'parsed', 'enriched', 'published', 'failed')",
@@ -47,17 +44,13 @@ class RawScrape(Base):
         TIMESTAMP(timezone=True), server_default="now()", nullable=False
     )
 
-    # Relationships
     destinations: Mapped[list["Destination"]] = relationship(
         "Destination", back_populates="raw_scrape"
     )
 
 
 class Destination(Base):
-    """Travel destination with metadata and embeddings."""
-
     __tablename__ = "destinations"
-
     __table_args__ = (
         CheckConstraint(
             "status IN ('draft', 'enriched', 'published', 'archived')",
@@ -97,9 +90,7 @@ class Destination(Base):
     embedding_updated_at: Mapped[datetime | None] = mapped_column(
         TIMESTAMP(timezone=True), nullable=True
     )
-    search_vector: Mapped[str | None] = mapped_column(
-        TSVECTOR, nullable=True
-    )  # Trigger-maintained, do not set manually
+    search_vector: Mapped[str | None] = mapped_column(TSVECTOR, nullable=True)
     created_at: Mapped[datetime] = mapped_column(
         TIMESTAMP(timezone=True), server_default="now()", nullable=False
     )
@@ -107,14 +98,11 @@ class Destination(Base):
         TIMESTAMP(timezone=True), server_default="now()", nullable=False
     )
 
-    # Relationships
     raw_scrape: Mapped[RawScrape | None] = relationship(
         "RawScrape", back_populates="destinations", foreign_keys=[raw_scrape_id]
     )
     tags: Mapped[list["Tag"]] = relationship(
-        "Tag",
-        secondary="destination_tags",
-        back_populates="destinations",
+        "Tag", secondary="destination_tags", back_populates="destinations"
     )
     images: Mapped[list["DestinationImage"]] = relationship(
         "DestinationImage", back_populates="destination", cascade="all, delete-orphan"
@@ -125,10 +113,7 @@ class Destination(Base):
 
 
 class DestinationImage(Base):
-    """Images associated with destinations."""
-
     __tablename__ = "destination_images"
-
     __table_args__ = (
         Index("idx_destination_images_destination_id", "destination_id"),
         Index(
@@ -147,6 +132,9 @@ class DestinationImage(Base):
     )
     s3_key: Mapped[str] = mapped_column(Text, nullable=False)
     alt_text: Mapped[str | None] = mapped_column(Text, nullable=True)
+    source_url: Mapped[str | None] = mapped_column(Text, nullable=True)
+    source_name: Mapped[str | None] = mapped_column(Text, nullable=True)
+    attribution: Mapped[str | None] = mapped_column(Text, nullable=True)
     is_primary: Mapped[bool] = mapped_column(server_default="false", nullable=False, default=False)
     sort_order: Mapped[int] = mapped_column(
         SmallInteger, server_default="0", nullable=False, default=0
@@ -155,11 +143,9 @@ class DestinationImage(Base):
         TIMESTAMP(timezone=True), server_default="now()", nullable=False
     )
 
-    # Relationships
     destination: Mapped[Destination] = relationship(
         "Destination", back_populates="images", foreign_keys=[destination_id]
     )
 
 
-# Import Tag after Destination to avoid circular imports
 from app.models.tag import Tag  # noqa: E402

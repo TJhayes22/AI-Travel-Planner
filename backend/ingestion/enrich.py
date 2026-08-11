@@ -358,6 +358,8 @@ async def call_llm_openai(
     from openai import AsyncOpenAI
 
     settings = get_settings()
+    if not settings.openai_api_key:
+        raise EnrichmentError("OPENAI_API_KEY is not set")
 
     client = AsyncOpenAI(
         api_key=settings.openai_api_key

@@ -20,6 +20,16 @@ class ListingSummary(BaseModel):
 
     model_config = {"from_attributes": True}
 
+class DestinationImageSummary(BaseModel):
+    id: UUID
+    url: str
+    alt_text: str | None
+    source_url: str | None
+    source_name: str | None
+    attribution: str | None
+    is_primary: bool
+    sort_order: int
+
 
 class DestinationSummary(BaseModel):
     """Lighter-weight shape for list views (e.g. featured destinations on the
@@ -54,5 +64,6 @@ class DestinationDetail(BaseModel):
     longitude: float | None
     tags: list[str]
     listings: list[ListingSummary]
+    images: list[DestinationImageSummary]
 
     model_config = {"from_attributes": True}
